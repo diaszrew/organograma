@@ -46,13 +46,13 @@ async function listarColaboradoresFeedz() {
 
     // --- Mapeia os dados ---
     const dados = colaboradores.map((c) => ({
-      id: c.id || c.employeeId || null, // Identificador único
-      nome: c.full_name || c.name,
+      id: c.id || c.employeeId || null,
+      nome: c.name || c.full_name, // prioriza 'name'
       email: c.email || null,
       cpf:
-        c.cpf?.replace(/\D/g, "") || // remove pontuação
+        c.cpf?.replace(/\D/g, "") ||
         (c.document?.replace(/\D/g, "") || null),
-      cargo: c.job_description?.title ?? null,
+      cargo: c.description || c.job_title || c.job_description?.title || null, // <-- Alterado aqui
       departamento:
         (typeof c.department === "string" && c.department) ||
         c.department_data?.name ||
