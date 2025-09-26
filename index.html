@@ -12,225 +12,90 @@
   <!-- html2canvas e jsPDF são carregados dinamicamente (lazy) para otimização -->
   <!-- ====== ESTILOS ====== -->
   <style>
-    :root{
-      --brand-900: #003b73;
-      --brand-700: #0077C8;
-      --brand-500: #00AEEF;
-      --accent: #f59e42;
-      --muted: #6b7280;
-      --card-bg: rgba(255,255,255,0.9);
-      --glass: rgba(255,255,255,0.6);
-      --glass-2: rgba(255,255,255,0.85);
-      --shadow-soft: 0 8px 24px rgba(15,23,42,0.08);
-      --shadow-strong: 0 10px 40px rgba(2,6,23,0.18);
-      font-synthesis: none;
-    }
+    body { font-family: 'Poppins', sans-serif; color: #1A1A1A; }
 
-    html,body{
-      height:100%;
-    }
-
-    body {
-      font-family: 'Poppins', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-      color: #0f172a;
-      background:
-        radial-gradient(1200px 500px at 10% 10%, rgba(0,170,238,0.06), transparent 12%),
-        linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
-      -webkit-font-smoothing:antialiased;
-      -moz-osx-font-smoothing:grayscale;
-      margin:0;
-      -webkit-tap-highlight-color: transparent;
-    }
-
-    /* HEADER */
     .hero-bg {
-      position: relative;
-      padding: 4.25rem 0;
-      overflow: hidden;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      color: #fff;
-      background: linear-gradient(135deg, rgba(0,119,200,0.94), rgba(0,174,239,0.94));
-      box-shadow: var(--shadow-strong);
-    }
-    .hero-bg::after{
-      /* soft decorative wave */
-      content: "";
-      position: absolute;
-      left: 0; right: 0; bottom: -2px;
-      height: 70px;
-      background: radial-gradient(600px 70px at 50% 0%, rgba(255,255,255,0.06), transparent 30%);
-      transform: skewY(-2deg);
-      pointer-events:none;
-    }
-    header h1{
-      font-size: clamp(1.6rem, 3.6vw, 2.4rem);
-      letter-spacing: -0.02em;
-      margin:0;
-    }
-    header h1 .brand {
-      color: var(--brand-500);
-      text-shadow: 0 6px 18px rgba(0,0,0,0.12);
-    }
-    header p {
-      margin-top: 0.5rem;
-      opacity: 0.95;
-      font-weight: 500;
+      background: linear-gradient(135deg, rgba(0,119,200,0.9), rgba(0,174,239,0.9)),
+                  url('background.webp');
+      background-size: cover; background-position: center;
     }
 
-    /* page container */
-    .page {
-      max-width: 1200px;
-      margin: -48px auto 48px; /* lift main under header for card overlap */
-      padding: 0 20px;
-    }
-
-    /* Filters card */
-    .filters-card {
-      background: linear-gradient(180deg, var(--card-bg), var(--glass-2));
-      border-radius: 14px;
-      padding: 18px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 14px;
-      align-items: flex-end;
-      box-shadow: var(--shadow-soft);
-      border: 1px solid rgba(45,55,72,0.04);
-      backdrop-filter: blur(6px);
-    }
-
-    .filters-card > .group {
-      display:flex;
-      flex-direction:column;
-      gap:6px;
-    }
-
-    label { font-size: 0.8rem; color: var(--muted); font-weight:600; }
-
-    input[type="text"], select {
-      min-width: 220px;
-      width: 100%;
-      padding: 10px 12px;
-      border-radius: 10px;
-      border: 1px solid rgba(15,23,42,0.06);
-      background: rgba(255,255,255,0.98);
-      transition: box-shadow .15s, border-color .15s, transform .06s;
-      box-shadow: 0 1px 0 rgba(2,6,23,0.02);
-      font-size: 0.95rem;
-      outline: none;
-    }
-    input[type="text"]:focus, select:focus {
-      border-color: var(--brand-700);
-      box-shadow: 0 6px 22px rgba(3,105,161,0.08);
-      transform: translateY(-1px);
-    }
-
-    /* Buttons */
-    .btn {
-      display: inline-flex;
-      align-items:center;
-      gap:8px;
-      padding: 10px 14px;
-      border-radius: 10px;
-      font-weight:600;
-      cursor:pointer;
-      border: none;
-      transition: transform .12s ease, box-shadow .12s ease, opacity .12s;
-      box-shadow: 0 6px 18px rgba(2,6,23,0.06);
-    }
-    .btn:active{ transform: translateY(1px) scale(.995); }
-    .btn:disabled{ opacity: .6; cursor: not-allowed; transform:none; box-shadow:none; }
-
-    .btn-primary { background: linear-gradient(180deg,var(--brand-500),var(--brand-700)); color: #fff; }
-    .btn-accent { background: linear-gradient(180deg,#ffb86b,#f59e42); color:#082032; }
-    .btn-ghost { background: rgba(255,255,255,0.6); color: #0f172a; border:1px solid rgba(15,23,42,0.04); }
-
-    /* Export dropdown */
-    #cameraDropdown {
-      border-radius: 12px;
-      padding: 12px;
-      min-width: 16rem;
-      background: white;
-      box-shadow: 0 18px 40px rgba(2,6,23,0.12);
-      border: 1px solid rgba(2,6,23,0.06);
-    }
-    #cameraDropdown .block { padding: 8px 10px; border-radius:8px; cursor:pointer; }
-    #cameraDropdown .block:hover { background: #f8fbff; }
-
-    /* zoom buttons group */
-    .zoom-group { display:flex; gap:8px; align-items:center; }
-
-    /* ORGANOGRAM container (kept ID/class names for script compatibility) */
     .org-container {
       position: relative;
-      border-radius: 14px;
-      padding: 18px;
-      min-width: 420px;
-      min-height: 420px;
-      max-width: 100%;
-      max-height: 72vh;
+      border: 2px solid #ccc;
+      border-radius: 12px;
+      background: white;
+      padding: 10px;
+      min-width: 400px;
+      min-height: 300px;
+      max-width: 95vw;
+      max-height: 80vh;
       resize: both;
       overflow: auto;
-      background: linear-gradient(180deg, rgba(255,255,255,0.8), rgba(250,250,252,0.95));
-      border: 1px solid rgba(2,6,23,0.04);
-      box-shadow: 0 12px 30px rgba(2,6,23,0.06);
-      transition: box-shadow .18s, transform .08s;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     }
-    .org-container:hover { box-shadow: var(--shadow-strong); transform: translateY(-2px); }
 
     .org-container::after {
-      /* small resizer hint, kept for visual */
       content: "";
       position: absolute;
-      right: 10px;
-      bottom: 10px;
-      width: 18px;
-      height: 18px;
-      background:
-        linear-gradient(135deg, transparent 50%, rgba(15,23,42,0.06) 50%),
-        linear-gradient(45deg, transparent 50%, rgba(15,23,42,0.06) 50%);
+      right: 6px;
+      bottom: 6px;
+      width: 16px;
+      height: 16px;
+      background: 
+        linear-gradient(135deg, transparent 50%, #aaa 50%),
+        linear-gradient(45deg, transparent 50%, #aaa 50%);
       background-size: 8px 8px;
-      opacity: 0.9;
+      opacity: 0.6;
       pointer-events: none;
-      border-radius: 3px;
     }
 
     #chart { width: 100%; height: 100%; }
 
-    /* SVG node styles preserved but modernized colors */
-    .node-box { stroke: rgba(3,105,161,0.9); stroke-width: 1.5px; rx: 10px; transition: stroke .2s, stroke-width .2s, filter .2s; }
-    .node-box.highlight { stroke: var(--accent); stroke-width: 4px; filter: drop-shadow(0 6px 18px rgba(245,158,66,0.22)); }
-    .node-name { font-size: 13px; font-weight: 700; pointer-events: none; fill: var(--brand-900); }
-    .node-title { font-size: 12px; fill: var(--brand-700); pointer-events: none; opacity:0.95; }
+    .node-box { stroke: #3182bd; stroke-width: 1.5px; rx: 8px; transition: stroke .2s, stroke-width .2s; }
+    .node-box.highlight { stroke: #f59e42; stroke-width: 4px; }
+    .node-name { font-size: 13px; font-weight: bold; pointer-events: none; fill: #003B73; }
+    .node-title { font-size: 11px; fill: #0077C8; pointer-events: none; }
 
-    /* Autocomplete */
     .autocomplete-list {
-      position: absolute; z-index: 60; background: white; border: 1px solid rgba(2,6,23,0.06);
-      border-radius: 10px; max-height: 220px; overflow-y: auto; width: 100%;
-      box-shadow: 0 10px 30px rgba(2,6,23,0.06);
+      position: absolute; z-index: 50; background: white; border: 1px solid #d1d5db;
+      border-radius: 0.375rem; max-height: 200px; overflow-y: auto; width: 100%;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
     }
-    .autocomplete-item { padding: 10px 12px; cursor: pointer; display:flex; align-items:center; gap:8px; }
-    .autocomplete-item:hover { background: #f0f7ff; transform: translateX(2px); }
+    .autocomplete-item { padding: 0.5rem 1rem; cursor: pointer; }
+    .autocomplete-item:hover { background: #e0e7ff; }
+
+    .zoom-controls button {
+      background: #2563eb;
+      border: none;
+      color: white;
+      padding: 6px;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s;
+    }
+    .zoom-controls button:hover { background: #1d4ed8; }
+    .zoom-controls svg { width: 20px; height: 20px; stroke: white; }
 
     /* Spinner / processing overlay */
     .processing-overlay {
       position: fixed;
       left: 0; top: 0; width: 100%; height: 100%;
       display: flex; align-items: center; justify-content: center;
-      background: linear-gradient(180deg, rgba(2,6,23,0.45), rgba(2,6,23,0.5));
+      background: rgba(0,0,0,0.45);
       z-index: 12000;
       color: #fff;
       flex-direction: column;
-      gap:8px;
     }
-    .processing-overlay .spinner {
-      width: 64px; height: 64px; border-radius: 50%;
-      border: 6px solid rgba(255,255,255,0.14);
-      border-top-color: #ffffff;
+    .spinner {
+      width: 56px; height: 56px; border-radius: 50%;
+      border: 6px solid rgba(255,255,255,0.15);
+      border-top-color: #fff;
       animation: spin 1s linear infinite;
-      box-shadow: 0 8px 30px rgba(0,0,0,0.35);
+      margin-bottom: 12px;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
 
@@ -243,9 +108,8 @@
       z-index: 10001;
       color: #fff;
       background: rgba(0,0,0,0.5);
-      padding: 8px 12px;
-      border-radius: 10px;
-      font-weight:600;
+      padding: 6px 10px;
+      border-radius: 6px;
     }
     .crop-cancel-btn {
       position: fixed;
@@ -255,21 +119,10 @@
       background: rgba(255,255,255,0.12);
       color: #fff;
       border: 1px solid rgba(255,255,255,0.15);
-      padding: 8px 12px;
-      border-radius: 10px;
+      padding: 6px 10px;
+      border-radius: 6px;
       cursor: pointer;
-      font-weight: 600;
     }
-
-    /* modal */
-    #exportModal .bg-white {
-      border-radius: 12px;
-      padding: 20px;
-      width: min(92%, 420px);
-      box-shadow: 0 20px 50px rgba(2,6,23,0.18);
-    }
-    #exportModal h3 { font-size: 1.05rem; margin:0; color: #071238; }
-    #exportModal p { color: var(--muted); margin-top:8px; }
 
     .modal-bottom {
       margin-top: 12px;
@@ -279,124 +132,99 @@
       align-items: center;
     }
 
-    /* responsive tweaks */
-    @media (max-width: 980px){
-      .filters-card { gap:10px; padding:14px; }
-      .page { margin-top: -34px; }
-      input[type="text"], select { min-width: 160px; }
-    }
-    @media (max-width: 640px){
-      .filters-card { flex-direction: column; align-items: stretch; }
-      .filters-card > .group { width: 100%; }
-      .zoom-group { justify-content: flex-end; width:100%; }
-      .org-container { min-height: 55vh; }
-    }
+    @media (max-width: 900px) { #chart { min-height: 55vh; } }
   </style>
 </head>
 
-<body>
+<body class="bg-gray-100 text-gray-800">
 
   <!-- ====== HEADER ====== -->
-  <header class="hero-bg">
-    <div style="max-width:1200px;padding:0 20px;width:100%;margin:0 auto;">
-      <h1 class="font-extrabold">
-        Organograma <span class="brand">Engemon</span>
-      </h1>
-      <p class="mt-3 text-base">Visualize e exporte a estrutura organizacional de forma clara e moderna</p>
-    </div>
+  <header class="hero-bg py-12 shadow-lg text-center text-white">
+    <h1 class="text-5xl font-extrabold drop-shadow-md">
+      Organograma <span style="color:#00AEEF">Engemon</span>
+    </h1>
+    <p class="mt-3 text-lg font-medium">Estrutura organizacional da Engemon</p>
   </header>
 
-  <!-- page wrapper (centers content, creates overlap card effect) -->
-  <div class="page">
-    <!-- ====== MAIN: FILTROS + CHART ====== -->
-    <main class="space-y-6">
+  <!-- ====== MAIN: FILTROS + CHART ====== -->
+  <main class="p-6 space-y-6">
 
-      <!-- ==== FILTROS ==== -->
-      <div class="filters-card">
-        <!-- Departamento -->
-        <div class="group" style="min-width:220px;">
-          <label for="departamento">Departamento</label>
-          <div id="departamento-container" class="relative" style="width:100%;">
-            <input id="departamento" autocomplete="off" type="text"
-              class="border rounded-lg px-3 py-2 w-full focus:ring-2 focus:ring-blue-400 outline-none"
-              placeholder="Filtrar departamento..." />
-            <div id="departamento-list" class="autocomplete-list hidden"></div>
+    <!-- ==== FILTROS ==== -->
+    <div class="flex flex-wrap items-end gap-4 bg-white p-4 rounded-lg shadow">
+      <!-- Departamento -->
+      <div class="flex flex-col">
+        <label for="departamento" class="font-semibold text-sm mb-1">Departamento:</label>
+        <div id="departamento-container" class="relative w-56">
+          <input id="departamento" autocomplete="off" type="text"
+            class="border rounded-lg px-3 py-2 w-full focus:ring-2 focus:ring-blue-400 outline-none"
+            placeholder="Filtrar departamento..." />
+          <div id="departamento-list" class="autocomplete-list hidden"></div>
+        </div>
+      </div>
+      <button id="btnFiltrar" class="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-lg shadow transition">Filtrar</button>
+
+      <!-- Colaborador -->
+      <div class="flex flex-col">
+        <label for="buscaColaborador" class="font-semibold text-sm mb-1">Colaborador:</label>
+        <div id="colaborador-container" class="relative w-56">
+          <input id="buscaColaborador" autocomplete="off" type="text"
+            placeholder="Buscar colaborador..."
+            class="border rounded-lg px-3 py-2 w-full focus:ring-2 focus:ring-blue-400 outline-none" />
+          <div id="colaborador-list" class="autocomplete-list hidden"></div>
+        </div>
+      </div>
+      <button id="btnIrColaborador" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg shadow transition">Ir para colaborador</button>
+
+      <!-- Botão de Exportação (com opções adicionais) -->
+      <div class="relative inline-block">
+        <button id="btnCamera"
+          class="bg-gray-700 hover:bg-gray-800 text-white px-4 py-2 rounded-lg shadow flex items-center gap-2">
+          📸 Exportar
+        </button>
+
+        <!-- dropdown ampliado: adicionamos background + quality selectors -->
+        <div id="cameraDropdown"
+          class="absolute hidden mt-2 w-64 bg-white border rounded-lg shadow-lg z-50 p-2">
+          <div class="mb-2">
+            <button id="exportVisible" class="block w-full px-3 py-2 text-left hover:bg-gray-100 rounded">Exportar área visível</button>
+            <button id="exportCrop" class="block w-full px-3 py-2 text-left hover:bg-gray-100 rounded mt-1">Selecionar recorte</button>
           </div>
-        </div>
 
-        <div style="display:flex;align-items:flex-end;">
-          <button id="btnFiltrar" class="btn btn-primary" title="Filtrar departamento">Filtrar</button>
-        </div>
-
-        <!-- Colaborador -->
-        <div class="group" style="min-width:220px;">
-          <label for="buscaColaborador">Colaborador</label>
-          <div id="colaborador-container" class="relative" style="width:100%;">
-            <input id="buscaColaborador" autocomplete="off" type="text"
-              placeholder="Buscar colaborador..."
-              class="border rounded-lg px-3 py-2 w-full focus:ring-2 focus:ring-blue-400 outline-none" />
-            <div id="colaborador-list" class="autocomplete-list hidden"></div>
+          <div class="border-t pt-2 mt-2">
+            <label class="block text-xs font-medium mb-1">Background</label>
+            <select id="exportBackground" class="w-full border rounded px-2 py-1">
+              <option value="white">Branco</option>
+              <option value="transparent">Transparente</option>
+              <option value="brand">Azul Engemon</option>
+            </select>
           </div>
-        </div>
 
-        <div style="display:flex;align-items:flex-end;">
-          <button id="btnIrColaborador" class="btn btn-ghost" title="Ir para colaborador">Ir</button>
-        </div>
-
-        <!-- Botão de Exportação (com opções adicionais) -->
-        <div style="position:relative;">
-          <button id="btnCamera" class="btn btn-ghost" aria-haspopup="true" aria-expanded="false">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0f172a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="margin-right:6px;">
-              <rect x="3" y="7" width="18" height="14" rx="3" ry="3"></rect>
-              <circle cx="12" cy="14" r="3"></circle>
-            </svg>
-            Exportar
-          </button>
-
-          <!-- dropdown ampliado: adicionamos background + quality selectors -->
-          <div id="cameraDropdown" class="absolute hidden mt-2 w-64 bg-white border rounded-lg shadow-lg z-50 p-2">
-            <div class="mb-2">
-              <button id="exportVisible" class="block w-full px-3 py-2 text-left hover:bg-gray-100 rounded">Exportar área visível</button>
-              <button id="exportCrop" class="block w-full px-3 py-2 text-left hover:bg-gray-100 rounded mt-1">Selecionar recorte</button>
-            </div>
-
-            <div class="border-t pt-2 mt-2">
-              <label class="block text-xs font-medium mb-1">Background</label>
-              <select id="exportBackground" class="w-full border rounded px-2 py-1">
-                <option value="white">Branco</option>
-                <option value="transparent">Transparente</option>
-                <option value="brand">Azul Engemon</option>
-              </select>
-            </div>
-
-            <div class="border-t pt-2 mt-2">
-              <label class="block text-xs font-medium mb-1">Qualidade (DPI)</label>
-              <select id="exportScale" class="w-full border rounded px-2 py-1">
-                <option value="1">1x (padrão)</option>
-                <option value="2">2x (melhor)</option>
-                <option value="3">3x (alta)</option>
-              </select>
-            </div>
+          <div class="border-t pt-2 mt-2">
+            <label class="block text-xs font-medium mb-1">Qualidade (DPI)</label>
+            <select id="exportScale" class="w-full border rounded px-2 py-1">
+              <option value="1">1x (padrão)</option>
+              <option value="2">2x (melhor)</option>
+              <option value="3">3x (alta)</option>
+            </select>
           </div>
-        </div>
-
-        <div class="zoom-group ml-auto" style="margin-left:auto;">
-          <button id="zoomIn" title="Aumentar zoom" class="btn btn-primary">+</button>
-          <button id="zoomOut" title="Diminuir zoom" class="btn btn-primary">−</button>
-          <button id="resetZoom" title="Resetar zoom" class="btn btn-ghost">⟳</button>
         </div>
       </div>
 
-      <!-- ==== ÁREA DO ORGANOGRAMA ==== -->
-      <div id="orgWrapper" class="relative inline-block w-full">
-        <!-- Container com organograma -->
-        <div id="orgContainer" class="org-container p-4">
-          <div id="chart"></div>
-        </div>
+      <div class="flex items-center gap-2 ml-auto">
+        <button id="zoomIn" title="Aumentar zoom" class="bg-blue-600 hover:bg-blue-700 text-white p-2 rounded-lg shadow">+</button>
+        <button id="zoomOut" title="Diminuir zoom" class="bg-blue-600 hover:bg-blue-700 text-white p-2 rounded-lg shadow">–</button>
+        <button id="resetZoom" title="Resetar zoom" class="bg-gray-600 hover:bg-gray-700 text-white p-2 rounded-lg shadow">⟳</button>
       </div>
+    </div>
 
-    </main>
-  </div>
+    <!-- ==== ÁREA DO ORGANOGRAMA ==== -->
+    <div id="orgWrapper" class="relative inline-block w-full">
+      <!-- Container com organograma -->
+      <div id="orgContainer" class="org-container p-4">
+        <div id="chart"></div>
+      </div>
+    </div>
+  </main>
 
   <!-- ====== MODAL/POPUP de exportação ====== -->
   <div id="exportModal"
@@ -615,7 +443,7 @@
       node.append("rect")
         .attr("class", d => (highlightName && normalize(d.data.name)===normalize(highlightName)) ? "node-box highlight" : "node-box")
         .attr("width", BOX_W).attr("height", BOX_H)
-        .style("fill", d=> d.children?.length ? "#eaf6ff" : "#fff");
+        .style("fill", d=> d.children?.length ? "#e3f2fd" : "#fff");
 
       node.append("text")
         .attr("class","node-name")
