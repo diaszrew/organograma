@@ -52,6 +52,7 @@
 
     #chart { width: 100%; height: 100%; }
 
+    /* Preserve organograma visual classes - NÃO ALTERAR (mantido como estava) */
     .node-box { stroke: #3182bd; stroke-width: 1.5px; rx: 8px; transition: stroke .2s, stroke-width .2s; }
     .node-box.highlight { stroke: #f59e42; stroke-width: 4px; }
     .node-name { font-size: 13px; font-weight: bold; pointer-events: none; fill: #003B73; }
@@ -133,6 +134,136 @@
     }
 
     @media (max-width: 900px) { #chart { min-height: 55vh; } }
+
+    /* ===========================
+       FOOTER: updated to be darker and higher contrast (uses header base color)
+       Only footer/CSS/HTML modified — organograma intacto.
+       =========================== */
+
+    :root{
+      --mf-primary: #0077C8; /* header base color */
+      --mf-secondary: #00AEEF;
+      --mf-dark-1: #053a57; /* deep blue for strong contrast */
+      --mf-dark-2: #0a4f78;
+      --mf-accent1: #39b0ff;
+      --mf-text-light: #ffffff;
+      --mf-muted: #c9d7e6;
+      --mf-gap: 14px;
+      --mf-transition: 200ms cubic-bezier(.2,.9,.3,1);
+    }
+
+    .modern-footer{
+      width:100%;
+      padding:28px;
+      /* darker gradient for visibility on white pages */
+      background: linear-gradient(180deg, var(--mf-dark-1), var(--mf-dark-2));
+      color: var(--mf-text-light);
+      border-top: 1px solid rgba(255,255,255,0.06);
+      backdrop-filter: blur(6px) saturate(1.05);
+      box-shadow: 0 -8px 36px rgba(3,37,76,0.08);
+      margin-top: 22px;
+      border-radius: 10px;
+      max-width: calc(100% - 32px);
+      margin-left: 16px;
+      margin-right: 16px;
+    }
+
+    .footer-inner{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:var(--mf-gap);
+      max-width:1100px;
+      margin:0 auto 14px auto;
+      padding:8px;
+      flex-wrap:wrap;
+    }
+
+    .brand{
+      display:flex;
+      gap:12px;
+      align-items:center;
+      color: var(--mf-text-light);
+    }
+    .brand .logo{
+      border-radius:8px;
+      box-shadow: 0 8px 28px rgba(3,37,76,0.18);
+      background: linear-gradient(135deg,var(--mf-primary),var(--mf-secondary));
+      display:flex; align-items:center; justify-content:center;
+      width:44px; height:44px;
+    }
+    .site-name{font-weight:700; font-size:1rem; color:var(--mf-text-light)}
+    .site-tag{font-size:0.85rem; color:var(--mf-muted)}
+
+    .actions{
+      display:flex;
+      gap:12px;
+      align-items:center;
+      margin-left:auto;
+    }
+
+    /* action buttons: more contrast, text white, clearer focus */
+    .action{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      padding:10px 14px;
+      border-radius:12px;
+      text-decoration:none;
+      color:var(--mf-text-light);
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.06);
+      transition: transform var(--mf-transition), box-shadow var(--mf-transition), background var(--mf-transition);
+      box-shadow: 0 8px 26px rgba(3,37,76,0.12);
+      min-width:210px;
+      align-self:center;
+      backdrop-filter: blur(4px);
+    }
+    .action .icon{display:inline-flex; align-items:center; justify-content:center; color:var(--mf-accent1)}
+    .action .label{display:flex; flex-direction:column; text-align:left}
+    .action .label .hint{font-size:0.75rem; color:var(--mf-muted); margin-top:2px}
+
+    .action.feedback{
+      background: linear-gradient(90deg, rgba(0,119,200,0.14), rgba(0,174,239,0.06));
+      border: 1px solid rgba(0,119,200,0.16);
+    }
+    .action.bug{
+      background: linear-gradient(90deg, rgba(255,90,90,0.10), rgba(255,140,60,0.04));
+      border: 1px solid rgba(255,90,90,0.12);
+      color: #ffffff;
+    }
+    .action:focus,
+    .action:hover{
+      transform: translateY(-6px);
+      box-shadow: 0 22px 48px rgba(2,6,23,0.16);
+      background: rgba(255,255,255,0.06);
+    }
+    .action:active{ transform: translateY(-2px) }
+
+    .meta{
+      max-width:1100px;
+      margin:0 auto;
+      display:flex;
+      justify-content:space-between;
+      gap:12px;
+      align-items:center;
+      color:var(--mf-muted);
+      font-size:0.85rem;
+      padding:0 8px 8px 8px;
+    }
+    .meta .smallprint{opacity:0.95}
+
+    /* make footer links and icons accessible on dark bg */
+    .modern-footer a { color: inherit; outline-offset: 3px; }
+    .modern-footer a:focus { box-shadow: 0 0 0 3px rgba(0,174,239,0.18); border-radius: 8px; }
+
+    @media (max-width:720px){
+      .footer-inner{flex-direction:column; align-items:flex-start}
+      .actions{width:100%; justify-content:space-between}
+      .action{min-width:48%; padding:12px; font-size:0.94rem}
+      .meta{flex-direction:column; align-items:flex-start; gap:6px; padding-top:10px}
+    }
+
   </style>
 </head>
 
@@ -225,6 +356,78 @@
       </div>
     </div>
   </main>
+
+  <!-- ====== RODAPÉ INSERIDO (ajustado: mais contraste, textos e mailto atualizados) ====== -->
+  <footer class="modern-footer" role="contentinfo" aria-label="Rodapé Engemon Organograma">
+    <div class="footer-inner">
+      <div class="brand" aria-hidden="true">
+        <div class="logo" aria-hidden="true">
+          <!-- decorative logo: letter E -->
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <rect x="0" y="0" width="24" height="24" rx="5" fill="url(#lg)"/>
+            <defs>
+              <linearGradient id="lg" x1="0" x2="1">
+                <stop offset="0" stop-color="#0077C8"/>
+                <stop offset="1" stop-color="#00AEEF"/>
+              </linearGradient>
+            </defs>
+          </svg>
+        </div>
+        <div>
+          <div class="site-name">Engemon Organograma</div>
+          <div class="site-tag">Design moderno • Acessível</div>
+        </div>
+      </div>
+
+      <div class="actions" aria-label="Ações de contato">
+        <!-- Link de Feedback -->
+        <a class="action feedback"
+           href="mailto:gabriel.pereira@engemon.com.br?subject=Feedback%20-%20Organograma%20Engemon&body=Ol%C3%A1%20equipe%20Engemon%2C%0A%0AEstou%20enviando%20este%20feedback%20sobre%20o%20Organograma%20Engemon.%0A%0AP%C3%A1gina%2FSe%C3%A7%C3%A3o%3A%20%0ASugest%C3%A3o%2FComent%C3%A1rio%3A%20%0AImpacto%20esperado%3A%20%0A%0APassos%20(opcional)%3A%0A1)%20%0A2)%20%0A%0AObserva%C3%A7%C3%B5es%3A%20%0A%0AObrigado%2C%0A%5BSeu%20nome%5D"
+           aria-label="Enviar feedback por e-mail">
+          <span class="icon" aria-hidden="true">
+            <!-- envelope icon -->
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 7.5v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-9"></path>
+              <polyline points="22,7.5 12,13 2,7.5"></polyline>
+            </svg>
+          </span>
+          <span class="label">
+            Enviar feedback
+            <small class="hint">Sugestões e elogios</small>
+          </span>
+        </a>
+
+        <!-- Link de Reportar Erro -->
+        <a class="action bug"
+           href="mailto:gabriel.pereira@engemon.com.br?subject=Relato%20de%20Erro%20-%20Organograma%20Engemon&body=Ol%C3%A1%20equipe%20Engemon%2C%0A%0AQuero%20reportar%20um%20erro%20encontrado%20no%20Organograma%20Engemon.%0A%0AURL%2FSe%C3%A7%C3%A3o%3A%20%0APassos%20para%20reproduzir%3A%0A1)%20%0A2)%20%0A%0AComportamento%20esperado%3A%20%0AComportamento%20observado%3A%20%0A%0ATempo%20%28data%2Fhora%29%3A%20%0ANavegador%2FSistema%20operacional%3A%20%0A%0AAnexar%20capturas%20de%20tela%20se%20poss%C3%ADvel.%0A%0AObrigado%2C%0A%5BSeu%20nome%5D"
+           aria-label="Reportar erro por e-mail">
+          <span class="icon" aria-hidden="true">
+            <!-- bug icon -->
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20 12h2"></path>
+              <path d="M2 12h2"></path>
+              <path d="M12 2v2"></path>
+              <path d="M12 20v2"></path>
+              <path d="M5 7l1.5 1.5"></path>
+              <path d="M19 7l-1.5 1.5"></path>
+              <path d="M5 17l1.5-1.5"></path>
+              <path d="M19 17l-1.5-1.5"></path>
+              <circle cx="12" cy="12" r="3"></circle>
+            </svg>
+          </span>
+          <span class="label">
+            Reportar erro
+            <small class="hint">Bugs e problemas</small>
+          </span>
+        </a>
+      </div>
+    </div>
+
+    <div class="meta" aria-hidden="true">
+      <span>© <span id="year"></span> Engemon Organograma — Feito com ♥</span>
+      <span class="smallprint">Privacidade • Termos</span>
+    </div>
+  </footer>
 
   <!-- ====== MODAL/POPUP de exportação ====== -->
   <div id="exportModal"
@@ -865,6 +1068,14 @@
 
     // Inicialização
     getColaboradores();
+
+    // set footer year
+    try {
+      const yEl = document.getElementById('year');
+      if (yEl) yEl.textContent = new Date().getFullYear();
+    } catch (e) {
+      console.warn('Could not set footer year:', e);
+    }
   </script>
 </body>
 </html>
