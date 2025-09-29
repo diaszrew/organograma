@@ -2517,7 +2517,7 @@
     "cpf": "683983016",
     "cargo": "SUPERV DE MANUT III",
     "departamento": "FEMSA OPERATION SERVICES",
-    "gestorDireto": "RODRIGO ANTONIO QUEIROZ DA SILVA"
+    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
   },
   {
     "id": 1477921,
@@ -2616,7 +2616,7 @@
     "cpf": "43524062873",
     "cargo": "LIDER MANUTENCAO - 01 00363",
     "departamento": "FEMSA - MARILIA PL/UO - 01 145000110",
-    "gestorDireto": "RODRIGO ANTONIO QUEIROZ DA SILVA"
+    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
   },
   {
     "id": 1478041,
@@ -3146,7 +3146,7 @@
     "email": "victor.coelho@engemon.com.br",
     "cpf": null,
     "cargo": "Analista de Planejamento de Manutenção",
-    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "departamento": "OPERATION SERVICES",
     "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
   },
   {
@@ -3596,7 +3596,7 @@
     "email": "almir.junior@engemon.com.br",
     "cpf": null,
     "cargo": "LIDR D MANUTNÇÃO",
-    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "departamento": "OPERATION SERVICES",
     "gestorDireto": "ROGERIO LUIZ DE SA"
   },
   {
@@ -3632,7 +3632,7 @@
     "email": "natalia.silva@engemon.com.br",
     "cpf": null,
     "cargo": "ASSIST ADM",
-    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "departamento": "OPERATION SERVICES",
     "gestorDireto": "ADRIANA MARQUES"
   },
   {
@@ -3758,7 +3758,7 @@
     "email": "luiza.lima@engemon.com.br",
     "cpf": "85967302573",
     "cargo": "Assistente Adm Jr",
-    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "departamento": "OPERATION SERVICES",
     "gestorDireto": "ADRIANA MARQUES"
   },
   {
@@ -3767,7 +3767,7 @@
     "email": "jhenyfer.silva@engemon.com.br",
     "cpf": null,
     "cargo": "AUX EM DOCUMENTACOES",
-    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "departamento": "OPERATION SERVICES",
     "gestorDireto": "ADRIANA MARQUES"
   },
   {
@@ -4322,7 +4322,7 @@
   {
     "id": 1539773,
     "nome": "RODRIGO ANT QUEIROZ DA SILVA",
-    "email": "RODRIGOQUEIROZ23@HOTMAIL.COM",
+    "email": "rodrigo.queiroz@engemon.com.br",
     "cpf": "8254437769",
     "cargo": "Gerente de Manutenção",
     "departamento": "GESTÃO DE MANUTENÇÃO - SP",
@@ -4820,7 +4820,7 @@
     "email": "alves.andersonaugusto@gmail.com",
     "cpf": "22480601811",
     "cargo": "Assistente Administrativo",
-    "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
+    "departamento": "OPERATION SERVICES",
     "gestorDireto": "ROGERIO LUIZ DE SA"
   },
   {
@@ -6201,15 +6201,6 @@
     "gestorDireto": null
   },
   {
-    "id": 2075142,
-    "nome": "WASHINGTON SOUSA DOS SANTOS",
-    "email": "washingtonsousa@hotmail.com",
-    "cpf": null,
-    "cargo": "COORD DATA CENTER - 01 00227",
-    "departamento": "NEXTSTREAM NDC MANUT 2025 - 01 062000600",
-    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
-  },
-  {
     "id": 2075143,
     "nome": "DANILO DE ALMEIDA RODRIGUES",
     "email": "danilo.rodrigues.7127@gmail.com",
@@ -6413,7 +6404,7 @@
     "email": "alysson.vitor1590@gmail.com",
     "cpf": "48692673811",
     "cargo": "AUX ADM - 01 00171",
-    "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
+    "departamento": "OPERATION SERVICES",
     "gestorDireto": "ROGERIO LUIZ DE SA"
   },
   {
@@ -8808,7 +8799,7 @@
     "cpf": "29608594804",
     "cargo": "ANL PLANEJAMENTO JR - 01 00081",
     "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
-    "gestorDireto": "RODRIGO ANTONIO QUEIROZ DA SILVA"
+    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
   },
   {
     "id": 2286777,
@@ -8871,7 +8862,7 @@
     "cpf": "36659349820",
     "cargo": "ANL ADM JR - 01 00026",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA - 01 173000100",
-    "gestorDireto": "RODRIGO ANTONIO QUEIROZ DA SILVA"
+    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
   },
   {
     "id": 2286786,
@@ -9356,7 +9347,7 @@
     "email": "fernanda.oliveirajosino@gmail.com",
     "cpf": null,
     "cargo": "ASSIST ADM",
-    "departamento": "GESTAO MANUT RJ 2025 - 01 000103316",
+    "departamento": "OPERATION SERVICES",
     "gestorDireto": "JAYME TADEU SALLE"
   },
   {
@@ -14964,7 +14955,7 @@
     "cpf": null,
     "cargo": "SUPERV MANUT",
     "departamento": "FEMSA LPU FLPU 2025 FILIAL",
-    "gestorDireto": "RODRIGO ANTONIO QUEIROZ DA SILVA"
+    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
   },
   {
     "id": 2504131,
@@ -15054,15 +15045,6 @@
     "cpf": null,
     "cargo": "ENG CIVIL",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
-  },
-  {
-    "id": 2504142,
-    "nome": "RODRIGO ANTONIO QUEIROZ DA SILVA",
-    "email": "rodrigo.queiroz@engemon.com.br",
-    "cpf": null,
-    "cargo": "GERENTE DE CONTRATOS",
-    "departamento": "GESTAO DE MANUT COM 2025",
     "gestorDireto": null
   },
   {
