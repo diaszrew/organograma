@@ -9315,15 +9315,6 @@
     "gestorDireto": null
   },
   {
-    "id": 2357832,
-    "nome": "ADRIANO GARCIA",
-    "email": "Logan_garcia@hotmail.com",
-    "cpf": null,
-    "cargo": "ELETRICISTA",
-    "departamento": "OPERATION SERVICES",
-    "gestorDireto": null
-  },
-  {
     "id": 2357833,
     "nome": "CESAR CARLOS GONÇALVES ROCHA",
     "email": "cesar.carlos10@hotmail.com",
@@ -9331,15 +9322,6 @@
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "CIRION - CSL FORTALEZA 1011233 - 01 310000101",
     "gestorDireto": "DEOLINO PEREIRA DA COSTA NETO"
-  },
-  {
-    "id": 2357834,
-    "nome": "GLEIBI PORTO SILVEIRA",
-    "email": "gleibiporto@gmail.com",
-    "cpf": null,
-    "cargo": "ELETROMECANICO",
-    "departamento": "OPERATION SERVICES",
-    "gestorDireto": null
   },
   {
     "id": 2357835,
@@ -14892,15 +14874,6 @@
     "cpf": null,
     "cargo": "ENG PLANEJAMENTO",
     "departamento": "AENA - PICK UP CONGONHAS",
-    "gestorDireto": null
-  },
-  {
-    "id": 2504123,
-    "nome": "GABRIELA PATRIOTA DA SILVA",
-    "email": "gabriela.silva@engemon.com.br",
-    "cpf": null,
-    "cargo": "CONTROLLER",
-    "departamento": "GESTAO DE MANUT COM 2025",
     "gestorDireto": null
   },
   {
