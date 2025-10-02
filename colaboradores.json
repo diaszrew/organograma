@@ -483,7 +483,7 @@
     "cpf": "32786362873",
     "cargo": "DIRETOR DE PRÉ VENDA",
     "departamento": "IT",
-    "gestorDireto": "FABIO CAMARA"
+    "gestorDireto": "ADILSON JOSE JESUS DOS SANTOS"
   },
   {
     "id": 1476663,
@@ -744,7 +744,7 @@
     "cpf": "50412246848",
     "cargo": "Assistente DP",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "BETINA RAQUEL CAVALCANTE SILVA"
   },
   {
     "id": 1476859,
@@ -1345,7 +1345,7 @@
     "nome": "LAISSA SILVA SOUZA",
     "email": "laissa.souza@engemon.com.br",
     "cpf": "49884160899",
-    "cargo": "Arquiteta",
+    "cargo": "Arquiteta de Propostas",
     "departamento": "ORCAMENTOS",
     "gestorDireto": "KARINA CARREIRO"
   },
@@ -1516,7 +1516,7 @@
     "nome": "SILVIO ALEXSANDRO SANCHEZ",
     "email": "silvio.sanchez@engemon.com.br",
     "cpf": "25983634852",
-    "cargo": "Orçamentista",
+    "cargo": "Coordenador de Orçamentos",
     "departamento": "ORCAMENTOS",
     "gestorDireto": "KARINA CARREIRO"
   },
@@ -1552,7 +1552,7 @@
     "nome": "CAROLINA CRAVEIRO PEREIRA DA SILVA",
     "email": "carolina.silva@engemon.com.br",
     "cpf": "39069765802",
-    "cargo": "Orçamentista",
+    "cargo": "Especialista de Orçamentos",
     "departamento": "ORCAMENTOS",
     "gestorDireto": "KARINA CARREIRO"
   },
@@ -1561,7 +1561,7 @@
     "nome": "CRISTIANE APARECIDA DE SOUZA",
     "email": "cristiane.souza@engemon.com.br",
     "cpf": "21313893889",
-    "cargo": "ORCAMENTISTA",
+    "cargo": "Analista de Orçamentos JR",
     "departamento": "ORCAMENTOS",
     "gestorDireto": "KARINA CARREIRO"
   },
@@ -1968,7 +1968,7 @@
     "cpf": "33423918802",
     "cargo": "ANL ADM FINANCEIRO",
     "departamento": "PRESIDENCIA - ROBSON - 01 000100102",
-    "gestorDireto": "ROBSON PORFIRIO DA ROCHA"
+    "gestorDireto": "PRESIDÊNCIA"
   },
   {
     "id": 1477383,
@@ -2035,7 +2035,7 @@
   },
   {
     "id": 1477399,
-    "nome": "NATHALIA VINHA DECO",
+    "nome": "NATHALIA VINHA DECCO",
     "email": "nathalia.decco@engemon.com.br",
     "cpf": "35351164817",
     "cargo": "ANL COMERCIAL PL",
@@ -2589,7 +2589,7 @@
     "cpf": "42619426820",
     "cargo": "Comercial",
     "departamento": "COMERCIAL - 01 000100400",
-    "gestorDireto": "NATHALIA VINHA DECO"
+    "gestorDireto": "NATHALIA VINHA DECCO"
   },
   {
     "id": 1478021,
@@ -3441,7 +3441,7 @@
     "id": 1478469,
     "nome": "Alaf Kennedy Vieira Ramos",
     "email": "alafkennedy@gmail.com",
-    "cpf": null,
+    "cpf": "42285338848",
     "cargo": "TEC MANUT III",
     "departamento": "NEXTSTREAM NDC - MANUT RENOV - 01 062000700",
     "gestorDireto": "WASHINGTON SOUSA DOS SANTOS"
@@ -3561,7 +3561,7 @@
     "cpf": "42798878888",
     "cargo": "LID MANUTENCAO I",
     "departamento": "TELEFONICA_CHUCI CONTR MANUTEN - 01 029103700",
-    "gestorDireto": "PAULO H GONCALVES DE FREITAS"
+    "gestorDireto": "Lucas Tadeu Souza De Oliveira"
   },
   {
     "id": 1478505,
@@ -3795,7 +3795,7 @@
     "cpf": "42096966841",
     "cargo": "OFICIAL DE MANUTENCA - 01 00376",
     "departamento": "HYATT RENOV 2024 - 01 067000700",
-    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 1478715,
@@ -4056,7 +4056,7 @@
     "cpf": null,
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "EQUINIX SP5 - MANUT 2024",
-    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 1478845,
@@ -4065,7 +4065,7 @@
     "cpf": "11075616719",
     "cargo": "ELETROMECANICO - 01 00266",
     "departamento": "CLARO - SPOT 2025 - 01 008004701",
-    "gestorDireto": "LUCIANE SAMPAIO CARVALHO"
+    "gestorDireto": "ACACIO BERGAMINI DOS SANTOS"
   },
   {
     "id": 1478847,
@@ -4074,7 +4074,7 @@
     "cpf": "38587094840",
     "cargo": "TEC MANUT I - 01 00440",
     "departamento": "NEXTSTREAM NDC MANUT 2025 - 01 062000600",
-    "gestorDireto": "THIAGO GOMES DE SOUSA"
+    "gestorDireto": "Gabriel De Moura Evangelista"
   },
   {
     "id": 1478853,
@@ -4083,7 +4083,7 @@
     "cpf": null,
     "cargo": "ELETRICISTA I",
     "departamento": "GESTÃO DE MANUTENÇÃO - SP",
-    "gestorDireto": "ROGERIO LUIZ DE SA"
+    "gestorDireto": "Almir Lopes Dos Santos Junior"
   },
   {
     "id": 1478855,
@@ -4524,7 +4524,7 @@
     "cpf": "4742261909",
     "cargo": "TEC REFRIGERACAO II - 01 00447",
     "departamento": "NEXTSTREAM - CIC - MANUT 2025 - 01 063000600",
-    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+    "gestorDireto": "Elenilson Maia Valente Brabo"
   },
   {
     "id": 1609397,
@@ -4686,7 +4686,7 @@
     "cpf": "34258046850",
     "cargo": "OFICIAL DE MANUTENCA - 01 00376",
     "departamento": "EQUINIX SP3 2025 - 01 002102115",
-    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 1674029,
@@ -5101,15 +5101,6 @@
     "cargo": "1/2 OFICIAL - 01 00006",
     "departamento": "BRADESCO _MANUT ALPHAVILLE FIL - 01 091000601",
     "gestorDireto": "JOÃO DOS SANTOS ANDRADE"
-  },
-  {
-    "id": 1771922,
-    "nome": "ROBSON L DO NASCIMENTO SANTOS",
-    "email": "xprobsonluis@hotmail.com",
-    "cpf": "31705630847",
-    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
-    "departamento": "FEMSA - GUARATINGUETA - 01 145000108",
-    "gestorDireto": null
   },
   {
     "id": 1771924,
@@ -5946,7 +5937,7 @@
     "cpf": "16322799835",
     "cargo": "ELETROMECANICO",
     "departamento": "EQUINIX SP3 2025 - 01 002102115",
-    "gestorDireto": "Luis Francisco Duarte"
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2068352,
@@ -5964,7 +5955,7 @@
     "cpf": "27485780824",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "HYATT RENOV 2024 - 01 067000700",
-    "gestorDireto": "Luis Francisco Duarte"
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2068354,
@@ -6045,7 +6036,7 @@
     "cpf": "07143395803",
     "cargo": "GERENTE DE CONSTRUTIBILIDADE E PRODUÇÃO",
     "departamento": "ENGEMON COMÉRCIO",
-    "gestorDireto": "MARCOS ANTONIO BRAZIL RAMOS"
+    "gestorDireto": "CARLOS  CUNHA"
   },
   {
     "id": 2068367,
@@ -6162,7 +6153,7 @@
     "cpf": "11203113730",
     "cargo": "COMPRADOR JR - 01 00212",
     "departamento": "GESTAO MANUT RJ 2025 - 01 000103316",
-    "gestorDireto": "AMANDA PERUFFO RAMOS"
+    "gestorDireto": "JAYME TADEU SALLE"
   },
   {
     "id": 2075131,
@@ -6225,7 +6216,7 @@
     "cpf": "37905861880",
     "cargo": "ANALISTA COMERCIAL",
     "departamento": "COMERCIAL - 01 000201400",
-    "gestorDireto": "NATHALIA VINHA DECO"
+    "gestorDireto": "NATHALIA VINHA DECCO"
   },
   {
     "id": 2075156,
@@ -7336,11 +7327,11 @@
   },
   {
     "id": 2249182,
-    "nome": "Samira Rodrigues",
-    "email": "Samira.rodrigues.adm@outlook.com",
+    "nome": "SAMIRA OLIVEIRA RODRIGUES",
+    "email": "samira.rodrigues@engemon.com.br",
     "cpf": "49560120808",
     "cargo": "COMPRADORA JR",
-    "departamento": "SUPPLY CHAIN - 01 000101500",
+    "departamento": "SUPPLY CHAIN",
     "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
   },
   {
@@ -7398,15 +7389,6 @@
     "gestorDireto": "KARINA CARREIRO"
   },
   {
-    "id": 2272085,
-    "nome": "Flavia Segato",
-    "email": "flavia.segato@engemon.com.br",
-    "cpf": "39492099802",
-    "cargo": "Especialista em Orçamentos",
-    "departamento": "ORCAMENTOS",
-    "gestorDireto": "KARINA CARREIRO"
-  },
-  {
     "id": 2272089,
     "nome": "DAVID SANTOS LIMA",
     "email": "DAVID.LIMA@ENGEMON.COM.BR",
@@ -7431,7 +7413,7 @@
     "cpf": "29911675807",
     "cargo": "Gerente de Suprimentos",
     "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "ROBSON PORFIRIO DA ROCHA"
+    "gestorDireto": "PRESIDÊNCIA"
   },
   {
     "id": 2275444,
@@ -8385,7 +8367,7 @@
     "cpf": "46494075835",
     "cargo": "OFICIAL DE MANUTENCA - 01 00376",
     "departamento": "FEMSA - SANTO ANDRE - 01 145000204",
-    "gestorDireto": null
+    "gestorDireto": "CLAUDIO ENRIQUE CONTRERAS GARAY JUNIOR"
   },
   {
     "id": 2285922,
@@ -8426,7 +8408,7 @@
   {
     "id": 2285931,
     "nome": "ANDERSON EDUARDO MACIEL",
-    "email": "andersn72@hotmail.com",
+    "email": "anderson.maciel@engemon.com.br",
     "cpf": "50658441191",
     "cargo": "SUPERV DE MANUT I - 01 00419",
     "departamento": "FEMSA - JUNDIAI PL/UO - 01 145000104",
@@ -8655,7 +8637,7 @@
     "cpf": "8225037430",
     "cargo": "MEC REFRIGERACAO I - 01 00365",
     "departamento": "UNICHARM JAGUARIUNA MANUT HVAC - 01 270000100",
-    "gestorDireto": null
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2286687,
@@ -8664,7 +8646,7 @@
     "cpf": "8623499409",
     "cargo": "1/2 OFICIAL - 01 00006",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA - 01 173000100",
-    "gestorDireto": null
+    "gestorDireto": "KEICE ELLEN DA SILVA"
   },
   {
     "id": 2286693,
@@ -8763,7 +8745,7 @@
     "cpf": "26435159866",
     "cargo": "ELETRICISTA I - 01 00260",
     "departamento": "GOODMAN - MANUT PREDIAL - RENO - 01 119000401",
-    "gestorDireto": null
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2286770,
@@ -8871,7 +8853,7 @@
     "cpf": "37052448840",
     "cargo": "ELETRICISTA I - 01 00260",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA - 01 173000100",
-    "gestorDireto": "RAFAEL OZSVATH FERREIRA"
+    "gestorDireto": "KEICE ELLEN DA SILVA"
   },
   {
     "id": 2286787,
@@ -8952,7 +8934,7 @@
     "cpf": "47057689810",
     "cargo": "AUX REFRIGERACAO - 01 00190",
     "departamento": "UNICHARM JAGUARIUNA MANUT HVAC - 01 270000100",
-    "gestorDireto": null
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2286800,
@@ -9150,7 +9132,7 @@
     "cpf": "54154674838",
     "cargo": "JOVEM APRENDIZ",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "BETINA RAQUEL CAVALCANTE SILVA"
   },
   {
     "id": 2349840,
@@ -9258,7 +9240,7 @@
     "cpf": null,
     "cargo": "AUX REFRIGERACAO",
     "departamento": "GESTAO MANUT RJ 2025 - 01 000103316",
-    "gestorDireto": null
+    "gestorDireto": "CARLOS AUGUSTO JARDIM CHAVES"
   },
   {
     "id": 2350164,
@@ -9285,7 +9267,7 @@
     "cpf": null,
     "cargo": "AUX REFRIGERACAO",
     "departamento": "GESTÃO DE MANUTENÇÃO - RJ",
-    "gestorDireto": null
+    "gestorDireto": "CARLOS AUGUSTO JARDIM CHAVES"
   },
   {
     "id": 2357828,
@@ -9330,7 +9312,7 @@
     "cpf": null,
     "cargo": "ASSIST ADM",
     "departamento": "OPERATION SERVICES",
-    "gestorDireto": "JAYME TADEU SALLE"
+    "gestorDireto": "ADRIANA MARQUES"
   },
   {
     "id": 2357836,
@@ -10923,7 +10905,7 @@
     "cpf": "33264522845",
     "cargo": "AUX REFRIGERACAO",
     "departamento": "UOL",
-    "gestorDireto": null
+    "gestorDireto": "ADILSON JOSE JESUS DOS SANTOS"
   },
   {
     "id": 2408268,
@@ -12129,7 +12111,7 @@
     "cpf": "12156355673",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "INNOVA - MANUT PREDIAL EXTREMA",
-    "gestorDireto": null
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2459622,
@@ -12138,7 +12120,7 @@
     "cpf": "48014297857",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "EQUINIX SP3 - RENOVACAO 2024",
-    "gestorDireto": null
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2459624,
@@ -12998,7 +12980,7 @@
   {
     "id": 2494194,
     "nome": "EVERTON SOARES ALVES",
-    "email": "esaeverton27@gmail.com",
+    "email": "esaeverton27@gmail.com.br",
     "cpf": "01540247082",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "FEMSA - PORTO ALEGRE PL/UO",
@@ -13011,16 +12993,7 @@
     "cpf": "10269629866",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA",
-    "gestorDireto": "KEICE ELLEN DA SILVA"
-  },
-  {
-    "id": 2494197,
-    "nome": "DIEGO HENRIQUE PEREIRA",
-    "email": "diegohpereira161@gmail.com",
-    "cpf": "35877760831",
-    "cargo": "OFICIAL DE MANUTENCA",
-    "departamento": "SIEMENS - MANUTENCAO E LIMPEZA",
-    "gestorDireto": null
+    "gestorDireto": "MARCELLO CAVALCANTE EVANGELISTA"
   },
   {
     "id": 2494198,
@@ -14631,7 +14604,7 @@
     "cpf": "33646889829",
     "cargo": "AUX ADM",
     "departamento": "GESTAO DE MANUT COM 2025",
-    "gestorDireto": null
+    "gestorDireto": "THAIS DA SILVA PIPERNO PIZZICOLA"
   },
   {
     "id": 2503002,
@@ -14784,7 +14757,7 @@
     "cpf": null,
     "cargo": "ENG ELETRICISTA",
     "departamento": "CLARO - OBRA PROJETO ORACL LAPA -1011296",
-    "gestorDireto": null
+    "gestorDireto": "ROGERIO LUIZ DE SA"
   },
   {
     "id": 2504112,
@@ -14925,7 +14898,7 @@
     "id": 2504129,
     "nome": "IVAN HITOSHI LEGRAZIE",
     "email": "ivan.legrazie@engemon.com.br",
-    "cpf": null,
+    "cpf": "36478464814",
     "cargo": "SUPERV MANUT",
     "departamento": "FEMSA LPU FLPU 2025 FILIAL",
     "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
@@ -15603,7 +15576,7 @@
     "cpf": "42407384822",
     "cargo": "TEC SEG TRABALHO",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA - 01 173000100",
-    "gestorDireto": "RAFAEL OZSVATH FERREIRA"
+    "gestorDireto": "ANDERSON MESSIAS GALVAO DOMINGUES"
   },
   {
     "id": 2508360,
@@ -15618,7 +15591,7 @@
     "id": 2508361,
     "nome": "ALEXANDRO DE ASSIS DE ALMEIDA",
     "email": "alexandro.assis.almeida@gmail.com",
-    "cpf": null,
+    "cpf": "18305150801",
     "cargo": "COORD MANUTENCAO",
     "departamento": "UOL - MANUT PREDIAL 1011281 FA - 01 300000200",
     "gestorDireto": "MARCELO FIGUEIREDO DA SILVA"
@@ -15711,7 +15684,7 @@
     "cpf": null,
     "cargo": "ANL PLANEJAMENTO JR",
     "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
-    "gestorDireto": "ADILSON JOSE JESUS DOS SANTOS"
+    "gestorDireto": "ALEXANDRO DE ASSIS DE ALMEIDA"
   },
   {
     "id": 2508416,
@@ -16089,7 +16062,7 @@
     "cpf": null,
     "cargo": "LID ELETRICISTA",
     "departamento": "ISE SCHOOL - MANUTENCAO PREDIA - 01 290000100",
-    "gestorDireto": null
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2508922,
@@ -16224,7 +16197,7 @@
     "cpf": null,
     "cargo": "SUPERV MANUT",
     "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
-    "gestorDireto": null
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
   },
   {
     "id": 2509248,
@@ -16242,6 +16215,105 @@
     "cpf": null,
     "cargo": "TEC REFRIGERACAO I",
     "departamento": "TELEFONICA_CHUCI CONTR MANUTENCAO",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516933,
+    "nome": "BIANCA FREITAS ALCANTARA SANTO",
+    "email": "sbiancafreitas.al@gmail.com",
+    "cpf": "43593058855",
+    "cargo": "TEC SUPORTE PL",
+    "departamento": "IT-CIELO/SD_FD_506675",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516934,
+    "nome": "ALLAN ROBERTO COSTA SILVA",
+    "email": "allan.tnt@hotmail.com",
+    "cpf": "39142763800",
+    "cargo": "ANL SERVICE DESK JR",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516935,
+    "nome": "YASMIM ARRUDA DE BRITO CARVALH",
+    "email": "bryto.yasmim@gmail.com",
+    "cpf": "48474334837",
+    "cargo": "ANL SERVICE DESK JR",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516936,
+    "nome": "JANDERSON COELHO DA SILVA",
+    "email": "jandersonsilva92@hotmail.com",
+    "cpf": "31819072860",
+    "cargo": "ANL SERVICE DESK JR",
+    "departamento": "IT-DPSP/SER DESK E FIELD_50633",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516937,
+    "nome": "LEANDRO MARTINS DOS SANTOS",
+    "email": "leandro.m.s1993@gmail.com",
+    "cpf": "42020226880",
+    "cargo": "ANL SERVICE DESK JR",
+    "departamento": "IT-ASSOCIACAO SC/FIELDSERVICE_",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516938,
+    "nome": "GABRIEL BORGES PINHEIRO",
+    "email": "gabriel.bpinheiro@yahoo.com.br",
+    "cpf": "17352965700",
+    "cargo": "TEC SUPORTE JR",
+    "departamento": "IT-ASSOC CONGREGACAO SCDESK E",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516939,
+    "nome": "VICTOR PESSOA FERREIRA",
+    "email": "victor.pessoa.ferreira@gmail.com",
+    "cpf": "41122797877",
+    "cargo": "ANL SERV DESK BILING",
+    "departamento": "IT-PATRIA/ SERVICE DESK BRASIL",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516940,
+    "nome": "JULIO LINHARES CEZAR",
+    "email": "juliolinhares55@gmail.com",
+    "cpf": "03412675202",
+    "cargo": "ANL SERVICE DESK JR",
+    "departamento": "IT-LEO MADEIRAS/SER DESK _FIEL",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516941,
+    "nome": "MARIELA PILAR VELASCO SHON",
+    "email": "mapivesh@gmail.com",
+    "cpf": "23821069805",
+    "cargo": "ANL SERVICE DESK PL",
+    "departamento": "IT-TITANPNEUS/SERVICE DESK_FIE",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516942,
+    "nome": "MARQUES MARLEY NOBREGA DE LIMA",
+    "email": "marleymarques10@gmail.com",
+    "cpf": "07862479327",
+    "cargo": "TEC MICRO INFO I",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738 CE",
+    "gestorDireto": null
+  },
+  {
+    "id": 2516988,
+    "nome": "LUIS FERNANDO CONDARCO",
+    "email": "luiscondarco1190@gmail.com",
+    "cpf": "42367311854",
+    "cargo": "ANL SERVICE DESK PL",
+    "departamento": "IT-TITANPNEUS/SERVICE DESK_FIE",
     "gestorDireto": null
   }
 ]
