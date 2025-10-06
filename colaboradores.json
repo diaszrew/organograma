@@ -1671,7 +1671,7 @@
     "cpf": "47699968883",
     "cargo": "ASSIST TECNICO - 01 00167",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "RAFAEL DE OLIVEIRA MOREIRA"
   },
   {
     "id": 1477267,
@@ -1815,7 +1815,7 @@
     "cpf": "11095643762",
     "cargo": "ARQUITETA SR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "RICARDO MUTSUMI MASSUDA"
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 1477327,
@@ -5784,7 +5784,7 @@
     "cpf": "03798811792",
     "cargo": "GERENTE DE CONSTRUÇÃO E MONTAGEM",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "MARCOS ANTONIO BRAZIL RAMOS"
+    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
   },
   {
     "id": 2038623,
@@ -5793,7 +5793,7 @@
     "cpf": "04190835374",
     "cargo": "ENGENHEIRO DE PLANEJAMENTO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
+    "gestorDireto": "RAFAEL DE OLIVEIRA MOREIRA"
   },
   {
     "id": 2038626,
@@ -6090,7 +6090,7 @@
     "cpf": "4119814718",
     "cargo": "ENG SEG TRABALHO - 01 00301",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
+    "gestorDireto": "EDMAR CONSTANTINO"
   },
   {
     "id": 2075097,
@@ -6261,7 +6261,7 @@
     "cpf": "72478608715",
     "cargo": "ALMOXARIFE JR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2075185,
@@ -6306,7 +6306,7 @@
     "cpf": "98222198734",
     "cargo": "SUPERV ADM",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2104488,
@@ -6351,7 +6351,7 @@
     "cpf": "14490304838",
     "cargo": "SUPERVISOR DE OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2104499,
@@ -6387,7 +6387,7 @@
     "cpf": "48133531500",
     "cargo": "COORD QUALIDADE - 01 00243",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "SILVIO FERNANDO COUTINHO SEROA"
+    "gestorDireto": "FERNANDA AGUIAR CARVALHO"
   },
   {
     "id": 2104506,
@@ -6423,7 +6423,7 @@
     "cpf": "77076583704",
     "cargo": "Técnico de Documentação ",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "EDMAR CONSTANTINO"
+    "gestorDireto": "FERNANDA AGUIAR CARVALHO"
   },
   {
     "id": 2106497,
@@ -6495,7 +6495,7 @@
     "cpf": "03671331720",
     "cargo": "ENGENHEIRO CIVIL",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2106783,
@@ -6576,7 +6576,7 @@
     "cpf": "50196816874",
     "cargo": "Assistente Adm Obras",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2183979,
@@ -6594,7 +6594,7 @@
     "cpf": "04835203810",
     "cargo": "Gerente de Segurança, Meio Ambiente, Saúde e  Comunicação/Responsabilidade Social",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
+    "gestorDireto": "CARLOS  CUNHA"
   },
   {
     "id": 2184041,
@@ -6630,7 +6630,7 @@
     "cpf": "41172148880",
     "cargo": " Engenheiro Civil ",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184261,
@@ -6639,7 +6639,7 @@
     "cpf": "13263878719",
     "cargo": " Engenheiro Civil ",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184285,
@@ -6648,7 +6648,7 @@
     "cpf": "5670162773",
     "cargo": "ARQUITETO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184298,
@@ -6657,7 +6657,7 @@
     "cpf": "92109438568",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184302,
@@ -6666,7 +6666,7 @@
     "cpf": "16644025781",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184316,
@@ -6675,7 +6675,7 @@
     "cpf": "89423127720",
     "cargo": "MESTRE DE OBRA II ",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184326,
@@ -6684,7 +6684,7 @@
     "cpf": "1445078708",
     "cargo": " METRES DE OBRAS II",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184335,
@@ -6711,7 +6711,7 @@
     "cpf": "8969826700",
     "cargo": "MONTADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184395,
@@ -6720,7 +6720,7 @@
     "cpf": "03645552707",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184397,
@@ -6729,7 +6729,7 @@
     "cpf": "70026717239",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184400,
@@ -6738,7 +6738,7 @@
     "cpf": "7938026794",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184402,
@@ -6747,7 +6747,7 @@
     "cpf": "16490382750",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184456,
@@ -6756,7 +6756,7 @@
     "cpf": "18395249799",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184542,
@@ -6765,7 +6765,7 @@
     "cpf": "16923830788",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184609,
@@ -6774,7 +6774,7 @@
     "cpf": "17373165796",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184723,
@@ -6783,7 +6783,7 @@
     "cpf": "4428025793",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184745,
@@ -6801,7 +6801,7 @@
     "cpf": "19769647764",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2184749,
@@ -6810,7 +6810,7 @@
     "cpf": "18558190747",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2185042,
@@ -6819,7 +6819,7 @@
     "cpf": "3778570765",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2185052,
@@ -6828,7 +6828,7 @@
     "cpf": "18148284784",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2185701,
@@ -6837,7 +6837,7 @@
     "cpf": "18913349728",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2186144,
@@ -6846,7 +6846,7 @@
     "cpf": "13561041779",
     "cargo": " Engenheira Civil ",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "DANILO WICHER JUNIOR"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2186288,
@@ -6963,7 +6963,7 @@
     "cpf": "2834161739",
     "cargo": "Almoxarife",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2187626,
@@ -6972,7 +6972,7 @@
     "cpf": "8504353745",
     "cargo": "ALMOXARIFE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2187634,
@@ -6981,7 +6981,7 @@
     "cpf": "11707572780",
     "cargo": "ALMOXARIFE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2187636,
@@ -6990,7 +6990,7 @@
     "cpf": "16405601730",
     "cargo": "ALMOXARIFE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2187637,
@@ -7008,7 +7008,7 @@
     "cpf": "93346794768",
     "cargo": "Analista Fiscal Sr",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "FABIO TURRI"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2187649,
@@ -7017,7 +7017,7 @@
     "cpf": "31034720805",
     "cargo": "Assistente Adm",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2187663,
@@ -7026,7 +7026,7 @@
     "cpf": "18909284706",
     "cargo": "ASSIST ADM OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2187677,
@@ -7035,7 +7035,7 @@
     "cpf": "90223934704",
     "cargo": "OPERADOR DE ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2187680,
@@ -7044,7 +7044,7 @@
     "cpf": "84266023715",
     "cargo": "OPERADOR ELEVADOR ",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2187683,
@@ -7053,7 +7053,7 @@
     "cpf": "10598622713",
     "cargo": "OPERADOR DE  ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2187687,
@@ -7062,7 +7062,7 @@
     "cpf": "8299260701",
     "cargo": "OPERADOR DE ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2187689,
@@ -7071,7 +7071,7 @@
     "cpf": "3004243709",
     "cargo": "OPERADOR DE ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2187694,
@@ -7080,7 +7080,7 @@
     "cpf": "1801774781",
     "cargo": "OPERADOR  DE ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2187696,
@@ -7089,7 +7089,7 @@
     "cpf": "2413605797",
     "cargo": "OPERADOR DE ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2187772,
@@ -7098,7 +7098,7 @@
     "cpf": "12588893821",
     "cargo": "GERENTE DE INSTALAÇÃO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "MARCOS ANTONIO BRAZIL RAMOS"
+    "gestorDireto": "ALEXANDRE KENJI TANAKA"
   },
   {
     "id": 2187779,
@@ -7107,7 +7107,7 @@
     "cpf": "17391898767",
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
+    "gestorDireto": "RAFAEL DE OLIVEIRA MOREIRA"
   },
   {
     "id": 2187782,
@@ -7116,7 +7116,7 @@
     "cpf": "13970147760",
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
+    "gestorDireto": "RAFAEL DE OLIVEIRA MOREIRA"
   },
   {
     "id": 2187788,
@@ -7125,7 +7125,7 @@
     "cpf": "09023483707",
     "cargo": "ENGENHEIRO DE CUSTOS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
+    "gestorDireto": "RAFAEL DE OLIVEIRA MOREIRA"
   },
   {
     "id": 2187790,
@@ -7134,7 +7134,7 @@
     "cpf": "96570024787",
     "cargo": "OPERADOR DE ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2187791,
@@ -7143,7 +7143,7 @@
     "cpf": "16923495709",
     "cargo": " ADM DE OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "RICARDO MUTSUMI MASSUDA"
+    "gestorDireto": "EDUARDO ALBERTO MAIORKI"
   },
   {
     "id": 2187809,
@@ -7152,7 +7152,7 @@
     "cpf": "12946514714",
     "cargo": "ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "RICARDO MUTSUMI MASSUDA"
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2187810,
@@ -7161,7 +7161,7 @@
     "cpf": "10654883785",
     "cargo": "TEC ELETRICA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "RICARDO MUTSUMI MASSUDA"
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2187813,
@@ -7170,7 +7170,7 @@
     "cpf": "08326734713",
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "RICARDO MUTSUMI MASSUDA"
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2187843,
@@ -7179,7 +7179,7 @@
     "cpf": null,
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "RICARDO MUTSUMI MASSUDA"
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2187857,
@@ -7188,7 +7188,7 @@
     "cpf": "3362231705",
     "cargo": "OPERADOR DE ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2187873,
@@ -7206,7 +7206,7 @@
     "cpf": "16269816718",
     "cargo": "SUPERVISOR AUTOMOÇÃO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2187950,
@@ -7215,7 +7215,7 @@
     "cpf": "17624927845",
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "RICARDO MUTSUMI MASSUDA"
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2187954,
@@ -7224,7 +7224,7 @@
     "cpf": "12068882701",
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
+    "gestorDireto": "CARLOS  CUNHA"
   },
   {
     "id": 2187963,
@@ -7233,7 +7233,7 @@
     "cpf": "32984287878",
     "cargo": "ENG ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "RICARDO MUTSUMI MASSUDA"
+    "gestorDireto": "CARLOS  CUNHA"
   },
   {
     "id": 2190159,
@@ -7458,7 +7458,7 @@
     "cpf": "1012713369",
     "cargo": "CARPINTEIRO - 01 00210",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285778,
@@ -7467,7 +7467,7 @@
     "cpf": "1444940783",
     "cargo": "MONTADOR - 01 00370",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285779,
@@ -7476,7 +7476,7 @@
     "cpf": "1471328279",
     "cargo": "TEC EDIFICACAO - 01 00433",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285780,
@@ -7494,7 +7494,7 @@
     "cpf": "1805470701",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285784,
@@ -7503,7 +7503,7 @@
     "cpf": "1962767728",
     "cargo": "AUXILIAR TECNICO - 01 00201",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285785,
@@ -7539,7 +7539,7 @@
     "cpf": "4381006895",
     "cargo": "COORD TELECOM",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2285790,
@@ -7575,7 +7575,7 @@
     "cpf": "4700726792",
     "cargo": "LID MANUTENCAO I - 01 00351",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285794,
@@ -7584,7 +7584,7 @@
     "cpf": "4749432750",
     "cargo": "INSPETOR DE CONSTRUCAO CIVIL",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA AGUIAR CARVALHO"
   },
   {
     "id": 2285797,
@@ -7602,7 +7602,7 @@
     "cpf": "5368018789",
     "cargo": "TEC SEG TRABALHO I - 01 00449",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "EDMAR CONSTANTINO"
   },
   {
     "id": 2285799,
@@ -7620,7 +7620,7 @@
     "cpf": "5561378333",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285802,
@@ -7629,7 +7629,7 @@
     "cpf": "6412352406",
     "cargo": "BOMBEIRO HIDRAULICO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285807,
@@ -7638,7 +7638,7 @@
     "cpf": "7343452754",
     "cargo": "CARPINTEIRO - 01 00210",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285809,
@@ -7647,7 +7647,7 @@
     "cpf": "7624029707",
     "cargo": "AUX LIMPEZA - 01 00183",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2285810,
@@ -7656,7 +7656,7 @@
     "cpf": "7887716713",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285812,
@@ -7665,7 +7665,7 @@
     "cpf": "8018909776",
     "cargo": "SUPERVISOR QUALIDADE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA AGUIAR CARVALHO"
   },
   {
     "id": 2285814,
@@ -7674,7 +7674,7 @@
     "cpf": "8142326477",
     "cargo": "ENC OBRAS - 01 00282",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285815,
@@ -7683,7 +7683,7 @@
     "cpf": "8303310771",
     "cargo": "OPERADOR DE EMPILHADEIRA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285818,
@@ -7692,7 +7692,7 @@
     "cpf": "9206642707",
     "cargo": "CARPINTEIRO - 01 00210",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285820,
@@ -7701,7 +7701,7 @@
     "cpf": "9351571742",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285821,
@@ -7710,7 +7710,7 @@
     "cpf": "9357147748",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285822,
@@ -7719,7 +7719,7 @@
     "cpf": "9395703784",
     "cargo": "PEDREIRO - 01 00391",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285823,
@@ -7737,7 +7737,7 @@
     "cpf": "9649770798",
     "cargo": "TEC SEG TRABALHO I - 01 00449",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "EDMAR CONSTANTINO"
   },
   {
     "id": 2285826,
@@ -7746,7 +7746,7 @@
     "cpf": "9674263756",
     "cargo": "MONTADOR - 01 00370",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285828,
@@ -7755,7 +7755,7 @@
     "cpf": "10555039781",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285829,
@@ -7764,7 +7764,7 @@
     "cpf": "10723930775",
     "cargo": "AUX LIMPEZA - 01 00183",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2285831,
@@ -7773,7 +7773,7 @@
     "cpf": "11113217790",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285833,
@@ -7782,7 +7782,7 @@
     "cpf": "11253978700",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285834,
@@ -7791,7 +7791,7 @@
     "cpf": "11314081799",
     "cargo": "TEC EDIFICACAO - 01 00433",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285835,
@@ -7800,7 +7800,7 @@
     "cpf": "11321825730",
     "cargo": "MONTADOR - 01 00370",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285836,
@@ -7809,7 +7809,7 @@
     "cpf": "11368746748",
     "cargo": "MONTADOR - 01 00370",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285838,
@@ -7818,7 +7818,7 @@
     "cpf": "11472593723",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285839,
@@ -7827,7 +7827,7 @@
     "cpf": "11570643709",
     "cargo": "MONTADOR - 01 00370",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285840,
@@ -7836,7 +7836,7 @@
     "cpf": "11615822747",
     "cargo": "MOTORISTA I - 01 00371",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2285842,
@@ -7845,7 +7845,7 @@
     "cpf": "11637972784",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285843,
@@ -7854,7 +7854,7 @@
     "cpf": "11959324721",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285844,
@@ -7863,7 +7863,7 @@
     "cpf": "12081520761",
     "cargo": "MESTRE OBRAS - 01 00369",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285845,
@@ -7881,7 +7881,7 @@
     "cpf": "12316260705",
     "cargo": "MONTADOR - 01 00370",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285847,
@@ -7899,7 +7899,7 @@
     "cpf": "12354173792",
     "cargo": "TEC EDIFICACAO - 01 00433",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285849,
@@ -7917,7 +7917,7 @@
     "cpf": "12837467782",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285851,
@@ -7926,7 +7926,7 @@
     "cpf": "12887833707",
     "cargo": "TEC SEG TRABALHO I - 01 00449",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "EDMAR CONSTANTINO"
   },
   {
     "id": 2285852,
@@ -7935,7 +7935,7 @@
     "cpf": "13080924746",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285853,
@@ -7944,7 +7944,7 @@
     "cpf": "13392010707",
     "cargo": "ENG ELETRICISTA JR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2285854,
@@ -7953,7 +7953,7 @@
     "cpf": "14001749700",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285856,
@@ -7962,7 +7962,7 @@
     "cpf": "14230176767",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285857,
@@ -7971,7 +7971,7 @@
     "cpf": "14401141709",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285858,
@@ -7980,7 +7980,7 @@
     "cpf": "14719166776",
     "cargo": "AUXILIAR TECNICO - 01 00201",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285859,
@@ -7989,7 +7989,7 @@
     "cpf": "14935121700",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285860,
@@ -7998,7 +7998,7 @@
     "cpf": "15097213718",
     "cargo": "BOMBEIRO HIDRAULICO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285861,
@@ -8007,7 +8007,7 @@
     "cpf": "15344357788",
     "cargo": "TEC PLAN E CONTROLE - 01 00498",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285862,
@@ -8016,7 +8016,7 @@
     "cpf": "16210871747",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285863,
@@ -8025,7 +8025,7 @@
     "cpf": "16277223780",
     "cargo": "BOMBEIRO HIDRAULICO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285865,
@@ -8034,7 +8034,7 @@
     "cpf": "16570122711",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285866,
@@ -8043,7 +8043,7 @@
     "cpf": "16606155770",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285868,
@@ -8052,7 +8052,7 @@
     "cpf": "16774580700",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285869,
@@ -8061,7 +8061,7 @@
     "cpf": "16830577756",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285870,
@@ -8070,7 +8070,7 @@
     "cpf": "16841982754",
     "cargo": "AJUDANTE ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285871,
@@ -8079,7 +8079,7 @@
     "cpf": "16846056793",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285872,
@@ -8088,7 +8088,7 @@
     "cpf": "17020748708",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285873,
@@ -8106,7 +8106,7 @@
     "cpf": "17821281743",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285876,
@@ -8115,7 +8115,7 @@
     "cpf": "17830553750",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285877,
@@ -8124,7 +8124,7 @@
     "cpf": "18354951766",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285878,
@@ -8142,7 +8142,7 @@
     "cpf": "19019512781",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285882,
@@ -8151,7 +8151,7 @@
     "cpf": "19852125796",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285883,
@@ -8160,7 +8160,7 @@
     "cpf": "19865005786",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285884,
@@ -8169,7 +8169,7 @@
     "cpf": "21143347757",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285885,
@@ -8205,7 +8205,7 @@
     "cpf": "27867460861",
     "cargo": "ENC OBRAS - 01 00282",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285892,
@@ -8430,7 +8430,7 @@
     "cpf": "60428704328",
     "cargo": "ASSIST ADM OBRAS - 01 00136",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "EDUARDO ALBERTO MAIORKI"
   },
   {
     "id": 2285935,
@@ -8457,7 +8457,7 @@
     "cpf": "79295002768",
     "cargo": "OPERADOR ELEVADOR - 01 00490",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285940,
@@ -8484,7 +8484,7 @@
     "cpf": "82127727720",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285943,
@@ -8493,7 +8493,7 @@
     "cpf": "84286296768",
     "cargo": "ENC.MATERIAIS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA AGUIAR CARVALHO"
   },
   {
     "id": 2285944,
@@ -8502,7 +8502,7 @@
     "cpf": "85469254704",
     "cargo": "OPERADOR ELEVADOR - 01 00490",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285945,
@@ -8511,7 +8511,7 @@
     "cpf": "90491297734",
     "cargo": "APONTADOR - 01 00123",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285946,
@@ -8520,7 +8520,7 @@
     "cpf": "90693388749",
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2285947,
@@ -9069,7 +9069,7 @@
     "cpf": "13269954727",
     "cargo": "ASSIST ADM OBRAS - 01 00136",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ELIAS FERNANDO DE FREITAS"
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2338886,
@@ -9159,7 +9159,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2350153,
@@ -9168,7 +9168,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2350154,
@@ -9186,7 +9186,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2350156,
@@ -9195,7 +9195,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2350157,
@@ -9204,7 +9204,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2350159,
@@ -9222,7 +9222,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2350161,
@@ -9231,7 +9231,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2350163,
@@ -9249,7 +9249,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2357821,
@@ -9285,7 +9285,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2357830,
@@ -9294,7 +9294,7 @@
     "cpf": null,
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2357833,
@@ -9429,7 +9429,7 @@
     "cpf": null,
     "cargo": "SUPERV DE INSPEÇÕES",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA AGUIAR CARVALHO"
   },
   {
     "id": 2365176,
@@ -9600,7 +9600,7 @@
     "cpf": "10315872764",
     "cargo": "ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379519,
@@ -9609,7 +9609,7 @@
     "cpf": "14719161707",
     "cargo": "ENC OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379521,
@@ -9618,7 +9618,7 @@
     "cpf": "05833610729",
     "cargo": "TEC EDIFICACAO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379522,
@@ -9627,7 +9627,7 @@
     "cpf": "11450262732",
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2379526,
@@ -9636,7 +9636,7 @@
     "cpf": "08304466724",
     "cargo": "OFICIAL MONTADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379527,
@@ -9645,7 +9645,7 @@
     "cpf": "02733738704",
     "cargo": "COORDENADOR DE INSPE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA AGUIAR CARVALHO"
   },
   {
     "id": 2379528,
@@ -9654,7 +9654,7 @@
     "cpf": "15650816760",
     "cargo": "OPERADOR ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379529,
@@ -9663,7 +9663,7 @@
     "cpf": "11237282756",
     "cargo": "OPERADOR ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379530,
@@ -9672,7 +9672,7 @@
     "cpf": "02113887428",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379531,
@@ -9681,7 +9681,7 @@
     "cpf": "84378077787",
     "cargo": "OPERADOR ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379532,
@@ -9690,7 +9690,7 @@
     "cpf": "20822885794",
     "cargo": "OPERADOR ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379533,
@@ -9699,7 +9699,7 @@
     "cpf": "79188702715",
     "cargo": "OPERADOR ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379534,
@@ -9708,7 +9708,7 @@
     "cpf": "88082415720",
     "cargo": "OPERADOR DE GUINDAST",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379536,
@@ -9717,7 +9717,7 @@
     "cpf": "00145234266",
     "cargo": "1/2 OFICIAL",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379537,
@@ -9726,7 +9726,7 @@
     "cpf": "09250904762",
     "cargo": "SINALEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379538,
@@ -9735,7 +9735,7 @@
     "cpf": "31078372888",
     "cargo": "TEC SEG TRABALHO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "EDMAR CONSTANTINO"
   },
   {
     "id": 2379539,
@@ -9744,7 +9744,7 @@
     "cpf": "03799096345",
     "cargo": "MESTRE OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379540,
@@ -9753,7 +9753,7 @@
     "cpf": "13486127705",
     "cargo": "ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379541,
@@ -9762,7 +9762,7 @@
     "cpf": "80558844391",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379542,
@@ -9771,7 +9771,7 @@
     "cpf": "04246336718",
     "cargo": "OPERADOR ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379543,
@@ -9780,7 +9780,7 @@
     "cpf": "12061312764",
     "cargo": "ESP PROJETOS BIM",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO MENEZES DE OLIVEIRA"
   },
   {
     "id": 2379545,
@@ -9789,7 +9789,7 @@
     "cpf": "09120918780",
     "cargo": "CALDEIREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379546,
@@ -9807,7 +9807,7 @@
     "cpf": "12205205781",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379548,
@@ -9816,7 +9816,7 @@
     "cpf": "00393970760",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379549,
@@ -9825,7 +9825,7 @@
     "cpf": "23426432765",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379550,
@@ -9834,7 +9834,7 @@
     "cpf": "16774182739",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379551,
@@ -9843,7 +9843,7 @@
     "cpf": "05971482793",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379552,
@@ -9852,7 +9852,7 @@
     "cpf": "18419713759",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379554,
@@ -9861,7 +9861,7 @@
     "cpf": "17213474707",
     "cargo": "AUX ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2379555,
@@ -9870,7 +9870,7 @@
     "cpf": "83960848749",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379556,
@@ -9879,7 +9879,7 @@
     "cpf": "05221654784",
     "cargo": "ASSIST ADM SR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2379558,
@@ -9888,7 +9888,7 @@
     "cpf": "03442575761",
     "cargo": "TCN.MEIO AMBIENTE SR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "EDMAR CONSTANTINO"
   },
   {
     "id": 2379560,
@@ -9897,7 +9897,7 @@
     "cpf": "89707184787",
     "cargo": "ENC OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379561,
@@ -9915,7 +9915,7 @@
     "cpf": "02576662730",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379563,
@@ -9924,7 +9924,7 @@
     "cpf": "05257617722",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379564,
@@ -9933,7 +9933,7 @@
     "cpf": "62378716168",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379565,
@@ -9942,7 +9942,7 @@
     "cpf": "04447258498",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379566,
@@ -9951,7 +9951,7 @@
     "cpf": "16566276718",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379567,
@@ -9960,7 +9960,7 @@
     "cpf": "14371147763",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379568,
@@ -9969,7 +9969,7 @@
     "cpf": "12651337781",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379569,
@@ -9978,7 +9978,7 @@
     "cpf": "18696787706",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379570,
@@ -9996,7 +9996,7 @@
     "cpf": "17198787819",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379572,
@@ -10014,7 +10014,7 @@
     "cpf": "07329343544",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379574,
@@ -10023,7 +10023,7 @@
     "cpf": "18561843748",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379575,
@@ -10032,7 +10032,7 @@
     "cpf": "16104825737",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379576,
@@ -10050,7 +10050,7 @@
     "cpf": "08245298719",
     "cargo": "MONTADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379578,
@@ -10059,7 +10059,7 @@
     "cpf": "79131816649",
     "cargo": "ENC OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379579,
@@ -10068,7 +10068,7 @@
     "cpf": "00937405736",
     "cargo": "MONTADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379580,
@@ -10077,7 +10077,7 @@
     "cpf": "88027864372",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379581,
@@ -10086,7 +10086,7 @@
     "cpf": "87331586300",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379582,
@@ -10095,7 +10095,7 @@
     "cpf": "03984586507",
     "cargo": "SUPERV OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379585,
@@ -10104,7 +10104,7 @@
     "cpf": "05554574785",
     "cargo": "SUPERV OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379586,
@@ -10113,7 +10113,7 @@
     "cpf": "06646977712",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379587,
@@ -10122,7 +10122,7 @@
     "cpf": "17395141733",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379588,
@@ -10131,7 +10131,7 @@
     "cpf": "13635288748",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379589,
@@ -10140,7 +10140,7 @@
     "cpf": "03009888775",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379590,
@@ -10149,7 +10149,7 @@
     "cpf": "19860205760",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379591,
@@ -10158,7 +10158,7 @@
     "cpf": "02932934732",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379592,
@@ -10167,7 +10167,7 @@
     "cpf": "20043462723",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379593,
@@ -10176,7 +10176,7 @@
     "cpf": "61575027380",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379594,
@@ -10185,7 +10185,7 @@
     "cpf": "18041024742",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379595,
@@ -10194,7 +10194,7 @@
     "cpf": "09092894761",
     "cargo": "ENC OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379596,
@@ -10203,7 +10203,7 @@
     "cpf": "18573579730",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379597,
@@ -10212,7 +10212,7 @@
     "cpf": "05636431708",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379598,
@@ -10221,7 +10221,7 @@
     "cpf": "80628273134",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379600,
@@ -10230,7 +10230,7 @@
     "cpf": "05696106722",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379602,
@@ -10248,7 +10248,7 @@
     "cpf": "17856195789",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379604,
@@ -10257,7 +10257,7 @@
     "cpf": "20458548766",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379605,
@@ -10266,7 +10266,7 @@
     "cpf": "15732773711",
     "cargo": "CALDEIREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379606,
@@ -10275,7 +10275,7 @@
     "cpf": "87981670730",
     "cargo": "LID INSTALACOES",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2379608,
@@ -10284,7 +10284,7 @@
     "cpf": "18859586763",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379609,
@@ -10293,7 +10293,7 @@
     "cpf": "18899850747",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379610,
@@ -10302,7 +10302,7 @@
     "cpf": "12511345722",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379611,
@@ -10311,7 +10311,7 @@
     "cpf": "08979473478",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379612,
@@ -10320,7 +10320,7 @@
     "cpf": "20024006793",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379613,
@@ -10329,7 +10329,7 @@
     "cpf": "00866953710",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379614,
@@ -10338,7 +10338,7 @@
     "cpf": "83608192700",
     "cargo": "MESTRE OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379615,
@@ -10347,7 +10347,7 @@
     "cpf": "13737057796",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379616,
@@ -10356,7 +10356,7 @@
     "cpf": "15784287770",
     "cargo": "CALDEIREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379617,
@@ -10365,7 +10365,7 @@
     "cpf": "14165697745",
     "cargo": "ALMOXARIFE JR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2379618,
@@ -10374,7 +10374,7 @@
     "cpf": "15705810709",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379619,
@@ -10383,7 +10383,7 @@
     "cpf": "96504064768",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379620,
@@ -10392,7 +10392,7 @@
     "cpf": "02227358726",
     "cargo": "AUX ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2379621,
@@ -10401,7 +10401,7 @@
     "cpf": "01611370752",
     "cargo": "COORD ALMOXARIFADO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "EDUARDO ALBERTO MAIORKI"
   },
   {
     "id": 2379622,
@@ -10410,7 +10410,7 @@
     "cpf": "19706362703",
     "cargo": "1/2 OFICIAL",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2379624,
@@ -10419,7 +10419,7 @@
     "cpf": "16500084730",
     "cargo": "TEC PLAN E CONTROLE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "RAFAEL DE OLIVEIRA MOREIRA"
   },
   {
     "id": 2380966,
@@ -10743,7 +10743,7 @@
     "cpf": "05421299732",
     "cargo": "ENCARREGADO DE OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2403431,
@@ -10752,7 +10752,7 @@
     "cpf": "05921565750",
     "cargo": "MONTADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2403454,
@@ -10760,7 +10760,7 @@
     "email": "kleffersson.silva@engemon.com.br",
     "cpf": "49610964826",
     "cargo": "ANL RH JR",
-    "departamento": "RECURSOS HUMANOS - 01 000101410",
+    "departamento": "GENTE & GESTÃO",
     "gestorDireto": "JESSICA KATIA MEDEIROS DORIA"
   },
   {
@@ -10869,7 +10869,7 @@
     "cpf": "10801998700",
     "cargo": "CALDEREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2408263,
@@ -11067,7 +11067,7 @@
     "cpf": "08407529702",
     "cargo": "OPERADOR ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2409250,
@@ -11076,7 +11076,7 @@
     "cpf": "09519889728",
     "cargo": "CALDEIREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2409251,
@@ -11085,7 +11085,7 @@
     "cpf": "17882447706",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2409252,
@@ -11094,7 +11094,7 @@
     "cpf": "09270806723",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2409253,
@@ -11103,7 +11103,7 @@
     "cpf": "11642561738",
     "cargo": "TEC SEG TRABALHO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "EDMAR CONSTANTINO"
   },
   {
     "id": 2409254,
@@ -11112,7 +11112,7 @@
     "cpf": "05260964705",
     "cargo": "ANALISTA LOGISTICO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "EDUARDO ALBERTO MAIORKI"
   },
   {
     "id": 2409255,
@@ -11121,7 +11121,7 @@
     "cpf": "69967784768",
     "cargo": "INSPETOR INTRU.AUTOM",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA AGUIAR CARVALHO"
   },
   {
     "id": 2409597,
@@ -11517,7 +11517,7 @@
     "cpf": "11767542704",
     "cargo": "ANALISTA BIM",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO MENEZES DE OLIVEIRA"
   },
   {
     "id": 2448353,
@@ -11526,7 +11526,7 @@
     "cpf": "07264802744",
     "cargo": "ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448354,
@@ -11535,7 +11535,7 @@
     "cpf": "13368594745",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448355,
@@ -11544,7 +11544,7 @@
     "cpf": "14849589774",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448356,
@@ -11553,7 +11553,7 @@
     "cpf": "16538040764",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448357,
@@ -11562,7 +11562,7 @@
     "cpf": "03609069740",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448358,
@@ -11571,7 +11571,7 @@
     "cpf": "00862295750",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448359,
@@ -11580,7 +11580,7 @@
     "cpf": "13599558795",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448360,
@@ -11589,7 +11589,7 @@
     "cpf": "18288828795",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448361,
@@ -11598,7 +11598,7 @@
     "cpf": "14162999716",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448362,
@@ -11607,7 +11607,7 @@
     "cpf": "08898698712",
     "cargo": "MONTADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448363,
@@ -11616,7 +11616,7 @@
     "cpf": "13362608744",
     "cargo": "MONTADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448364,
@@ -11625,7 +11625,7 @@
     "cpf": "04485139786",
     "cargo": "MONTADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448365,
@@ -11643,7 +11643,7 @@
     "cpf": "11153615703",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448367,
@@ -11652,7 +11652,7 @@
     "cpf": "07273403792",
     "cargo": "ENC OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448368,
@@ -11670,7 +11670,7 @@
     "cpf": "16655685770",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448371,
@@ -11679,7 +11679,7 @@
     "cpf": "08106874702",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448372,
@@ -11688,7 +11688,7 @@
     "cpf": "16511445755",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448373,
@@ -11697,7 +11697,7 @@
     "cpf": "22842999703",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448374,
@@ -11706,7 +11706,7 @@
     "cpf": "07062086762",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448375,
@@ -11715,7 +11715,7 @@
     "cpf": "14483047760",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448376,
@@ -11724,7 +11724,7 @@
     "cpf": "09618373738",
     "cargo": "ENC OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448377,
@@ -11733,7 +11733,7 @@
     "cpf": "54895790568",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448378,
@@ -11742,7 +11742,7 @@
     "cpf": "03121495496",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448379,
@@ -11760,7 +11760,7 @@
     "cpf": "14500362797",
     "cargo": "AUX LIMPEZA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2448381,
@@ -11778,7 +11778,7 @@
     "cpf": "18397444726",
     "cargo": "AUX LIMPEZA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2448383,
@@ -11787,7 +11787,7 @@
     "cpf": "10384116701",
     "cargo": "AUX LIMPEZA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2448384,
@@ -11796,7 +11796,7 @@
     "cpf": "15975844797",
     "cargo": "ANL ENGENHARIA SR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448385,
@@ -11805,7 +11805,7 @@
     "cpf": "17159147758",
     "cargo": "AUX LIMPEZA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2448386,
@@ -11823,7 +11823,7 @@
     "cpf": "14098599759",
     "cargo": "AUX LIMPEZA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2448388,
@@ -11841,7 +11841,7 @@
     "cpf": "01598232770",
     "cargo": "ENC LIMPEZA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2448390,
@@ -11850,7 +11850,7 @@
     "cpf": "04167977761",
     "cargo": "AUX LIMPEZA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2448391,
@@ -11886,7 +11886,7 @@
     "cpf": "40269973320",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448395,
@@ -11904,7 +11904,7 @@
     "cpf": "11356934714",
     "cargo": "SUPERV OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448398,
@@ -11913,7 +11913,7 @@
     "cpf": "13450761773",
     "cargo": "AUX LIMPEZA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2448399,
@@ -11922,7 +11922,7 @@
     "cpf": "08115808733",
     "cargo": "AUX LIMPEZA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2448400,
@@ -11949,7 +11949,7 @@
     "cpf": "12270969766",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2448533,
@@ -12318,7 +12318,7 @@
     "cpf": "02550809726",
     "cargo": "ARMADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466951,
@@ -12336,7 +12336,7 @@
     "cpf": "15639446773",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466953,
@@ -12354,7 +12354,7 @@
     "cpf": "11168432774",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466955,
@@ -12363,7 +12363,7 @@
     "cpf": "11136504788",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466956,
@@ -12372,7 +12372,7 @@
     "cpf": "12729853774",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466957,
@@ -12381,7 +12381,7 @@
     "cpf": "12848725729",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466958,
@@ -12390,7 +12390,7 @@
     "cpf": "13084637741",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466959,
@@ -12408,7 +12408,7 @@
     "cpf": "14368685725",
     "cargo": "ENC OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466961,
@@ -12417,7 +12417,7 @@
     "cpf": "11128722720",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466962,
@@ -12426,7 +12426,7 @@
     "cpf": "14734899703",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466963,
@@ -12435,7 +12435,7 @@
     "cpf": "17489337798",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466964,
@@ -12444,7 +12444,7 @@
     "cpf": "03611963771",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466965,
@@ -12453,7 +12453,7 @@
     "cpf": "09380754701",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466966,
@@ -12462,7 +12462,7 @@
     "cpf": "11217831711",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466967,
@@ -12471,7 +12471,7 @@
     "cpf": "82756775487",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466968,
@@ -12480,7 +12480,7 @@
     "cpf": "06929291773",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466969,
@@ -12489,7 +12489,7 @@
     "cpf": "60081809336",
     "cargo": "ENC OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466970,
@@ -12507,7 +12507,7 @@
     "cpf": "10077691733",
     "cargo": "MONTADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466972,
@@ -12516,7 +12516,7 @@
     "cpf": "10898459796",
     "cargo": "MARTELETEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466973,
@@ -12525,7 +12525,7 @@
     "cpf": "77118383520",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466974,
@@ -12534,7 +12534,7 @@
     "cpf": "13874123707",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466975,
@@ -12543,7 +12543,7 @@
     "cpf": "08195917771",
     "cargo": "PEDREIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2466976,
@@ -12552,7 +12552,7 @@
     "cpf": "18043472726",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2469924,
@@ -13038,7 +13038,7 @@
     "cpf": "60494145307",
     "cargo": "ENC OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494203,
@@ -13047,7 +13047,7 @@
     "cpf": "16843411754",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494204,
@@ -13056,7 +13056,7 @@
     "cpf": "12663666793",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494205,
@@ -13065,7 +13065,7 @@
     "cpf": "09639678783",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494206,
@@ -13074,7 +13074,7 @@
     "cpf": "08101535721",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494207,
@@ -13092,7 +13092,7 @@
     "cpf": "15729951736",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494210,
@@ -13101,7 +13101,7 @@
     "cpf": "16868549784",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494211,
@@ -13110,7 +13110,7 @@
     "cpf": "08201335740",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494212,
@@ -13119,7 +13119,7 @@
     "cpf": "00903909707",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494213,
@@ -13128,7 +13128,7 @@
     "cpf": "12311205412",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494214,
@@ -13137,7 +13137,7 @@
     "cpf": "08736344702",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494215,
@@ -13155,7 +13155,7 @@
     "cpf": "18424245806",
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "VINICIUS DE ALBUQUERQUE MIRA MUCHE"
   },
   {
     "id": 2494217,
@@ -13164,7 +13164,7 @@
     "cpf": "01998008550",
     "cargo": "ENG ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "FELIPE DE ALMEIDA NOVAS"
   },
   {
     "id": 2494218,
@@ -13173,7 +13173,7 @@
     "cpf": "07065592740",
     "cargo": "OPERADOR ELEVADOR",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2494219,
@@ -13182,7 +13182,7 @@
     "cpf": "08076178738",
     "cargo": "BUSINESS PARTNER",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "JESSICA KATIA MEDEIROS DORIA"
   },
   {
     "id": 2494220,
@@ -13200,7 +13200,7 @@
     "cpf": "20196486793",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2495310,
@@ -14424,7 +14424,7 @@
     "cpf": "10315908629",
     "cargo": "GERENTE DE QUALIDADE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
+    "gestorDireto": "CARLOS  CUNHA"
   },
   {
     "id": 2502938,
@@ -14469,7 +14469,7 @@
     "cpf": "17125218709",
     "cargo": "TEC MICRO INFO I",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
-    "gestorDireto": null
+    "gestorDireto": "CARLA CRISTINA DA SILVA RAMOS"
   },
   {
     "id": 2502985,
@@ -14478,7 +14478,7 @@
     "cpf": "47957797830",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA DA SILVA GROTTE"
   },
   {
     "id": 2502986,
@@ -14487,7 +14487,7 @@
     "cpf": "38678745819",
     "cargo": "TEC SUPORTE JR",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA DA SILVA GROTTE"
   },
   {
     "id": 2502987,
@@ -14514,7 +14514,7 @@
     "cpf": "31199876895",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA DA SILVA GROTTE"
   },
   {
     "id": 2502990,
@@ -14532,7 +14532,7 @@
     "cpf": "48332253870",
     "cargo": "ANL DE SUPORTE PL",
     "departamento": "IT-QUEIROZ GALVAO/BODSHOP 5059",
-    "gestorDireto": null
+    "gestorDireto": "RICARDO FREITAS"
   },
   {
     "id": 2502994,
@@ -14631,7 +14631,7 @@
     "cpf": "15382441790",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2503005,
@@ -14640,7 +14640,7 @@
     "cpf": "05698481725",
     "cargo": "OPERADOR DE EMPILHAD",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2503006,
@@ -14649,7 +14649,7 @@
     "cpf": "21402104766",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2503007,
@@ -14658,7 +14658,7 @@
     "cpf": "22614418781",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2503008,
@@ -14667,7 +14667,7 @@
     "cpf": "22051184712",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2503009,
@@ -14676,7 +14676,7 @@
     "cpf": "18551987704",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2503010,
@@ -14685,7 +14685,7 @@
     "cpf": "19978828761",
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2503011,
@@ -14694,7 +14694,7 @@
     "cpf": "70465298419",
     "cargo": "CARPINTEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2503012,
@@ -14721,7 +14721,7 @@
     "cpf": "07548129874",
     "cargo": "MESTRE OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2503017,
@@ -14883,7 +14883,7 @@
     "cpf": null,
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "RAFAEL DE OLIVEIRA MOREIRA"
   },
   {
     "id": 2504128,
@@ -14910,7 +14910,7 @@
     "cpf": null,
     "cargo": "COORD OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2504132,
@@ -14991,7 +14991,7 @@
     "cpf": null,
     "cargo": "ENG CIVIL",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
     "id": 2504143,
@@ -15450,7 +15450,7 @@
     "cpf": "10459729756",
     "cargo": "ANL TCKT MANAGER JR",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738 RJ",
-    "gestorDireto": null
+    "gestorDireto": "CARLA CRISTINA DA SILVA RAMOS"
   },
   {
     "id": 2506467,
@@ -15459,7 +15459,7 @@
     "cpf": "31731010818",
     "cargo": "ANL SERVICE DESK PL",
     "departamento": "IT-SKALA/BODYSHOP_506775.",
-    "gestorDireto": null
+    "gestorDireto": "LUIZ ROBERTO BARBOSA DE AGUIAR"
   },
   {
     "id": 2506468,
@@ -15468,7 +15468,7 @@
     "cpf": "07726029722",
     "cargo": "TEC MICRO INFO I",
     "departamento": "IT-DPSP/SER DESK E FIELD_506334_RJ",
-    "gestorDireto": null
+    "gestorDireto": "CARLA CRISTINA DA SILVA RAMOS"
   },
   {
     "id": 2506469,
@@ -15477,7 +15477,7 @@
     "cpf": "55436828833",
     "cargo": "JOVEM APRENDIZ",
     "departamento": "Jovem Aprendiz",
-    "gestorDireto": null
+    "gestorDireto": "RODRIGO FERNANDO FERNANDES"
   },
   {
     "id": 2506470,
@@ -15486,7 +15486,7 @@
     "cpf": "44884245890",
     "cargo": "JOVEM APRENDIZ",
     "departamento": "Jovem Aprendiz",
-    "gestorDireto": null
+    "gestorDireto": "RODRIGO FERNANDO FERNANDES"
   },
   {
     "id": 2506471,
@@ -15504,7 +15504,7 @@
     "cpf": "40506538850",
     "cargo": "ASSISTENTE ADM II",
     "departamento": "ADMINISTRATIVO",
-    "gestorDireto": null
+    "gestorDireto": "PAULO ROBERTO SONCIN"
   },
   {
     "id": 2506473,
@@ -16224,7 +16224,7 @@
     "cpf": "43593058855",
     "cargo": "TEC SUPORTE PL",
     "departamento": "IT-CIELO/SD_FD_506675",
-    "gestorDireto": null
+    "gestorDireto": "WAGNER GOES"
   },
   {
     "id": 2516934,
@@ -16233,7 +16233,7 @@
     "cpf": "39142763800",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA DA SILVA GROTTE"
   },
   {
     "id": 2516935,
@@ -16242,7 +16242,7 @@
     "cpf": "48474334837",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
-    "gestorDireto": null
+    "gestorDireto": "FERNANDA DA SILVA GROTTE"
   },
   {
     "id": 2516936,
@@ -16260,7 +16260,7 @@
     "cpf": "42020226880",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-ASSOCIACAO SC/FIELDSERVICE_",
-    "gestorDireto": null
+    "gestorDireto": "ELAINE MENDES RAMALHO"
   },
   {
     "id": 2516938,
@@ -16269,7 +16269,7 @@
     "cpf": "17352965700",
     "cargo": "TEC SUPORTE JR",
     "departamento": "IT-ASSOC CONGREGACAO SCDESK E",
-    "gestorDireto": null
+    "gestorDireto": "ELAINE MENDES RAMALHO"
   },
   {
     "id": 2516939,
@@ -16278,7 +16278,7 @@
     "cpf": "41122797877",
     "cargo": "ANL SERV DESK BILING",
     "departamento": "IT-PATRIA/ SERVICE DESK BRASIL",
-    "gestorDireto": null
+    "gestorDireto": "PATRICIA CAMPOS"
   },
   {
     "id": 2516940,
@@ -16287,7 +16287,7 @@
     "cpf": "03412675202",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-LEO MADEIRAS/SER DESK _FIEL",
-    "gestorDireto": null
+    "gestorDireto": "GABRIEL VICTOR RUSSO"
   },
   {
     "id": 2516941,
@@ -16296,7 +16296,7 @@
     "cpf": "23821069805",
     "cargo": "ANL SERVICE DESK PL",
     "departamento": "IT-TITANPNEUS/SERVICE DESK_FIE",
-    "gestorDireto": null
+    "gestorDireto": "Wellington Schunck Denelevi"
   },
   {
     "id": 2516942,
@@ -16310,7 +16310,7 @@
   {
     "id": 2516988,
     "nome": "LUIS FERNANDO CONDARCO",
-    "email": "luiscondarco1190@gmail.com",
+    "email": "luismollisaca@gmail.com",
     "cpf": "42367311854",
     "cargo": "ANL SERVICE DESK PL",
     "departamento": "IT-TITANPNEUS/SERVICE DESK_FIE",
