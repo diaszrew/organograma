@@ -9,12 +9,6 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://d3js.org/d3.v7.min.js"></script>
-
-   <!-- ====== SCRIPTS JS ====== -->
-    <script src="index.js"></script>
-
-    <style rel="stylesheet" href="style.css"></style>
-    
 </head>
 
 <body>
@@ -107,6 +101,78 @@
     </div>
   </main>
 
+  <!-- ====== FOOTER ====== -->
+  <footer class="modern-footer" role="contentinfo" aria-label="Rodapé Engemon Organograma">
+    <div class="footer-inner">
+      <div class="brand" aria-hidden="true">
+        <div class="logo" aria-hidden="true">
+          <!-- decorative logo: letter E -->
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <rect x="0" y="0" width="24" height="24" rx="5" fill="url(#lg)"/>
+            <defs>
+              <linearGradient id="lg" x1="0" x2="1">
+                <stop offset="0" stop-color="#0077C8"/>
+                <stop offset="1" stop-color="#00AEEF"/>
+              </linearGradient>
+            </defs>
+          </svg>
+        </div>
+        <div>
+          <div class="site-name">Engemon Organograma</div>
+          <div class="site-tag">Design moderno • Acessível</div>
+        </div>
+      </div>
+
+      <div class="actions" aria-label="Ações de contato">
+        <!-- Link de Feedback -->
+        <a class="action feedback"
+           href="mailto:gabriel.pereira@engemon.com.br?subject=Feedback%20-%20Organograma%20Engemon&body=Ol%C3%A1%20equipe%20Engemon%2C%0A%0AEstou%20enviando%20este%20feedback%20sobre%20o%20Organograma%20Engemon.%0A%0AP%C3%A1gina%2FSe%C3%A7%C3%A3o%3A%20%0ASugest%C3%A3o%2FComent%C3%A1rio%3A%20%0AImpacto%20esperado%3A%20%0A%0APassos%20(opcional)%3A%0A1)%20%0A2)%20%0A%0AObserva%C3%A7%C3%B5es%3A%20%0A%0AObrigado%2C%0A%5BSeu%20nome%5D"
+           aria-label="Enviar feedback por e-mail">
+          <span class="icon" aria-hidden="true">
+            <!-- envelope icon -->
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 7.5v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-9"></path>
+              <polyline points="22,7.5 12,13 2,7.5"></polyline>
+            </svg>
+          </span>
+          <span class="label">
+            Enviar feedback
+            <small class="hint">Sugestões e elogios</small>
+          </span>
+        </a>
+
+        <!-- Link de Reportar Erro -->
+        <a class="action bug"
+           href="mailto:gabriel.pereira@engemon.com.br?subject=Relato%20de%20Erro%20-%20Organograma%20Engemon&body=Ol%C3%A1%20equipe%20Engemon%2C%0A%0AQuero%20reportar%20um%20erro%20encontrado%20no%20Organograma%20Engemon.%0A%0AURL%2FSe%C3%A7%C3%A3o%3A%20%0APassos%20para%20reproduzir%3A%0A1)%20%0A2)%20%0A%0AComportamento%20esperado%3A%20%0AComportamento%20observado%3A%20%0A%0ATempo%20%28data%2Fhora%29%3A%20%0ANavegador%2FSistema%20operacional%3A%20%0A%0AAnexar%20capturas%20de%20tela%20se%20poss%C3%ADvel.%0A%0AObrigado%2C%0A%5BSeu%20nome%5D"
+           aria-label="Reportar erro por e-mail">
+          <span class="icon" aria-hidden="true">
+            <!-- bug icon -->
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20 12h2"></path>
+              <path d="M2 12h2"></path>
+              <path d="M12 2v2"></path>
+              <path d="M12 20v2"></path>
+              <path d="M5 7l1.5 1.5"></path>
+              <path d="M19 7l-1.5 1.5"></path>
+              <path d="M5 17l1.5-1.5"></path>
+              <path d="M19 17l-1.5-1.5"></path>
+              <circle cx="12" cy="12" r="3"></circle>
+            </svg>
+          </span>
+          <span class="label">
+            Reportar erro
+            <small class="hint">Bugs e problemas</small>
+          </span>
+        </a>
+      </div>
+    </div>
+
+    <div class="meta" aria-hidden="true">
+      <span>© <span id="year"></span> Engemon Organograma — Feito com ♥</span>
+      <span class="smallprint">Privacidade • Termos</span>
+    </div>
+  </footer>
+
   <!-- Export modal -->
   <div id="exportModal" class="hidden fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50">
     <div class="rounded-lg shadow-lg w-80 text-center" style="background:var(--modal-bg); color:var(--modal-text); padding:16px;">
@@ -123,77 +189,5 @@
       </div>
     </div>
   </div>
-
-  
-<footer class="modern-footer" role="contentinfo" aria-label="Rodapé Engemon Organograma">
-  <div class="footer-inner">
-    <div class="brand" aria-hidden="true">
-      <div class="logo" aria-hidden="true">
-        <!-- decorative logo: letter E -->
-        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-          <rect x="0" y="0" width="24" height="24" rx="5" fill="url(#lg)"/>
-          <defs>
-            <linearGradient id="lg" x1="0" x2="1">
-              <stop offset="0" stop-color="#0077C8"/>
-              <stop offset="1" stop-color="#00AEEF"/>
-            </linearGradient>
-          </defs>
-        </svg>
-      </div>
-      <div>
-        <div class="site-name">Engemon Organograma</div>
-        <div class="site-tag">Design moderno • Acessível</div>
-      </div>
-    </div>
-
-    <div class="actions" aria-label="Ações de contato">
-      <!-- Link de Feedback -->
-      <a class="action feedback"
-         href="mailto:gabriel.pereira@engemon.com.br?subject=Feedback%20-%20Organograma%20Engemon&body=Ol%C3%A1%20equipe%20Engemon%2C%0A%0AEstou%20enviando%20este%20feedback%20sobre%20o%20Organograma%20Engemon.%0A%0AP%C3%A1gina%2FSe%C3%A7%C3%A3o%3A%20%0ASugest%C3%A3o%2FComent%C3%A1rio%3A%20%0AImpacto%20esperado%3A%20%0A%0APassos%20(opcional)%3A%0A1)%20%0A2)%20%0A%0AObserva%C3%A7%C3%B5es%3A%20%0A%0AObrigado%2C%0A%5BSeu%20nome%5D"
-         aria-label="Enviar feedback por e-mail">
-        <span class="icon" aria-hidden="true">
-          <!-- envelope icon -->
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M4 7.5v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-9"></path>
-            <polyline points="22,7.5 12,13 2,7.5"></polyline>
-          </svg>
-        </span>
-        <span class="label">
-          Enviar feedback
-          <small class="hint">Sugestões e elogios</small>
-        </span>
-      </a>
-
-      <!-- Link de Reportar Erro -->
-      <a class="action bug"
-         href="mailto:gabriel.pereira@engemon.com.br?subject=Relato%20de%20Erro%20-%20Organograma%20Engemon&body=Ol%C3%A1%20equipe%20Engemon%2C%0A%0AQuero%20reportar%20um%20erro%20encontrado%20no%20Organograma%20Engemon.%0A%0AURL%2FSe%C3%A7%C3%A3o%3A%20%0APassos%20para%20reproduzir%3A%0A1)%20%0A2)%20%0A%0AComportamento%20esperado%3A%20%0AComportamento%20observado%3A%20%0A%0ATempo%20%28data%2Fhora%29%3A%20%0ANavegador%2FSistema%20operacional%3A%20%0A%0AAnexar%20capturas%20de%20tela%20se%20poss%C3%ADvel.%0A%0AObrigado%2C%0A%5BSeu%20nome%5D"
-         aria-label="Reportar erro por e-mail">
-        <span class="icon" aria-hidden="true">
-          <!-- bug icon -->
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M20 12h2"></path>
-            <path d="M2 12h2"></path>
-            <path d="M12 2v2"></path>
-            <path d="M12 20v2"></path>
-            <path d="M5 7l1.5 1.5"></path>
-            <path d="M19 7l-1.5 1.5"></path>
-            <path d="M5 17l1.5-1.5"></path>
-            <path d="M19 17l-1.5-1.5"></path>
-            <circle cx="12" cy="12" r="3"></circle>
-          </svg>
-        </span>
-        <span class="label">
-          Reportar erro
-          <small class="hint">Bugs e problemas</small>
-        </span>
-      </a>
-    </div>
-  </div>
-
-  <div class="meta" aria-hidden="true">
-    <span>© <span id="year"></span> Engemon Organograma — Feito com ♥</span>
-    <span class="smallprint">Privacidade • Termos</span>
-  </div>
-</footer>
 </body>
 </html>
