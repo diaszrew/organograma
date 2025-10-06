@@ -1,8 +1,4 @@
-<script>
-  /*******************************
-    THEMES
-  *******************************/
-  const THEME_LIGHT = {
+const THEME_LIGHT = {
     pageBg: "#f3f4f6", pageText: "#1a1a1a",
     headerOverlayStart: "rgba(0,119,200,0.9)", headerOverlayEnd: "rgba(0,174,239,0.9)", headerText: "#ffffff",
     nodeBg: "#ffffff", nodeManagerBg: "#e3f2fd", boxStroke: "#3182bd", nameColor: "#003B73", titleColor: "#0077C8", secondaryText: "#888",
@@ -13,7 +9,7 @@
     modalBg: "#ffffff", modalText: "#1a1a1a",
     spinnerTop: "#ffffff", cropBorder: "#00AEEF", cropBg: "rgba(0,174,239,0.15)"
   };
-  const THEME_NIGHT = {
+const THEME_NIGHT = {
     pageBg: "#071025", pageText: "#e6eef8",
     headerOverlayStart: "rgba(2,6,23,0.85)", headerOverlayEnd: "rgba(7,18,34,0.85)", headerText: "#e6eef8",
     nodeBg: "#0f1724", nodeManagerBg: "#1f2937", boxStroke: "#4A90E2", nameColor: "#e6eef8", titleColor: "#90CAF9", secondaryText: "#9aa6b2",
@@ -1030,4 +1026,4 @@
   loadSavedTheme();
   getColaboradores();
   window.startCropMode = startCropMode;
-</script>
+
