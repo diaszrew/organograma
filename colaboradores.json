@@ -108,15 +108,6 @@
     "gestorDireto": "FABIO CAMARA"
   },
   {
-    "id": 1466825,
-    "nome": "ALEXANDRE KENJI TANAKA",
-    "email": "alexandre@engemon.com.br",
-    "cpf": "16987073805",
-    "cargo": "GERENTE DE CONTRATOS",
-    "departamento": "ENGENHARIA",
-    "gestorDireto": "RONNY DE OLIVEIRA BOUCINHA"
-  },
-  {
     "id": 1466827,
     "nome": "EDUARDO HENRIQUE DA SILVA XAVIER",
     "email": "eduardo.xavier@engemon.com.br",
@@ -156,7 +147,7 @@
     "id": 1466841,
     "nome": "GABRIELA PATRIOTA DA SILVA",
     "email": "gabriela.patriota@engemon.com.br",
-    "cpf": null,
+    "cpf": "31852073861",
     "cargo": "COORDENADORA PMO",
     "departamento": "OPERATION SERVICES",
     "gestorDireto": "SONIA KEIKO TANAKA"
@@ -376,6 +367,15 @@
     "cargo": "GERENTE DE CONTRATOS",
     "departamento": "GRU - AMPLIACAO GRANDE SALA 100883",
     "gestorDireto": "RONNY DE OLIVEIRA BOUCINHA"
+  },
+  {
+    "id": 1466919,
+    "nome": "GILVAN LEANDRO MAIA DOS SANTOS",
+    "email": "gilvan.santos@engemon.com.br",
+    "cpf": "7120590839",
+    "cargo": "COORDENADOR MANUTENCAO",
+    "departamento": "SKY MANUT DC JBC",
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
   },
   {
     "id": 1467013,
@@ -1311,7 +1311,7 @@
     "cpf": "49884160899",
     "cargo": "Arquiteta de Propostas",
     "departamento": "ORCAMENTOS",
-    "gestorDireto": "KARINA CARREIRO"
+    "gestorDireto": "MARCUS VINICIUS DE OLIVEIRA"
   },
   {
     "id": 1477149,
@@ -1618,15 +1618,6 @@
     "cargo": "ENGENHEIRO DE MANUTENÇÃO",
     "departamento": "GESTÃO DE MANUTENÇÃO - SP",
     "gestorDireto": "JAYME TADEU SALLE"
-  },
-  {
-    "id": 1477259,
-    "nome": "ADRIANO SOUZA ITO",
-    "email": "adriano.ito@engemon.com.br",
-    "cpf": "08166243997",
-    "cargo": "ENGENHEIRO DE PLANEJAMENTO",
-    "departamento": "ENGENHARIA",
-    "gestorDireto": "RODRIGO GOMES DE FIGUEIREDO"
   },
   {
     "id": 1477267,
@@ -1975,7 +1966,7 @@
     "nome": "NATHALIA VINHA DECCO",
     "email": "nathalia.decco@engemon.com.br",
     "cpf": "35351164817",
-    "cargo": "ANL COMERCIAL PL",
+    "cargo": "COORDENADORA COMERCIAL",
     "departamento": "COMERCIAL",
     "gestorDireto": "JORGE BERGER"
   },
@@ -2151,15 +2142,6 @@
     "gestorDireto": "Rafael Arantes Pereira"
   },
   {
-    "id": 1477789,
-    "nome": "Alessandro Lourenco Da Silva",
-    "email": "alessandro.silva@engemon.com.br",
-    "cpf": "20103442863",
-    "cargo": "SUPERV DE MANUT I - 01 00419",
-    "departamento": "BRADESCO _MANUT ALPHAVILLE FIL - 01 091000601",
-    "gestorDireto": "JOÃO DOS SANTOS ANDRADE"
-  },
-  {
     "id": 1477791,
     "nome": "Marcosuel De Sousa Carvalho",
     "email": "marcosuel.mb@hotmail.com",
@@ -2167,15 +2149,6 @@
     "cargo": "SUPERV DE MANUT I - 01 00419",
     "departamento": "BRADESCO _MANUT ALPHAVILLE FIL - 01 091000601",
     "gestorDireto": "JOÃO DOS SANTOS ANDRADE"
-  },
-  {
-    "id": 1477795,
-    "nome": "Alan Marcos Prazeres",
-    "email": "amp.serv.eletricista@gmail.com",
-    "cpf": "32826241826",
-    "cargo": "ELETRICISTA I - 01 00260",
-    "departamento": "BRADESCO _MANUT ALPHAVILLE FIL - 01 091000601",
-    "gestorDireto": "Genario Francisco Da Rocha"
   },
   {
     "id": 1477797,
@@ -2376,6 +2349,15 @@
     "gestorDireto": "Alessandro Lourenco Da Silva"
   },
   {
+    "id": 1477869,
+    "nome": "Gabriel Da Silva Ferreira",
+    "email": "gabriel.silva3807@gmail.com",
+    "cpf": "47838748836",
+    "cargo": "ELETROMECANICO - 01 00266",
+    "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
+    "gestorDireto": "Almir Lopes Dos Santos Junior"
+  },
+  {
     "id": 1477877,
     "nome": "ISADORA CAMARGO DE SOUSA",
     "email": "isadora.souza@engemon.com.br",
@@ -2484,15 +2466,6 @@
     "gestorDireto": null
   },
   {
-    "id": 1477937,
-    "nome": "Alex De Oliveira Martins",
-    "email": "jm3449602@gmail.com",
-    "cpf": "1785585088",
-    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
-    "departamento": "FEMSA - PORTO ALEGRE PL/UO - 01 145000208",
-    "gestorDireto": "Felipe Carvalho Ferreira"
-  },
-  {
     "id": 1477941,
     "nome": "Jessica David Passos",
     "email": "jessica.passos@engemon.com.br",
@@ -2511,6 +2484,15 @@
     "gestorDireto": "ANDERSON EDUARDO MACIEL"
   },
   {
+    "id": 1477961,
+    "nome": "Everton Vernes Ponciano",
+    "email": "evertonv.ponciano@gmail.com",
+    "cpf": "1948588048",
+    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
+    "departamento": "FEMSA - PORTO ALEGRE PL/UO - 01 145000208",
+    "gestorDireto": "Felipe Carvalho Ferreira"
+  },
+  {
     "id": 1477983,
     "nome": "Gustavo Silva Santos",
     "email": "gustavo.santos@engemon.com.br",
@@ -2518,6 +2500,24 @@
     "cargo": "AUX TEC MIC INFO II",
     "departamento": "IT",
     "gestorDireto": "RENATO RAFAELLY SANTOS"
+  },
+  {
+    "id": 1478007,
+    "nome": "Jonatha Valemtim Santos",
+    "email": "jonathavalentim4@gmail.com",
+    "cpf": null,
+    "cargo": "1/2 OFICIAL",
+    "departamento": "BRADESCO _MANUT ALPHAVILLE",
+    "gestorDireto": "Genario Francisco Da Rocha"
+  },
+  {
+    "id": 1478009,
+    "nome": "Andre De Franca Menezes",
+    "email": "andfrancamenezes041@gmail.com",
+    "cpf": "30840574860",
+    "cargo": "ELETRICISTA I - 01 00260",
+    "departamento": "BRADESCO _MANUT ALPHAVILLE FIL - 01 091000601",
+    "gestorDireto": "Helom De Souza Zanin"
   },
   {
     "id": 1478013,
@@ -2565,6 +2565,24 @@
     "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
   },
   {
+    "id": 1478045,
+    "nome": "David Ewerton Goncalves Da Silva",
+    "email": "davidewerton84@gmail.com",
+    "cpf": "48747330856",
+    "cargo": "AUXILIAR TECNICO - 01 00201",
+    "departamento": "FEMSA - MARILIA PL/UO - 01 145000110",
+    "gestorDireto": "Roger Luan Martins"
+  },
+  {
+    "id": 1478049,
+    "nome": "Henrique Renan Do Carmo",
+    "email": "henriquerenan9623@gmail.com",
+    "cpf": "47356096870",
+    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
+    "departamento": "FEMSA - MOGI DAS CRUZES PL/UO - 01 145000103",
+    "gestorDireto": "CLAUDIO ENRIQUE CONTRERAS GARAY JUNIOR"
+  },
+  {
     "id": 1478055,
     "nome": "Sandra Regina Pessoa Barbosa",
     "email": "sandrapessoa.bb@gmail.com",
@@ -2581,15 +2599,6 @@
     "cargo": "Assistente ADM",
     "departamento": "FISCAL",
     "gestorDireto": "FABIO TURRI"
-  },
-  {
-    "id": 1478071,
-    "nome": "Adisson Gomes Da Silva",
-    "email": "adissongomes5@gmail.com",
-    "cpf": "33339514879",
-    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
-    "departamento": "FEMSA - CARAGUATATUBA - 01 145000105",
-    "gestorDireto": "CLAUDIO ENRIQUE CONTRERAS GARAY JUNIOR"
   },
   {
     "id": 1478075,
@@ -2650,7 +2659,7 @@
     "nome": "Gabriel Bou Rizk Botassio",
     "email": "gabriel.botassio@engemon.com.br",
     "cpf": "43290821870",
-    "cargo": "ASSIST ENGENHARIA",
+    "cargo": "ANL PLANEJAMENTO JR",
     "departamento": "PMO",
     "gestorDireto": "EDUARDO CASSOLI GODOY"
   },
@@ -2671,6 +2680,15 @@
     "cargo": "OFICIAL DE MANUTENCA - 01 00376",
     "departamento": "FEMSA - BAURU PL/UO - 01 145000113",
     "gestorDireto": "Roger Luan Martins"
+  },
+  {
+    "id": 1478115,
+    "nome": "Carlos Alberto Vanzo Filho",
+    "email": "ca514538@gmail.com",
+    "cpf": "23440461866",
+    "cargo": "PINTOR - 01 00397",
+    "departamento": "FEMSA - JUNDIAI PL/UO - 01 145000104",
+    "gestorDireto": "ANDERSON EDUARDO MACIEL"
   },
   {
     "id": 1478125,
@@ -2772,6 +2790,15 @@
     "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
+    "id": 1478217,
+    "nome": "Daniel Da Silva Santos",
+    "email": "santos.danielsd21@gmail.com",
+    "cpf": null,
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "gestorDireto": "CLAUDIO ENRIQUE CONTRERAS GARAY JUNIOR"
+  },
+  {
     "id": 1478223,
     "nome": "Adalberto Barbosa De Cerqueira Junior",
     "email": "juniorcerqueira1309@gmail.com",
@@ -2844,6 +2871,15 @@
     "gestorDireto": "CAROLINA FLORIDO PEREIRA"
   },
   {
+    "id": 1478279,
+    "nome": "Rafael Rodrigues Santos",
+    "email": "rr3658167@gmail.com",
+    "cpf": "54239666805",
+    "cargo": "AUXILIAR TECNICO - 01 00201",
+    "departamento": "FEMSA - JUNDIAI PL/UO - 01 145000104",
+    "gestorDireto": "ANDERSON EDUARDO MACIEL"
+  },
+  {
     "id": 1478281,
     "nome": "Marcelo Henrique Silva Goncalves Ramos",
     "email": "marcelohenrique14222@gmail.com",
@@ -2862,6 +2898,15 @@
     "gestorDireto": "EDUARDO MORAES RODRIGUES"
   },
   {
+    "id": 1478289,
+    "nome": "Matheus Barbosa De Andrade",
+    "email": "matheus.sep2022@gmail.com",
+    "cpf": null,
+    "cargo": "ELETRICISTA",
+    "departamento": "GESTAO DATA CENTER",
+    "gestorDireto": "MATHEUS URBAN DE CARVALHO"
+  },
+  {
     "id": 1478295,
     "nome": "Jonatas Henrique Da Silva Brito",
     "email": "jhol.jhol2703@gmail.com",
@@ -2869,6 +2914,15 @@
     "cargo": "ELETRICISTA I",
     "departamento": "GESTÃO DE MANUTENÇÃO - SP",
     "gestorDireto": null
+  },
+  {
+    "id": 1478301,
+    "nome": "Paula Silva De Oliveira Vidal",
+    "email": "paula.silva_oliveira@outlook.com",
+    "cpf": "42334599808",
+    "cargo": "ASSIST ADM PL - 01 00138",
+    "departamento": "FEMSA - JUNDIAI PL/UO - 01 145000104",
+    "gestorDireto": "ANDERSON EDUARDO MACIEL"
   },
   {
     "id": 1478311,
@@ -2943,15 +2997,6 @@
     "gestorDireto": "Jose Kleber De Sousa Brito Filho"
   },
   {
-    "id": 1478333,
-    "nome": "Adao Jose De Morais",
-    "email": "adaonetomorais@gmail.com",
-    "cpf": null,
-    "cargo": "TEC MANUT II",
-    "departamento": "NEXTSTREAM NDC - MANUT RENOV - 01 062000700",
-    "gestorDireto": "Alaf Kennedy Vieira Ramos"
-  },
-  {
     "id": 1478337,
     "nome": "William Rodrigues Aguido",
     "email": "privado.will@gmail.com",
@@ -3006,6 +3051,15 @@
     "gestorDireto": "ACACIO BERGAMINI DOS SANTOS"
   },
   {
+    "id": 1478353,
+    "nome": "LAZARO PEREIRA SANTOS",
+    "email": "lazaro.pereira@engemon.com.br",
+    "cpf": "34001162890",
+    "cargo": "ENG ELETRICISTA",
+    "departamento": "MATRIX_FRSANTAIZABEL_AGUIARNOP - 01 201102300",
+    "gestorDireto": "ANDRE DE MARCHI MORAES"
+  },
+  {
     "id": 1478355,
     "nome": "Marcelo Do Nascimento Lima",
     "email": "Marcelohdisp@yahoo.com.br",
@@ -3040,6 +3094,15 @@
     "cargo": "TEC SEG TRABALHO",
     "departamento": "SST - Saúde e Segurança do Trabalho",
     "gestorDireto": "ANDERSON MESSIAS GALVAO DOMINGUES"
+  },
+  {
+    "id": 1478365,
+    "nome": "Ismael Macedo Mesquita",
+    "email": "ISMAEL.MESQUITA28@GMAIL.COM",
+    "cpf": "78013909204",
+    "cargo": "OPERADOR BMS II - 01 00382",
+    "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
+    "gestorDireto": "DAVID AUGUSTO DE ALMEIDA"
   },
   {
     "id": 1478373,
@@ -3172,15 +3235,6 @@
     "nome": "Robson Pereira Rosa",
     "email": "Robsonpereira0506@gmail.com",
     "cpf": "16808658897",
-    "cargo": "OP DATA CENTER JR - 01 00378",
-    "departamento": "NEXTSTREAM NDC MANUT 2025 - 01 062000600",
-    "gestorDireto": "Ricardo Pereira Teixeira"
-  },
-  {
-    "id": 1478427,
-    "nome": "Alberto Ferreira De Lima",
-    "email": "FERREIRATUTU@HOTMAIL.COM",
-    "cpf": "4117556843",
     "cargo": "OP DATA CENTER JR - 01 00378",
     "departamento": "NEXTSTREAM NDC MANUT 2025 - 01 062000600",
     "gestorDireto": "Ricardo Pereira Teixeira"
@@ -3321,15 +3375,6 @@
     "gestorDireto": "WASHINGTON SOUSA DOS SANTOS"
   },
   {
-    "id": 1478469,
-    "nome": "Alaf Kennedy Vieira Ramos",
-    "email": "alafkennedy@gmail.com",
-    "cpf": "42285338848",
-    "cargo": "TEC MANUT III",
-    "departamento": "NEXTSTREAM NDC - MANUT RENOV - 01 062000700",
-    "gestorDireto": "WASHINGTON SOUSA DOS SANTOS"
-  },
-  {
     "id": 1478471,
     "nome": "Daniel Asriel Dos Santos",
     "email": "daniel.asriel@hotmail.com",
@@ -3420,6 +3465,15 @@
     "gestorDireto": "Ricardo Pereira Teixeira"
   },
   {
+    "id": 1478499,
+    "nome": "Francisco Jose Lima Santos",
+    "email": "francisco.j.l.s@outlook.com",
+    "cpf": "36498002840",
+    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
+    "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
+    "gestorDireto": "Almir Lopes Dos Santos Junior"
+  },
+  {
     "id": 1478501,
     "nome": "Alexsandro Antonio Da Silva",
     "email": "alexsandro.silva@engemon.com.br",
@@ -3472,6 +3526,15 @@
     "cargo": "OP DATA CENTER JR",
     "departamento": "NEXTSTREAM NDC - MANUT RENOV - 01 062000700",
     "gestorDireto": "Alaf Kennedy Vieira Ramos"
+  },
+  {
+    "id": 1478529,
+    "nome": "Miguel Camargo Petinari Pinheiro",
+    "email": "miguelcamargo124@gmail.com",
+    "cpf": "49034716830",
+    "cargo": "ELETROMECANICO - 01 00266",
+    "departamento": "BRADESCO _MANUT ALPHAVILLE FIL - 01 091000601",
+    "gestorDireto": "Marcosuel De Sousa Carvalho"
   },
   {
     "id": 1478533,
@@ -3546,6 +3609,15 @@
     "gestorDireto": "ACACIO BERGAMINI DOS SANTOS"
   },
   {
+    "id": 1478649,
+    "nome": "Mauricio Da Silva Pacifico",
+    "email": "mauriciopacifico7@gmail.com",
+    "cpf": "5633871731",
+    "cargo": "ELETROMECANICO - 01 00266",
+    "departamento": "CLARO RJ MANUT - FILIAL 2024 - 01 008004400",
+    "gestorDireto": "ACACIO BERGAMINI DOS SANTOS"
+  },
+  {
     "id": 1478651,
     "nome": "Raphael Cortes Silva",
     "email": "raphaelcortess@hotmail.com",
@@ -3591,6 +3663,24 @@
     "gestorDireto": "Almir Lopes Dos Santos Junior"
   },
   {
+    "id": 1478673,
+    "nome": "Valdenor Gomes De Alencar",
+    "email": "valdenor.g.alencar@gmail.com",
+    "cpf": "14504971879",
+    "cargo": "OFICIAL MAN ELETRICA - 01 00377",
+    "departamento": "HYATT RENOV 2024 - 01 067000700",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
+    "id": 1478675,
+    "nome": "Carlos Antonio Ferreira De Oliveira",
+    "email": "karlynhos.antonirosi@yahoo.com",
+    "cpf": "34238270843",
+    "cargo": "OFICIAL MAN ELETRICA - 01 00377",
+    "departamento": "HYATT RENOV 2024 - 01 067000700",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
     "id": 1478679,
     "nome": "Luiza Santos Lima",
     "email": "luiza.lima@engemon.com.br",
@@ -3627,12 +3717,39 @@
     "gestorDireto": "AMANDA PERUFFO RAMOS"
   },
   {
+    "id": 1478693,
+    "nome": "Danilo Sousa Da Silva",
+    "email": "Dankiwi28@gmail.com",
+    "cpf": "52020072807",
+    "cargo": "TEC REFRIGERACAO I - 01 00446",
+    "departamento": "TELEFONICA_CHUCI CONTR MANUTEN - 01 029103700",
+    "gestorDireto": "Jose Kleber De Sousa Brito Filho"
+  },
+  {
+    "id": 1478697,
+    "nome": "Mauro Santana Da Silva",
+    "email": "maurosantanadasilva902@gmail.com",
+    "cpf": "75882370582",
+    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
+    "departamento": "STO MERCADO_CONTRATO DE MANUTE - 01 148000400",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
+    "id": 1478705,
+    "nome": "Enilton Rosa Pereira",
+    "email": "nirtinhorosa@gmail.com",
+    "cpf": "86733362791",
+    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
+    "departamento": "CLARO ES MANUT - FILIAL 2024 - 01 008004500",
+    "gestorDireto": "ACACIO BERGAMINI DOS SANTOS"
+  },
+  {
     "id": 1478707,
     "nome": "Denis Henrique Landim Pontes Vieira",
     "email": "henrique.denislpv@yahoo.com",
     "cpf": "42096966841",
     "cargo": "OFICIAL DE MANUTENCA - 01 00376",
-    "departamento": "HYATT RENOV 2024 - 01 067000700",
+    "departamento": "HYATT SP MANUTENCAO 2025 - 01 067000800",
     "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
@@ -3681,6 +3798,15 @@
     "gestorDireto": "LUCIANE SAMPAIO CARVALHO"
   },
   {
+    "id": 1478741,
+    "nome": "Josenildo Santos Nascimento",
+    "email": "josenildosantos45@hotmail.com",
+    "cpf": "94581711568",
+    "cargo": "ELETROMECANICO - 01 00266",
+    "departamento": "BRESCO - MANUT PREDIAL 2025 - 01 170000400",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
     "id": 1478747,
     "nome": "Denilson Matias Da Silva",
     "email": "denilson.silva@engemon.com.br",
@@ -3688,6 +3814,168 @@
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO RJ MANUT INFRA 2025 - 01 008005000",
     "gestorDireto": "ACACIO BERGAMINI DOS SANTOS"
+  },
+  {
+    "id": 1478749,
+    "nome": "Fernando Rodrigues Dos Reis",
+    "email": "fernandorodriguesfr8989@gmail.com",
+    "cpf": null,
+    "cargo": "OPERADOR BMS I",
+    "departamento": "SKY MANUT DC JBC",
+    "gestorDireto": "Rodrigo Henrique Ribeiro"
+  },
+  {
+    "id": 1478751,
+    "nome": "Lucas Barros Januario",
+    "email": "lbj_lucas@hotmail.com",
+    "cpf": null,
+    "cargo": "TEC MANUT II",
+    "departamento": "SKY MANUT DC JBC FILIAL 2024 - 01 027903300",
+    "gestorDireto": "Marcos Fernando Ferreira Gomes"
+  },
+  {
+    "id": 1478753,
+    "nome": "Marcos Fernando Ferreira Gomes",
+    "email": "tecnologomf85@gmail.com",
+    "cpf": null,
+    "cargo": "SUPERV MANUT",
+    "departamento": "SKY MANUT DC JBC FILIAL 2024 - 01 027903300",
+    "gestorDireto": "GILVAN LEANDRO MAIA DOS SANTOS"
+  },
+  {
+    "id": 1478757,
+    "nome": "Rodrigo Xavier Rodrigues",
+    "email": "rodrigox_f@hotmail.com",
+    "cpf": null,
+    "cargo": "TEC MANUT II",
+    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "gestorDireto": "Rodrigo Henrique Ribeiro"
+  },
+  {
+    "id": 1478759,
+    "nome": "Rinaldo Aparecido Travisani",
+    "email": "nai_visani@yahoo.com.br",
+    "cpf": null,
+    "cargo": "SUPERV MANUT",
+    "departamento": "SKY MANUT DC JBC FILIAL 2024 - 01 027903300",
+    "gestorDireto": "GILVAN LEANDRO MAIA DOS SANTOS"
+  },
+  {
+    "id": 1478761,
+    "nome": "Rodrigo Henrique Ribeiro",
+    "email": "rodrigo_xhr@hotmail.com",
+    "cpf": null,
+    "cargo": "SUPERV DE MANUT III",
+    "departamento": "SKY MANUT DC JBC FILIAL 2024 - 01 027903300",
+    "gestorDireto": "GILVAN LEANDRO MAIA DOS SANTOS"
+  },
+  {
+    "id": 1478763,
+    "nome": "Jose Francisco Durante",
+    "email": "durantefrancisco256@terra.com.br",
+    "cpf": null,
+    "cargo": "TEC REFRIGERACAO I",
+    "departamento": "SKY MANUT DC JBC FILIAL 2024 - 01 027903300",
+    "gestorDireto": "Fernando Zanobi Manoel"
+  },
+  {
+    "id": 1478769,
+    "nome": "Thayssa Vieira Melo",
+    "email": "thayssavieira.2015@gmail.com",
+    "cpf": "52007191865",
+    "cargo": "OPERADOR BMS I - 01 00381",
+    "departamento": "SKY MANUT DC JBC FILIAL 2024 - 01 027903300",
+    "gestorDireto": "Rinaldo Aparecido Travisani"
+  },
+  {
+    "id": 1478771,
+    "nome": "Douglas Silva De Arruda",
+    "email": "douglasarrudas@gmail.com",
+    "cpf": null,
+    "cargo": "MEC REFRIGERACAO II",
+    "departamento": "SKY MANUT TAMBORE FILIAL 2024 - 01 027903400",
+    "gestorDireto": "Gabriel De Moura Evangelista"
+  },
+  {
+    "id": 1478773,
+    "nome": "Jurandir Bezerra Dos Santos",
+    "email": "jurandirbezerra@yahoo.com.br",
+    "cpf": null,
+    "cargo": "TEC MANUT II",
+    "departamento": "SKY MANUT TAMBORE FILIAL 2024 - 01 027903400",
+    "gestorDireto": "Gabriel De Moura Evangelista"
+  },
+  {
+    "id": 1478775,
+    "nome": "Renato Rodrigues Batista",
+    "email": "renatofederal2003@yahoo.com.br",
+    "cpf": null,
+    "cargo": "TEC MANUT I",
+    "departamento": "SKY MANUT TAMBORE FILIAL 2024 - 01 027903400",
+    "gestorDireto": "Gabriel De Moura Evangelista"
+  },
+  {
+    "id": 1478777,
+    "nome": "Romiro Hodeoncio De Oliveira",
+    "email": "r.h.oliveira@hotmail.com",
+    "cpf": null,
+    "cargo": "TEC MANUT I",
+    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "gestorDireto": "Gabriel De Moura Evangelista"
+  },
+  {
+    "id": 1478781,
+    "nome": "Gabriel De Moura Evangelista",
+    "email": "gabriel.evangelista@engemon.com.br",
+    "cpf": null,
+    "cargo": "SUPERV MANUT II",
+    "departamento": "SKY MANUT TAMBORE",
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+  },
+  {
+    "id": 1478783,
+    "nome": "Jadson Silva Xavier",
+    "email": "jadson.xavier@outlook.com",
+    "cpf": "6222022510",
+    "cargo": "TEC MANUT I",
+    "departamento": "SKY MANUT TAMBORE FILIAL 2024 - 01 027903400",
+    "gestorDireto": "Gabriel De Moura Evangelista"
+  },
+  {
+    "id": 1478787,
+    "nome": "Gustavo Souza Vieira",
+    "email": "souzagu13@outlook.com",
+    "cpf": "44319946880",
+    "cargo": "MEC REFRIGERACAO II - 01 00366",
+    "departamento": "SKY MANUT TAMBORE FILIAL 2024 - 01 027903400",
+    "gestorDireto": "Gabriel De Moura Evangelista"
+  },
+  {
+    "id": 1478789,
+    "nome": "Rafael Rodrigo Alves Zani",
+    "email": "rafaelrodrigo.zani@gmail.com",
+    "cpf": "33166959823",
+    "cargo": "TEC MANUT I - 01 00440",
+    "departamento": "SKY MANUT TAMBORE FILIAL 2024 - 01 027903400",
+    "gestorDireto": "Gabriel De Moura Evangelista"
+  },
+  {
+    "id": 1478791,
+    "nome": "Denis Ribeiro Costa",
+    "email": "denisrobru@hotmail.com",
+    "cpf": "45281015800",
+    "cargo": "TEC MANUT I - 01 00440",
+    "departamento": "SKY MANUT TAMBORE FILIAL 2024 - 01 027903400",
+    "gestorDireto": "Gabriel De Moura Evangelista"
+  },
+  {
+    "id": 1478799,
+    "nome": "Adailton Alves Pereira",
+    "email": "adailton.contato21@gmail.com",
+    "cpf": "91035066572",
+    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
+    "departamento": "BRESCO - MANUT PREDIAL 2025 - 01 170000400",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 1478801,
@@ -3814,6 +4102,15 @@
     "cargo": "TEC AUTOMACAO I - 01 00430",
     "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
     "gestorDireto": "GUILHERME CARVALHO HERMANO"
+  },
+  {
+    "id": 1479039,
+    "nome": "Ewerton Salles Da Silva",
+    "email": "ewerton.salles@outlook.com",
+    "cpf": "42911266897",
+    "cargo": "OPERADOR BMS II - 01 00382",
+    "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
+    "gestorDireto": "DAVID AUGUSTO DE ALMEIDA"
   },
   {
     "id": 1479041,
@@ -4059,6 +4356,15 @@
     "gestorDireto": "Roger Luan Martins"
   },
   {
+    "id": 1553331,
+    "nome": "JOSIVAN RODRIGUES DOS SANTOS",
+    "email": "josivanrodrigues130@gmail.com",
+    "cpf": "16152571448",
+    "cargo": "AUXILIAR TECNICO - 01 00201",
+    "departamento": "FEMSA - JUNDIAI PL/UO - 01 145000104",
+    "gestorDireto": "ANDERSON EDUARDO MACIEL"
+  },
+  {
     "id": 1553333,
     "nome": "LUIS GUILHERME PEREIRA DA SILV",
     "email": "guilhermesilva2825gs@gmail.com",
@@ -4192,6 +4498,15 @@
     "cargo": "AJUDANTE GERAL - 01 00014",
     "departamento": "EQUINIX SP6X - 01 002104100",
     "gestorDireto": "MATHEUS URBAN DE CARVALHO"
+  },
+  {
+    "id": 1609389,
+    "nome": "MARILVIA LUCIANA ALVES",
+    "email": "mara_luciana@hotmail.com",
+    "cpf": "35059248810",
+    "cargo": "TEC SEG TRABALHO",
+    "departamento": "FEMSA - JUNDIAI PL/UO - 01 145000104",
+    "gestorDireto": "ANDERSON EDUARDO MACIEL"
   },
   {
     "id": 1609393,
@@ -4347,6 +4662,15 @@
     "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
+    "id": 1674023,
+    "nome": "HENRIQUE TIAGO",
+    "email": "davi.fotografias@outlook.com",
+    "cpf": "39799744806",
+    "cargo": "AJUDANTE GERAL - 01 00014",
+    "departamento": "EQUINIX SP7X - 01 002103000",
+    "gestorDireto": "MATHEUS URBAN DE CARVALHO"
+  },
+  {
     "id": 1674025,
     "nome": "FABIOLO CAVALCANTE CASTRO",
     "email": "cavalcantefabiolo@gmail.com",
@@ -4471,6 +4795,15 @@
     "cargo": "AUX LIMPEZA - 01 00183",
     "departamento": "FEMSA_PORTARIA JUNDIAI 1009845 - 01 056300500",
     "gestorDireto": "MATHEUS MARTINS BELLINTANI"
+  },
+  {
+    "id": 1708773,
+    "nome": "NAUANE OLIVEIRA DOS SANTOS",
+    "email": "na.oliveira20@gmail.com",
+    "cpf": "42780544830",
+    "cargo": "AUX SEG TRABALHO - 01 00191",
+    "departamento": "FEMSA_CONTRATO DE MANUT D.NORT - 01 145000100",
+    "gestorDireto": "CLAUDIO ENRIQUE CONTRERAS GARAY JUNIOR"
   },
   {
     "id": 1708789,
@@ -4653,6 +4986,15 @@
     "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
   },
   {
+    "id": 1735953,
+    "nome": "CELIO MENDES SANCHES",
+    "email": "celiomendespiraju@gmail.com",
+    "cpf": "13023458855",
+    "cargo": "ELETRICISTA I",
+    "departamento": "ENGENHARIA",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
     "id": 1735955,
     "nome": "MANUEL CATARINA DE SOUSA NETO",
     "email": "manualcatarina3@gmail.com",
@@ -4714,6 +5056,15 @@
     "cargo": "1/2 OFICIAL - 01 00006",
     "departamento": "BRADESCO _MANUT ALPHAVILLE FIL - 01 091000601",
     "gestorDireto": "JOÃO DOS SANTOS ANDRADE"
+  },
+  {
+    "id": 1771922,
+    "nome": "ROBSON L DO NASCIMENTO SANTOS",
+    "email": "xprobsonluis@hotmail.com",
+    "cpf": "31705630847",
+    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
+    "departamento": "FEMSA - GUARATINGUETA - 01 145000108",
+    "gestorDireto": null
   },
   {
     "id": 1771924,
@@ -4914,6 +5265,15 @@
     "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
+    "id": 1841886,
+    "nome": "RAYLAN BATISTA NOVAIS",
+    "email": "raylanbatistanovais2004@gmail.com",
+    "cpf": "36528131899",
+    "cargo": "AJUDANTE GERAL - 01 00014",
+    "departamento": "EQUINIX SP7X - 01 002103000",
+    "gestorDireto": "MATHEUS URBAN DE CARVALHO"
+  },
+  {
     "id": 1841894,
     "nome": "CARLOS GOMES MARQUES",
     "email": "carlosgomesmarques50@gmail.com",
@@ -5074,6 +5434,15 @@
     "cargo": "AJUDANTE OBRAS",
     "departamento": "EQUINIX SP7X - 01 002103000",
     "gestorDireto": "ORLANDO CIRINO"
+  },
+  {
+    "id": 1968102,
+    "nome": "FABIO ARAUJO FERREIRA",
+    "email": "fabioaraujoferreira@yahoo.com.br",
+    "cpf": "34272670832",
+    "cargo": "TEC SEG TRABALHO",
+    "departamento": "SST - Saúde e Segurança do Trabalho",
+    "gestorDireto": "ANDERSON MESSIAS GALVAO DOMINGUES"
   },
   {
     "id": 1968105,
@@ -5418,6 +5787,15 @@
     "gestorDireto": "RAFAEL FRAGA RESENDE"
   },
   {
+    "id": 2068338,
+    "nome": "RILDO DAMAZIO SILVA",
+    "email": "rildodamazio15@gmail.com",
+    "cpf": "5294346605",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "INNOVA INSPIRA ITAIM MANUT PRE - 01 189000100",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
     "id": 2068339,
     "nome": "WILLIAM SAMUEL B DA FONTOURA",
     "email": "fontouraw89@gmail.com",
@@ -5607,6 +5985,15 @@
     "gestorDireto": "SERGIO CERQUEIRA CUNHA"
   },
   {
+    "id": 2075102,
+    "nome": "NARCISO JOSE DOS SANTOS",
+    "email": "nj55santos@gmail.com",
+    "cpf": "05567095864",
+    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
+    "departamento": "EQUINIX SP5 - MANUT 2024 - 01 002102402",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
     "id": 2075111,
     "nome": "LEANDRO ELIAS DE  MOURA",
     "email": "lleandroeliaselias@gmail.com",
@@ -5650,6 +6037,15 @@
     "cargo": "MEC REFRIGERACAO I - 01 00365",
     "departamento": "AJINOMOTO/ MANUT PREDIAL 2024 - 01 001900600",
     "gestorDireto": "ALEX WILIAM DO CARMO"
+  },
+  {
+    "id": 2075133,
+    "nome": "PIERRE DA SILVA FEITOSA",
+    "email": "pierre.feitosa78@yahoo.com.br",
+    "cpf": "21663427879",
+    "cargo": "OFICIAL DE MANUTENCA - 01 00376",
+    "departamento": "FEMSA - MACRO CD - 01 145000201",
+    "gestorDireto": "CLAUDIO ENRIQUE CONTRERAS GARAY JUNIOR"
   },
   {
     "id": 2075134,
@@ -6288,7 +6684,7 @@
     "cpf": "43332009893",
     "cargo": "Arquiteto de Propostas",
     "departamento": "ORCAMENTOS",
-    "gestorDireto": "KARINA CARREIRO"
+    "gestorDireto": "MARCUS VINICIUS DE OLIVEIRA"
   },
   {
     "id": 2272116,
@@ -6451,6 +6847,15 @@
     "cargo": "SERVENTE - 01 00411",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
+  },
+  {
+    "id": 2285885,
+    "nome": "JURACI DE LIMA",
+    "email": "lima9043@gmail.com",
+    "cpf": "21406309800",
+    "cargo": "TEC MANUT II - 01 00441",
+    "departamento": "SKY MANUT DC JBC FILIAL 2024 - 01 027903300",
+    "gestorDireto": "Fernando Zanobi Manoel"
   },
   {
     "id": 2285887,
@@ -6786,15 +7191,6 @@
     "gestorDireto": "ANDERSON MESSIAS GALVAO DOMINGUES"
   },
   {
-    "id": 2286679,
-    "nome": "FABIO AUGUSTO ESTEVAM",
-    "email": "fae.estevam72@gmail.com",
-    "cpf": "7853561857",
-    "cargo": "TEC SEG TRABALHO",
-    "departamento": "SST - Saúde e Segurança do Trabalho",
-    "gestorDireto": "ANDERSON MESSIAS GALVAO DOMINGUES"
-  },
-  {
     "id": 2286683,
     "nome": "RONALDO DOS SANTOS BRAZ",
     "email": "brazronaldo022@gmail.com",
@@ -6827,8 +7223,8 @@
     "email": "fercaarvallho@gmail.com",
     "cpf": "11343722993",
     "cargo": "OP DATA CENTER JR - 01 00378",
-    "departamento": "NEXTSTREAM - CIC - MANUT 2025 - 01 063000600",
-    "gestorDireto": null
+    "departamento": "NEXTSTREAM - CIC - MANUT RENOV - 01 063000700",
+    "gestorDireto": "Daniel Correa Lopes"
   },
   {
     "id": 2286712,
@@ -7000,6 +7396,15 @@
     "cargo": "ELETRICISTA I - 01 00260",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA - 01 173000100",
     "gestorDireto": "KEICE ELLEN DA SILVA"
+  },
+  {
+    "id": 2286787,
+    "nome": "DIEGO TESSARO PEREIRA",
+    "email": "diego_tessaro@hotmail.com",
+    "cpf": "38137079890",
+    "cargo": "TEC MANUT I - 01 00440",
+    "departamento": "NEXTSTREAM NDC MANUT 2025 - 01 062000600",
+    "gestorDireto": "Alaf Kennedy Vieira Ramos"
   },
   {
     "id": 2286788,
@@ -7642,7 +8047,7 @@
   },
   {
     "id": 2369218,
-    "nome": "THAYSSA SOFIA RIBEIRO",
+    "nome": "THAYSSA RIBEIRO",
     "email": "thayssa.ribeiro@engemon.com.br",
     "cpf": "51773974831",
     "cargo": "JOVEM APRENDIZ",
@@ -8838,15 +9243,6 @@
     "gestorDireto": "FERNANDA DA SILVA GROTTE"
   },
   {
-    "id": 2409233,
-    "nome": "ANDERSON DA CONCEICAO THEODORO",
-    "email": "anderson.theodoro@gmail.com",
-    "cpf": "08876445706",
-    "cargo": "TEC MICRO INFO I",
-    "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673",
-    "gestorDireto": "GABRIEL VICTOR RUSSO"
-  },
-  {
     "id": 2409235,
     "nome": "GUSTAVO HENRIQUE DA SILVA CUNH",
     "email": "p.em.concreto@gmail.com",
@@ -9189,15 +9585,6 @@
     "gestorDireto": "JOSE MARIO RIBEIRO"
   },
   {
-    "id": 2426291,
-    "nome": "AGENEMILSON RODRIGUES CORDEIRO",
-    "email": "agenemilson@gmail.com",
-    "cpf": "25819953860",
-    "cargo": "ELETRICISTA I",
-    "departamento": "BRADESCO _MANUT ALPHAVILLE FIL",
-    "gestorDireto": "Wellington Aparecido Fernandes Daniel"
-  },
-  {
     "id": 2426292,
     "nome": "LUCAS FELIPE SANTOS GONCALVES",
     "email": "lucasgoncalves2893@gmail.com",
@@ -9205,15 +9592,6 @@
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "ISE SCHOOL - MANUTENCAO PREDIA - 01 290000100",
     "gestorDireto": "JONATHAN DE JESUS SANTOS"
-  },
-  {
-    "id": 2426293,
-    "nome": "ADRIANO DE SOUZA",
-    "email": "adrianoben037@gmail.com",
-    "cpf": "33437872800",
-    "cargo": "AUXILIAR TECNICO",
-    "departamento": "FEMSA - BAURU PL/UO",
-    "gestorDireto": "Roger Luan Martins"
   },
   {
     "id": 2426294,
@@ -10872,6 +11250,15 @@
     "gestorDireto": "MARCELLO CAVALCANTE EVANGELISTA"
   },
   {
+    "id": 2494197,
+    "nome": "DIEGO HENRIQUE PEREIRA",
+    "email": "diegohpereira161@gmail.com",
+    "cpf": "35877760831",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "SIEMENS - MANUTENCAO E LIMPEZA",
+    "gestorDireto": null
+  },
+  {
     "id": 2494198,
     "nome": "WILLIAM ALVES ROSEMBAUM BATIST",
     "email": "williamalvesrosembaumbatista@gmail.com",
@@ -12246,7 +12633,7 @@
     "cpf": "30184938856",
     "cargo": "COORDENADORA",
     "departamento": "ADMINISTRATIVO - 01 000200200",
-    "gestorDireto": null
+    "gestorDireto": "PRESIDÊNCIA"
   },
   {
     "id": 2498827,
@@ -13608,15 +13995,6 @@
     "gestorDireto": "AMANDA PERUFFO RAMOS"
   },
   {
-    "id": 2508442,
-    "nome": "AGUINALDO LOPES",
-    "email": "lopseletricahidraulica@hotmail.com.br",
-    "cpf": null,
-    "cargo": "OFICIAL DE MANUTENCA",
-    "departamento": "FEMSA - JUNDIAI PL/UO - 01 145000104",
-    "gestorDireto": "ANDERSON EDUARDO MACIEL"
-  },
-  {
     "id": 2508445,
     "nome": "CELSO LUIS DE OLIVEIRA",
     "email": "lord.expresss@yahoo.com.br",
@@ -14049,13 +14427,13 @@
     "gestorDireto": "Daniel Correa Lopes"
   },
   {
-    "id": 2509248,
-    "nome": "ALEXANDRE ALVES DO NASCIMENTO",
-    "email": "alexandreaslves359@gmail.co",
+    "id": 2509246,
+    "nome": "CAIO DA SILVA FREITAS",
+    "email": "caio.freitas@engemon.com.br",
     "cpf": null,
-    "cargo": "ELETROMECANICO",
-    "departamento": "GOODMAN - MANUT FACILITIES",
-    "gestorDireto": "CAIO DA SILVA FREITAS"
+    "cargo": "SUPERV MANUT",
+    "departamento": "GESTAO DE MANUT COM 2025 - 01 000103315",
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
   },
   {
     "id": 2509252,
@@ -14280,7 +14658,7 @@
     "cpf": "17662670767",
     "cargo": "TEC ELETROTEC I",
     "departamento": "CLARO - MANUT E OPERACAO DC MA",
-    "gestorDireto": null
+    "gestorDireto": "SERGIO CERQUEIRA CUNHA"
   },
   {
     "id": 2522455,
@@ -14289,7 +14667,7 @@
     "cpf": "34252106885",
     "cargo": "ELETRICISTA",
     "departamento": "UOL - MANUT PREDIAL 1011281 FA",
-    "gestorDireto": null
+    "gestorDireto": "ALEXANDRO DE ASSIS DE ALMEIDA"
   },
   {
     "id": 2522456,
@@ -14298,7 +14676,7 @@
     "cpf": "42928404821",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "UOL - MANUTENCAO PREDIAL 10112",
-    "gestorDireto": null
+    "gestorDireto": "ALEXANDRO DE ASSIS DE ALMEIDA"
   },
   {
     "id": 2522457,
@@ -14307,7 +14685,7 @@
     "cpf": "05246462951",
     "cargo": "ELETRICISTA",
     "departamento": "SIEMENS - MANUTENCAO E LIMPEZA",
-    "gestorDireto": null
+    "gestorDireto": "RAFAEL OZSVATH FERREIRA"
   },
   {
     "id": 2522458,
@@ -14316,7 +14694,7 @@
     "cpf": "32924610818",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "HYATT RENOV 2024",
-    "gestorDireto": null
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2522459,
@@ -14325,7 +14703,7 @@
     "cpf": "02244294501",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522460,
@@ -14334,7 +14712,7 @@
     "cpf": "01005759006",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522461,
@@ -14343,7 +14721,7 @@
     "cpf": "62297708220",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522462,
@@ -14352,7 +14730,7 @@
     "cpf": "99486130159",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522463,
@@ -14361,7 +14739,7 @@
     "cpf": "69014582234",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522464,
@@ -14370,7 +14748,7 @@
     "cpf": "03185137906",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522465,
@@ -14379,7 +14757,7 @@
     "cpf": "12485809828",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522466,
@@ -14388,7 +14766,7 @@
     "cpf": "34507866871",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522467,
@@ -14397,7 +14775,7 @@
     "cpf": "01658635442",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522468,
@@ -14406,7 +14784,7 @@
     "cpf": "82982945568",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522469,
@@ -14415,7 +14793,7 @@
     "cpf": "06495009380",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522470,
@@ -14424,7 +14802,7 @@
     "cpf": "65917952272",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522471,
@@ -14433,7 +14811,7 @@
     "cpf": "90413407772",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522472,
@@ -14442,7 +14820,7 @@
     "cpf": "11386757683",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522473,
@@ -14451,7 +14829,7 @@
     "cpf": "02236536160",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522474,
@@ -14460,7 +14838,7 @@
     "cpf": "08921755756",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522475,
@@ -14469,7 +14847,7 @@
     "cpf": "01489911227",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522476,
@@ -14478,7 +14856,16 @@
     "cpf": "43764241888",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "UOL - MANUTENCAO PREDIAL 10112",
-    "gestorDireto": null
+    "gestorDireto": "ALEXANDRO DE ASSIS DE ALMEIDA"
+  },
+  {
+    "id": 2522477,
+    "nome": "DOUGLAS DA SILVA SOARES",
+    "email": "douglas.soares.silva6@gmail.com",
+    "cpf": "41897831889",
+    "cargo": "AUX REFRIGERACAO",
+    "departamento": "UOL - MANUT PREDIAL 1011281 FA",
+    "gestorDireto": "ALEXANDRO DE ASSIS DE ALMEIDA"
   },
   {
     "id": 2522478,
@@ -14487,7 +14874,7 @@
     "cpf": "17612976609",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "INNOVA - MANUT PREDIAL EXTREMA",
-    "gestorDireto": null
+    "gestorDireto": "CAIO DA SILVA FREITAS"
   },
   {
     "id": 2522479,
@@ -14496,7 +14883,7 @@
     "cpf": "04479873643",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522480,
@@ -14505,7 +14892,7 @@
     "cpf": "03782609107",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522481,
@@ -14514,7 +14901,7 @@
     "cpf": "12088091726",
     "cargo": "ELETROMECANICO",
     "departamento": "CLARO - INFRA MACAE",
-    "gestorDireto": null
+    "gestorDireto": "CARLOS AUGUSTO JARDIM CHAVES"
   },
   {
     "id": 2522482,
@@ -14523,7 +14910,7 @@
     "cpf": "10459791710",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "FEMSA - PORTO REAL",
-    "gestorDireto": null
+    "gestorDireto": "CLAUDIO ENRIQUE CONTRERAS GARAY JUNIOR"
   },
   {
     "id": 2522483,
@@ -14532,7 +14919,7 @@
     "cpf": "39998953812",
     "cargo": "MEC REFRIGERACAO I",
     "departamento": "AJINOMOTO/ MANUT PREDIAL 2024",
-    "gestorDireto": null
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
   },
   {
     "id": 2522484,
@@ -14541,7 +14928,7 @@
     "cpf": "97888940110",
     "cargo": "OFICIAL DE MANUTENCA",
     "departamento": "BRADESCO - NORTE, NORDESTE E C",
-    "gestorDireto": null
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
   },
   {
     "id": 2522485,
@@ -14550,7 +14937,7 @@
     "cpf": "24125791805",
     "cargo": "ASSIST PLANEJAMENTO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
   },
   {
     "id": 2522486,
@@ -14559,7 +14946,7 @@
     "cpf": "40859162893",
     "cargo": "ASSIST PLANEJAMENTO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
   },
   {
     "id": 2522487,
@@ -14568,7 +14955,7 @@
     "cpf": "48894547809",
     "cargo": "ASSIST PLANEJAMENTO",
     "departamento": "CLARO - CONTRATO INFRA SPC",
-    "gestorDireto": null
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
   },
   {
     "id": 2522489,
@@ -14830,5 +15217,338 @@
     "cargo": "SERVENTE",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
+  },
+  {
+    "id": 2522781,
+    "nome": "JOAO SANTOS CARDOSO JUNIOR",
+    "email": "dandarairis@hotmail.com",
+    "cpf": "29956646865",
+    "cargo": "TEC MANUT I",
+    "departamento": "TELEFONICA_CHUCI CONTR MANUTEN - 01 029103700",
+    "gestorDireto": "Marciano Da Silva"
+  },
+  {
+    "id": 2522785,
+    "nome": "PEDRO FERNANDES DA CRUZ",
+    "email": "pedro@gmail.com",
+    "cpf": "36362151836",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "FEMSA - MARILIA PL/UO - 01 145000110",
+    "gestorDireto": "Roger Luan Martins"
+  },
+  {
+    "id": 2522798,
+    "nome": "MARCELO GOMES VICENTE",
+    "email": "marcelogomesvicente101066@gmail.com",
+    "cpf": "09076355800",
+    "cargo": "MEC REFRIGERACAO I",
+    "departamento": "AJINOMOTO/ MANUT PREDIAL 2024 - 01 001900600",
+    "gestorDireto": "ALEX WILIAM DO CARMO"
+  },
+  {
+    "id": 2522801,
+    "nome": "BRIAN BERNARDO TRINDADE PONCIA",
+    "email": "brianbernardo@gmail.com",
+    "cpf": "60070828067",
+    "cargo": "AUXILIAR TECNICO",
+    "departamento": "FEMSA - PORTO ALEGRE PL/UO - 01 145000208",
+    "gestorDireto": "Felipe Carvalho Ferreira"
+  },
+  {
+    "id": 2522806,
+    "nome": "LEANDRO DE SOUSA BARROZO",
+    "email": "leandro210287@gmail.com",
+    "cpf": "06860202432",
+    "cargo": "OFICIAL MANUT II",
+    "departamento": "BRESCO - MANUTENCAO PREDIAL - - 01 170000500",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
+    "id": 2522809,
+    "nome": "JOSE HUMBERTO DA SILVA LEITE",
+    "email": "silvaleitejosehumberto@gmail.com",
+    "cpf": "18770368899",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRESCO - MANUTENCAO PREDIAL - - 01 170000500",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
+    "id": 2522813,
+    "nome": "WELLINGTON VASCONCELOS D FRIAS",
+    "email": "friaswellington48@gmail.com",
+    "cpf": "56203713449",
+    "cargo": "ENC MANUTENCAO",
+    "departamento": "BRESCO - MANUTENCAO PREDIAL - - 01 170000500",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
+    "id": 2522815,
+    "nome": "JONATHAN DE JESUS SANTOS",
+    "email": "jonathanjesussantos66@gmail.com",
+    "cpf": "41093636831",
+    "cargo": "LID ELETRICISTA",
+    "departamento": "ISE SCHOOL - MANUTENCAO PREDIA - 01 290000100",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
+    "id": 2522821,
+    "nome": "EDUARDO LOPES FERREIRA",
+    "email": "duhlopes47@gmail.com",
+    "cpf": "42272163890",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRESCO - MANUTENCAO PREDIAL - - 01 170000500",
+    "gestorDireto": "CAIO DA SILVA FREITAS"
+  },
+  {
+    "id": 2522827,
+    "nome": "ROGER LOPES DA SILVA",
+    "email": "ROGERLIOES2285@GMAIL.COM",
+    "cpf": "34608229885",
+    "cargo": "AUX MANUTENCAO",
+    "departamento": "UOL - MANUTENCAO PREDIAL 10112 - 01 300000100",
+    "gestorDireto": "PAULO H GONCALVES DE FREITAS"
+  },
+  {
+    "id": 2522852,
+    "nome": "HIGOR RAFAEL LINS DIAS",
+    "email": "igorrrrr85@gmail.com",
+    "cpf": "11967207461",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C - 01 091000700",
+    "gestorDireto": "LEANDRO TADEU DAMASCENO CASTRO LEITE"
+  },
+  {
+    "id": 2523264,
+    "nome": "DANIELE DE OLIVEIRA PIRES",
+    "email": "daniele.pires@engemon.com.br",
+    "cpf": "30643817840",
+    "cargo": "COORDENADOR QUALIDADE",
+    "departamento": "Q&C",
+    "gestorDireto": "SILMARA MENDES DE MATOS"
+  },
+  {
+    "id": 2523270,
+    "nome": "DANIELE CRISTINA SILVA ROCHA",
+    "email": "daniele.rocha@engemon.com.br",
+    "cpf": "40532694821",
+    "cargo": "ANL FINANCEIRO PL",
+    "departamento": "FINANCEIRO",
+    "gestorDireto": "VITORIA GABRIELLE DE MAGISTRIS"
+  },
+  {
+    "id": 2523277,
+    "nome": "GUSTAVO THOMAS DA SILVA",
+    "email": "gustavothomassilva@gmail.com",
+    "cpf": "47272383810",
+    "cargo": "ANL TCKT MANAGER JR",
+    "departamento": "IT-DPSP/SER DESK E FIELD_506334",
+    "gestorDireto": "CELSO HENRIQUE NOGUEIRA LIMA"
+  },
+  {
+    "id": 2523278,
+    "nome": "WEVERTON SMANIOTO",
+    "email": "wevertonsmanioto.ti@gmail.com",
+    "cpf": "35200238811",
+    "cargo": "TEC MICRO INFO I",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738",
+    "gestorDireto": "CELSO HENRIQUE NOGUEIRA LIMA"
+  },
+  {
+    "id": 2523279,
+    "nome": "GILMAR VINICIUS ALVES",
+    "email": "gilmarvinicius8@gmail.com",
+    "cpf": "42631647840",
+    "cargo": "ANL SERVICE DESK JR",
+    "departamento": "IT-LEO MADEIRAS/SER DESK _FIELD 506251",
+    "gestorDireto": "GABRIEL VICTOR RUSSO"
+  },
+  {
+    "id": 2523280,
+    "nome": "MARINA DE ALCANTARA FIGUEIREDO",
+    "email": "marinaalcantarafigueiredo9@gmail.com",
+    "cpf": "43317230894",
+    "cargo": "ANL TCKT MANAGER JR",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738",
+    "gestorDireto": "CELSO HENRIQUE NOGUEIRA LIMA"
+  },
+  {
+    "id": 2523281,
+    "nome": "GUILHERME MELO FERREIRA DE MES",
+    "email": "guilhermek9000@hotmail.com",
+    "cpf": "28650374875",
+    "cargo": "TEC SUPORTE JR",
+    "departamento": "IT-ASSOCIACAO SC/FIELDSERVICE_SERVICEDES",
+    "gestorDireto": "ELAINE MENDES RAMALHO"
+  },
+  {
+    "id": 2523282,
+    "nome": "VICTOR RAMOS DA SILVA",
+    "email": "victorunasp29@gmail.com",
+    "cpf": "46145307889",
+    "cargo": "ANL DE SUPORTE JR",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738",
+    "gestorDireto": "FERNANDA DA SILVA GROTTE"
+  },
+  {
+    "id": 2523283,
+    "nome": "NELIO VICENTE KRULL",
+    "email": "nelio.vicente@hotmail.com",
+    "cpf": "14499598737",
+    "cargo": "TEC SUPORTE JR",
+    "departamento": "IT-ASSOC CONGREGACAO SCDESK E FIEL RJ",
+    "gestorDireto": "ELAINE MENDES RAMALHO"
+  },
+  {
+    "id": 2523325,
+    "nome": "CASSIANO RICARDO MENDES SILVA",
+    "email": "cassiano.silva@engemon.com.br",
+    "cpf": "17611349813",
+    "cargo": "COORDERNADOR DE MANUTENCAO",
+    "departamento": "OPERATION SERVICES",
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+  },
+  {
+    "id": 2523328,
+    "nome": "LUCAS LOPES LEITE",
+    "email": "lucas.leite@engemon.com.br",
+    "cpf": "47491149871",
+    "cargo": "ANALISTA DE RH",
+    "departamento": "GENTE & GESTÃO",
+    "gestorDireto": "AMANDA PERUFFO RAMOS"
+  },
+  {
+    "id": 2523331,
+    "nome": "JEAN MARCUS PIMENTA DE OLIVEIRA",
+    "email": "jean.oliveira@engemon.com.br",
+    "cpf": "08867072773",
+    "cargo": "GERENTE DE CONTRATOS",
+    "departamento": "OPERATION SERVICES",
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+  },
+  {
+    "id": 2523356,
+    "nome": "ADRIANO DOS SANTOS QUADRADO",
+    "email": "adrianosquadrado@gmail.com",
+    "cpf": "01946029076",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "FEMSA - PELOTAS",
+    "gestorDireto": "Felipe Carvalho Ferreira"
+  },
+  {
+    "id": 2523357,
+    "nome": "ALEXSANDRO ANTONIO DA SILVA",
+    "email": "alexxsanndro@gmail.com",
+    "cpf": "40254814808",
+    "cargo": "ASSIST TECNICO",
+    "departamento": "GESTAO DE MANUT COM 2025",
+    "gestorDireto": "GUILHERME CARVALHO HERMANO"
+  },
+  {
+    "id": 2523358,
+    "nome": "ALIPIO DA SILVA SANTANA",
+    "email": "Santanaalipio2424@gmail.com",
+    "cpf": "20537037845",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "FEMSA - MACRO CD",
+    "gestorDireto": "IVAN HITOSHI LEGRAZIE"
+  },
+  {
+    "id": 2523359,
+    "nome": "EDIVAN MENDES ROCHA",
+    "email": "Kemilyrocha@hotmail.com",
+    "cpf": "96490004372",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CIRION - CSL FORTALEZA 1011233",
+    "gestorDireto": "DEOLINO PEREIRA DA COSTA NETO"
+  },
+  {
+    "id": 2523360,
+    "nome": "FARNEI CAMPOS SALES",
+    "email": "f.kaingang@gmail.com",
+    "cpf": "02911883039",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "FEMSA - POSTOS ADICIONAIS NR10",
+    "gestorDireto": "Felipe Carvalho Ferreira"
+  },
+  {
+    "id": 2523361,
+    "nome": "GUTEMAR MANOEL DE ALMEIDA",
+    "email": "0000703380@senaimgaluno.com.br",
+    "cpf": "00076039676",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CIRION - REGIONAL BELO HORIZO",
+    "gestorDireto": "DEOLINO PEREIRA DA COSTA NETO"
+  },
+  {
+    "id": 2523362,
+    "nome": "HANDERSSON WOOD DOS SANTOS",
+    "email": "Wood1313@outlook.com",
+    "cpf": "28153897896",
+    "cargo": "TEC ELETRICA",
+    "departamento": "FEMSA - POSTOS TEMP POA 101139",
+    "gestorDireto": "Felipe Carvalho Ferreira"
+  },
+  {
+    "id": 2523363,
+    "nome": "JOHNNY SILVA",
+    "email": "JOHNNYSILVA2905@GMAIL.COM",
+    "cpf": "39859209820",
+    "cargo": "ELETRICISTA",
+    "departamento": "UOL - MANUTENCAO PREDIAL 10112",
+    "gestorDireto": "PAULO H GONCALVES DE FREITAS"
+  },
+  {
+    "id": 2523364,
+    "nome": "JOSE FRANCISCO DURANTE",
+    "email": "durantejose317@gmail.com",
+    "cpf": "12860585893",
+    "cargo": "TEC REFRIGERACAO I",
+    "departamento": "SKY MANUT DC JBC FILIAL 2024",
+    "gestorDireto": "Fernando Zanobi Manoel"
+  },
+  {
+    "id": 2523365,
+    "nome": "MATHEUS BARBOSA DE ANDRADE",
+    "email": "matheussep2023@gmail.com",
+    "cpf": "51878094823",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - OBRA PROJETO ORACL LAP",
+    "gestorDireto": null
+  },
+  {
+    "id": 2523366,
+    "nome": "REGIS IVAN DE QUADRA",
+    "email": "regis_ivan@hotmail.com",
+    "cpf": "00757370942",
+    "cargo": "TEC MANUT III",
+    "departamento": "NEXTSTREAM - CIC - MANUT RENOV",
+    "gestorDireto": "Elenilson Maia Valente Brabo"
+  },
+  {
+    "id": 2523367,
+    "nome": "RODRIGO XAVIER RODRIGUES",
+    "email": "rodrigox60@gmail.com",
+    "cpf": "35320198841",
+    "cargo": "TEC MANUT II",
+    "departamento": "SKY MANUT DC JBC FILIAL 2024",
+    "gestorDireto": "Rodrigo Henrique Ribeiro"
+  },
+  {
+    "id": 2523368,
+    "nome": "VALDIR NICOLAU VIEIRA LIMA",
+    "email": "valdir81245817@hotmail.com",
+    "cpf": "04463193842",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "FEMSA - ARACATUBA",
+    "gestorDireto": "Roger Luan Martins"
+  },
+  {
+    "id": 2524040,
+    "nome": "BRAYAN ANGELIM",
+    "email": "brayan.angelim@engemon.com.br",
+    "cpf": "42588231802",
+    "cargo": "ANALISTA DE ORCAMENTOS ",
+    "departamento": "ORCAMENTOS",
+    "gestorDireto": "KARINA CARREIRO"
   }
 ]
