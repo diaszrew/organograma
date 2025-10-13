@@ -1,0 +1,32 @@
+// feedz_teste_desligamento_unico.js
+const axios = require("axios");
+
+const TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlX2lkIjoyMzM4ODg2LCJjb21wYW55X2lkIjo3NTIzLCJ0aW1lc3RhbXAiOjE3NTgyMTg0MjN9.Y4j6JrqS5x6Hn-QULfYkoG-FnaRVHJrKF8s8Y95OEjQ";
+const BASE_URL = "https://app.feedz.com.br/v2/integracao/employees";
+
+async function desligarColaborador() {
+  const id = "2286780"; // <- coloque aqui o ID ou CPF sem pontos
+  const payload = {
+    type: "Pedido da Empresa",
+    reason: "Teste de desligamento controlado",
+    turnover_at: "2025-10-13",
+  };
+
+  try {
+    const url = `${BASE_URL}/${id}`;
+    const response = await axios.delete(url, {
+      headers: {
+        Authorization: `Bearer ${TOKEN}`,
+        "Content-Type": "application/json",
+      },
+      data: payload,
+    });
+
+    console.log(`✅ Colaborador (${id}) desligado com sucesso!`);
+    console.log(response.data);
+  } catch (err) {
+    console.error("❌ Erro ao desligar colaborador:", err.response?.data || err.message);
+  }
+}
+
+desligarColaborador();
