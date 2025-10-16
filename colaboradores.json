@@ -216,15 +216,6 @@
     "gestorDireto": "REINALDO KAZUO NAKAMITSU"
   },
   {
-    "id": 1466873,
-    "nome": "ARIANE GASPAROTO VEADO",
-    "email": "ariane.gasparoto@engemon.com.br",
-    "cpf": "39186341839",
-    "cargo": "COORDENADORA DE COMPRAS",
-    "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
-  },
-  {
     "id": 1466879,
     "nome": "HELIO CONCEIÇÃO DOS SANTOS",
     "email": "helio.santos@engemon.com.br",
@@ -3366,6 +3357,15 @@
     "gestorDireto": "Valdir Bartoski"
   },
   {
+    "id": 1478465,
+    "nome": "Bruno Ferreira Mello",
+    "email": "bruno.mello@engemon.com.br",
+    "cpf": "38549297810",
+    "cargo": "SUPERVISOR TECNICO",
+    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
+  },
+  {
     "id": 1478467,
     "nome": "Valdir Bartoski",
     "email": "valdir.btk@gmail.com",
@@ -5364,6 +5364,15 @@
     "gestorDireto": "CAMILA FREITAS TAROUCO"
   },
   {
+    "id": 1841954,
+    "nome": "MARCOS ANTONIO BRAZIL RAMOS",
+    "email": "marcos.brazil@engemon.com.br",
+    "cpf": "1307510817",
+    "cargo": "GERENTE DE CONTRATOS - 01 00318",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
+  },
+  {
     "id": 1841956,
     "nome": "TULIO GROTTI SOMMARIVA",
     "email": "tulio.sommariva@engemon.com.br",
@@ -5613,7 +5622,7 @@
     "cpf": "44469295850",
     "cargo": "TEC AMBIENTAL JR",
     "departamento": "EQUINIX SP6X - 01 002104100",
-    "gestorDireto": null
+    "gestorDireto": "DAVI ALMEIDA SANTOS"
   },
   {
     "id": 2038602,
@@ -5814,6 +5823,15 @@
     "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
+    "id": 2068348,
+    "nome": "MARIA CRISTINA F P O ROCHA",
+    "email": "mariacristina.pessanha@gmail.com",
+    "cpf": "2433930758",
+    "cargo": "ASSIST SOCIAL",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "EDMAR CONSTANTINO"
+  },
+  {
     "id": 2068351,
     "nome": "DANIEL GOMES DA SILVA",
     "email": "daniteciagomes@gmail.com",
@@ -5933,7 +5951,7 @@
   {
     "id": 2068370,
     "nome": "SILVIO FERNANDO COUTINHO SEROA",
-    "email": "silvioseroa@gmail.com",
+    "email": "silvio.seroa@engemon.com.br",
     "cpf": "59454369768",
     "cargo": "GERENTE DE QUALIDADE",
     "departamento": "PETROBRAS EDISE RJ",
@@ -6156,6 +6174,15 @@
     "gestorDireto": "ACACIO BERGAMINI DOS SANTOS"
   },
   {
+    "id": 2104491,
+    "nome": "CLEBER AGAPITO DOS SANTOS",
+    "email": "cleber.santos@engemon.com.br",
+    "cpf": "5642580752",
+    "cargo": "TECNICO DE MEIO AMBIENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "EDMAR CONSTANTINO"
+  },
+  {
     "id": 2104493,
     "nome": "JEFFERSON CAIRES DA SILVA",
     "email": "jeffersoncaires58@gmail.com",
@@ -6345,6 +6372,15 @@
     "gestorDireto": null
   },
   {
+    "id": 2183979,
+    "nome": "Mauricio Magalhaes Lancsarics Brazil Ramos",
+    "email": "mauricio.brazilramos@hotmail.com",
+    "cpf": "50143475843",
+    "cargo": "FOTOGRAFO - EDISE",
+    "departamento": "PROJETOS",
+    "gestorDireto": "LEANDRO MENEZES DE OLIVEIRA"
+  },
+  {
     "id": 2184030,
     "nome": "EDMAR CONSTANTINO",
     "email": "edmar.constantino@engemon.com.br",
@@ -6417,6 +6453,24 @@
     "gestorDireto": "EDMAR CONSTANTINO"
   },
   {
+    "id": 2187019,
+    "nome": "BRUNA ARAUJO DA COSTA",
+    "email": "bruna.costa@engemon.com.br",
+    "cpf": "12499955740",
+    "cargo": "TEC ENF TRABALHO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "EDMAR CONSTANTINO"
+  },
+  {
+    "id": 2187183,
+    "nome": "ANDREIA DA SILVA SOARES CHEMP",
+    "email": "andreia.soareschemp@yahoo.com",
+    "cpf": "5461410723",
+    "cargo": " TECNICO DE NUTRIÇÃO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "EDMAR CONSTANTINO"
+  },
+  {
     "id": 2187190,
     "nome": "CRISTIANE LOURENÇO KEGELE CLIFFORD",
     "email": "cristiane.clifford@engemon.com.br",
@@ -6426,6 +6480,33 @@
     "gestorDireto": "EDMAR CONSTANTINO"
   },
   {
+    "id": 2187194,
+    "nome": "ALINE APARECIDA BASSO MORAIS",
+    "email": "aline.basso.guimar@gmail.com",
+    "cpf": "5098307902",
+    "cargo": "Comprador Sr. ",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "EDUARDO ALBERTO MAIORKI"
+  },
+  {
+    "id": 2187200,
+    "nome": "FABIANO CARVALHO FERREIRA",
+    "email": "fabiano.ferreira83@hotmail.com",
+    "cpf": "22033267865",
+    "cargo": " Coordenador de Diligênciamento ",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "EDUARDO ALBERTO MAIORKI"
+  },
+  {
+    "id": 2187634,
+    "nome": "DOUGLAS FURTADO DE OLIVEIRA",
+    "email": "douglasfurtado28@hotmail.com",
+    "cpf": "11707572780",
+    "cargo": "ALMOXARIFE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
+  },
+  {
     "id": 2187637,
     "nome": "BERNARDO NEOOB CASTRO MENEZES",
     "email": "bernardo.neoob@engemon.com.br",
@@ -6433,6 +6514,15 @@
     "cargo": "ANALISTA DE PROJETOS - EDISE",
     "departamento": "PROJETOS",
     "gestorDireto": "LEANDRO MENEZES DE OLIVEIRA"
+  },
+  {
+    "id": 2187639,
+    "nome": "ANE CRISTINE DE JESUS",
+    "email": "ane.c.jesus@gmail.com",
+    "cpf": "93346794768",
+    "cargo": "Analista Fiscal Sr",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
     "id": 2187772,
@@ -6720,7 +6810,7 @@
     "cpf": null,
     "cargo": "Consultor de MKT",
     "departamento": "MARKETING",
-    "gestorDireto": null
+    "gestorDireto": "FABIO CAMARA"
   },
   {
     "id": 2280026,
@@ -6945,7 +7035,7 @@
     "cpf": "42181090874",
     "cargo": "AUX ENF DO TRABALHO - 01 00179",
     "departamento": "EQUINIX SP6X - 01 002104100",
-    "gestorDireto": null
+    "gestorDireto": "DAVI ALMEIDA SANTOS"
   },
   {
     "id": 2285912,
@@ -9446,8 +9536,8 @@
     "email": "bruno.bicelli@engemon.com.br",
     "cpf": "40444578838",
     "cargo": "ORCAMENTISTA",
-    "departamento": "GESTAO OPSERVICES 2025",
-    "gestorDireto": null
+    "departamento": "ORCAMENTOS",
+    "gestorDireto": "FERNANDO DOLENCE FONSECA"
   },
   {
     "id": 2409602,
@@ -9465,7 +9555,7 @@
     "cpf": "44647437817",
     "cargo": "ENGENHEIRO",
     "departamento": "GESTAO OPSERVICES 2025",
-    "gestorDireto": null
+    "gestorDireto": "RICARDO MARQUES"
   },
   {
     "id": 2412348,
@@ -11076,7 +11166,7 @@
     "cpf": "28165253840",
     "cargo": "GERENTE OPERACOES TI",
     "departamento": "000500500 OPERACAO",
-    "gestorDireto": null
+    "gestorDireto": "OSVALDO TADEU SILVA"
   },
   {
     "id": 2489276,
@@ -11139,7 +11229,7 @@
     "cpf": "29055523879",
     "cargo": "COORDENADOR OP DE TI",
     "departamento": "ALPARGATAS",
-    "gestorDireto": null
+    "gestorDireto": "JORGE LUIZ COSTA DE MATOS"
   },
   {
     "id": 2493197,
@@ -11148,7 +11238,7 @@
     "cpf": "13985445826",
     "cargo": "ESP EM CYBERSECURITY",
     "departamento": "IT-TITANPNEUS/SERVICE DESK_FIELD_506145",
-    "gestorDireto": null
+    "gestorDireto": "DANIEL RICARDO PEREZ PIRES"
   },
   {
     "id": 2493198,
@@ -11157,7 +11247,7 @@
     "cpf": "29159690860",
     "cargo": "ESPECIALISTA PROJETOS",
     "departamento": "OPERACAO IMPLANTACAO",
-    "gestorDireto": null
+    "gestorDireto": "RODRIGO FERNANDO FERNANDES"
   },
   {
     "id": 2493199,
@@ -11166,7 +11256,7 @@
     "cpf": "29142454832",
     "cargo": "GER PROJETOS",
     "departamento": "OPERACAO IMPLANTACAO",
-    "gestorDireto": null
+    "gestorDireto": "RENATO RAFAELLY SANTOS"
   },
   {
     "id": 2493200,
@@ -11189,11 +11279,11 @@
   {
     "id": 2493202,
     "nome": "SIMONE LOURENÇO DE MELO COELHO",
-    "email": "silvio.seroa@engemon.com.br",
+    "email": "simone.melo@engemon.com.br",
     "cpf": "33304953833",
     "cargo": "GERENTE DE CONTAS",
     "departamento": "VENDAS",
-    "gestorDireto": null
+    "gestorDireto": "EDISLEIDE AZEVEDO SAMPAIO"
   },
   {
     "id": 2493203,
@@ -11202,7 +11292,7 @@
     "cpf": "15139386810",
     "cargo": "GERENTE DE CONTAS",
     "departamento": "VENDAS",
-    "gestorDireto": null
+    "gestorDireto": "EDISLEIDE AZEVEDO SAMPAIO"
   },
   {
     "id": 2494179,
@@ -12669,7 +12759,7 @@
     "cpf": "36455596803",
     "cargo": "ESPECIALISTA PROJETOS",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738 CE",
-    "gestorDireto": null
+    "gestorDireto": "MÁRCIO NUNES OLIVEIRA"
   },
   {
     "id": 2502592,
@@ -13020,7 +13110,7 @@
     "cpf": null,
     "cargo": "ENG CIVIL PL",
     "departamento": "GRU - PISO E T2 1010811",
-    "gestorDireto": null
+    "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
   },
   {
     "id": 2504113,
@@ -13029,7 +13119,7 @@
     "cpf": null,
     "cargo": "ADMINISTRADOR WINDOWS E LINUX",
     "departamento": "IT-IPEN/BODYSHOP_506736",
-    "gestorDireto": null
+    "gestorDireto": "JAIR VIEIRA DE SOUZA JUNIOR"
   },
   {
     "id": 2504114,
@@ -13038,25 +13128,16 @@
     "cpf": null,
     "cargo": "SUPERV OBRAS",
     "departamento": "GRU - PISO E T2 1010811",
-    "gestorDireto": null
+    "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
   },
   {
     "id": 2504115,
     "nome": "BRUNO GONÇALVES DE ALBUQUERQUE",
     "email": "bruno.albuquerque@engemon.com.br",
-    "cpf": null,
+    "cpf": "02441082507",
     "cargo": "COORDENADOR DE OBRAS",
     "departamento": "MATRIX_MARFRIG_PROMISSAO_SP",
-    "gestorDireto": null
-  },
-  {
-    "id": 2504117,
-    "nome": "CARLA CRISTINA DA SILVA RAMOS",
-    "email": "carla.ramos@engemon.com.br",
-    "cpf": null,
-    "cargo": "COORDENADOR DE OP. DE TI",
-    "departamento": "IT-DPSP/SER DESK E FIELD_506334_RJ",
-    "gestorDireto": null
+    "gestorDireto": "MATHEUS MARTINS BELLINTANI"
   },
   {
     "id": 2504118,
@@ -13065,7 +13146,7 @@
     "cpf": null,
     "cargo": "ENC ELETRICISTA",
     "departamento": "EQUINIX SP6X",
-    "gestorDireto": null
+    "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
     "id": 2504119,
@@ -13080,19 +13161,10 @@
     "id": 2504120,
     "nome": "CLEITON VIANA DE ALMEIDA",
     "email": "cleiton.almeida@engemon.com.br",
-    "cpf": null,
+    "cpf": "30224031864",
     "cargo": "COORD MANUTENCAO",
     "departamento": "CARE PLUS - MANUTENCAO PREDIAL 2025",
-    "gestorDireto": null
-  },
-  {
-    "id": 2504122,
-    "nome": "ELAINE MARTINS DA SILVA",
-    "email": "ems.engenha@gmail.com",
-    "cpf": null,
-    "cargo": "ENG PLANEJAMENTO",
-    "departamento": "AENA - PICK UP CONGONHAS",
-    "gestorDireto": null
+    "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
   },
   {
     "id": 2504124,
@@ -13107,10 +13179,10 @@
     "id": 2504125,
     "nome": "GILBERTO VOLPI AMADEU",
     "email": "gilberto.amadeu@engemon.com.br",
-    "cpf": null,
+    "cpf": "03321161826",
     "cargo": "ENG CIVIL PL",
     "departamento": "GRU - AMPLIACAO GRANDE SALA 100883",
-    "gestorDireto": null
+    "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
   },
   {
     "id": 2504126,
@@ -13119,7 +13191,7 @@
     "cpf": null,
     "cargo": "ENG CIVIL SR",
     "departamento": "GRU- BOULEVARD 1010811",
-    "gestorDireto": null
+    "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
   },
   {
     "id": 2504127,
@@ -13164,7 +13236,7 @@
     "cpf": null,
     "cargo": "MESTRE OBRAS",
     "departamento": "EQUINIX SP6X",
-    "gestorDireto": null
+    "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
     "id": 2504133,
@@ -13173,7 +13245,7 @@
     "cpf": null,
     "cargo": "ENC OBRAS",
     "departamento": "EQUINIX SP6X",
-    "gestorDireto": null
+    "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
     "id": 2504134,
@@ -13182,7 +13254,7 @@
     "cpf": null,
     "cargo": "SUPERV AUTOMACAO",
     "departamento": "EQUINIX SP6X",
-    "gestorDireto": null
+    "gestorDireto": "MATHEUS URBAN DE CARVALHO"
   },
   {
     "id": 2504135,
@@ -13191,15 +13263,6 @@
     "cpf": null,
     "cargo": "ENCARREGADO DE OBRAS",
     "departamento": "AENA - PICK UP CONGONHAS",
-    "gestorDireto": null
-  },
-  {
-    "id": 2504136,
-    "nome": "MARCIO VELASCO LUIZ",
-    "email": "marciovelasco73@gmail.com",
-    "cpf": null,
-    "cargo": "COORD MANUTENCAO",
-    "departamento": "CLARO ARCON 1011822",
     "gestorDireto": null
   },
   {
@@ -13227,7 +13290,7 @@
     "cpf": null,
     "cargo": "ENGENHEIRO",
     "departamento": "MATRIX_MARFRIG_PROMISSAO_SP",
-    "gestorDireto": null
+    "gestorDireto": "ANDRE DE MARCHI MORAES"
   },
   {
     "id": 2504141,
@@ -13237,15 +13300,6 @@
     "cargo": "ENG CIVIL",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
-  },
-  {
-    "id": 2504143,
-    "nome": "RONALDO LOPES RIBEIRO",
-    "email": "ronaldo.ribeirosgi@gmail.com",
-    "cpf": null,
-    "cargo": "TEC SEG TRABALHO",
-    "departamento": "GRU - PISO E T2 1010811",
-    "gestorDireto": null
   },
   {
     "id": 2504144,
@@ -14478,7 +14532,7 @@
     "cpf": "31819072860",
     "cargo": "ANL SERVICE DESK JR",
     "departamento": "IT-DPSP/SER DESK E FIELD_50633",
-    "gestorDireto": null
+    "gestorDireto": "CLAUDIONOR VALENÇA FREITAS"
   },
   {
     "id": 2516937,
@@ -14532,7 +14586,7 @@
     "cpf": "07862479327",
     "cargo": "TEC MICRO INFO I",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738 CE",
-    "gestorDireto": null
+    "gestorDireto": "RAFAEL ANDRADE DA COSTA"
   },
   {
     "id": 2516988,
@@ -15550,5 +15604,86 @@
     "cargo": "ANALISTA DE ORCAMENTOS ",
     "departamento": "ORCAMENTOS",
     "gestorDireto": "KARINA CARREIRO"
+  },
+  {
+    "id": 2531667,
+    "nome": "VENICIUS DOS SANTOS DA SILVA",
+    "email": "venicius.santos@gmail.com",
+    "cpf": "11080918736",
+    "cargo": "TEC SUPORTE JR",
+    "departamento": "IT-ASSOC CONGREGACAO SCDESK E FIEL RJ",
+    "gestorDireto": "ELAINE MENDES RAMALHO"
+  },
+  {
+    "id": 2532730,
+    "nome": "FATIMA CRISTINA FERREIRA LOPES DE OLIVEIRA",
+    "email": "fatimacflopes@hotmail.com",
+    "cpf": "24947608870",
+    "cargo": "COORDENADOR OP DE TI",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738",
+    "gestorDireto": "DEBORA SANTOS SILVERIO"
+  },
+  {
+    "id": 2532731,
+    "nome": "ALEX PEDRO MARÇAL BARBOSA",
+    "email": "alex@alpeinova.com.br",
+    "cpf": "28715768821",
+    "cargo": "ANL DE PROCESSOS PL",
+    "departamento": "IT-E-DEPLOY/GLPI_506782",
+    "gestorDireto": "LUIZ ADRIANO RIBEIRO DE FREITAS"
+  },
+  {
+    "id": 2532732,
+    "nome": "CLAUDIONOR VALENÇA FREITAS",
+    "email": "claudionor.freitas@yahoo.com.br",
+    "cpf": "35845825806",
+    "cargo": "Gerente Servicos Pos vendas",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738",
+    "gestorDireto": "OSVALDO TADEU SILVA"
+  },
+  {
+    "id": 2532733,
+    "nome": "GABRIEL DUARTE FERREIRA",
+    "email": "gabriel.Duarte_F@hotmail.com",
+    "cpf": "04518943163",
+    "cargo": "ANL DE SUPORTE PL",
+    "departamento": "IT-LEO MADEIRAS/SER DESK _FIELD 506251",
+    "gestorDireto": "GABRIEL VICTOR RUSSO"
+  },
+  {
+    "id": 2533380,
+    "nome": "ALEX DA SILVA MENDES",
+    "email": "asm.14@outlook.com.br",
+    "cpf": "39068991876",
+    "cargo": "TEC SUPORTE JR",
+    "departamento": "IT-BMG SEGUROS/SD_FS_GLPI_506569",
+    "gestorDireto": "JORGE LUIZ COSTA DE MATOS"
+  },
+  {
+    "id": 2533381,
+    "nome": "RENAN PICCO DE BRITO",
+    "email": "renanpicco@gmail.com",
+    "cpf": "43148873890",
+    "cargo": "ANL DE SUPORTE JR",
+    "departamento": "IT-TITANPNEUS/SERVICE DESK_FIELD_506145",
+    "gestorDireto": "Wellington Schunck Denelevi"
+  },
+  {
+    "id": 2533382,
+    "nome": "CAIO CASSIEL FALCAO VIEIRA",
+    "email": "caio.cassiel@gmail.com",
+    "cpf": "06605703510",
+    "cargo": "TEC SUPORTE PL",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738 BA",
+    "gestorDireto": "RAFAEL ANDRADE DA COSTA"
+  },
+  {
+    "id": 2533383,
+    "nome": "HEITOR NABEREZNY GARRIDO",
+    "email": "heitornaberezny09@hotmail.com",
+    "cpf": "46849159801",
+    "cargo": "TEC MICRO INFO I",
+    "departamento": "OPERACAO GESTAO DE CLIENTES",
+    "gestorDireto": "Wellington Schunck Denelevi"
   }
 ]
