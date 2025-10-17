@@ -15,7 +15,7 @@
     "cpf": "34704431819",
     "cargo": "LÍDER BUSSINER PARTNER",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "KASSULA FERREIRA"
   },
   {
     "id": 1417585,
@@ -106,6 +106,15 @@
     "cargo": "CONTROLLER",
     "departamento": "IT",
     "gestorDireto": "FABIO CAMARA"
+  },
+  {
+    "id": 1466825,
+    "nome": "ALEXANDRE KENJI TANAKA",
+    "email": "alexandre@engemon.com.br",
+    "cpf": "16987073805",
+    "cargo": "GERENTE DE CONTRATOS",
+    "departamento": "ENGENHARIA",
+    "gestorDireto": "RONNY DE OLIVEIRA BOUCINHA"
   },
   {
     "id": 1466827,
@@ -253,7 +262,7 @@
   },
   {
     "id": 1466887,
-    "nome": "MARCUS VINICIUS DE OLIVEIRA",
+    "nome": "MARCUS VINICIUS PACHECO DE OLIVEIRA",
     "email": "marcus.oliveira@engemon.com.br",
     "cpf": "43926981814",
     "cargo": "Gerente de Orçamentos",
@@ -346,7 +355,7 @@
     "nome": "EDUARDO MORAES RODRIGUES",
     "email": "eduardo.moraes@engemon.com.br",
     "cpf": "41388467860",
-    "cargo": "Engenheiro Sanitarista e Ambiental",
+    "cargo": "COORDENADOR AMBIENTAL",
     "departamento": "MA - Meio Ambiente",
     "gestorDireto": "SILMARA MENDES DE MATOS"
   },
@@ -456,7 +465,7 @@
     "cpf": "40356365840",
     "cargo": "ANALISTA DE RH JR",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 1476667,
@@ -465,7 +474,7 @@
     "cpf": "31897492804",
     "cargo": "ESPECIALISTA DE RH",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 1476685,
@@ -592,6 +601,15 @@
     "cargo": "ANL DE SUPORTE SR",
     "departamento": "IT",
     "gestorDireto": "CAMILA ANDREA MARIN SOTOMAYOR LESSA"
+  },
+  {
+    "id": 1476773,
+    "nome": "MARIANA SILVA NUNES",
+    "email": "mariana.nunes@engemon.com.br",
+    "cpf": "47650437892",
+    "cargo": "ANL ADMINISTRATIVO",
+    "departamento": "IT",
+    "gestorDireto": "PAULO ROBERTO SONCIN"
   },
   {
     "id": 1476783,
@@ -744,7 +762,7 @@
     "cpf": "50407478884",
     "cargo": "Assistente DP",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 1476883,
@@ -915,7 +933,7 @@
     "cpf": "12890772829",
     "cargo": "LID SERVICE DESK PL",
     "departamento": "IT",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 1476957,
@@ -1086,7 +1104,7 @@
     "cpf": "34445205818",
     "cargo": "ANL DE SUPORTE PL",
     "departamento": "IT",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 1477051,
@@ -1215,6 +1233,15 @@
     "gestorDireto": "ANA CARLA DA SILVA"
   },
   {
+    "id": 1477111,
+    "nome": "RAFAEL RODRIGO FERNANDES DA SI",
+    "email": "rafael.silva@engemon.com.br",
+    "cpf": "36017862812",
+    "cargo": "ANALISTA DE SUPORTE",
+    "departamento": "IT",
+    "gestorDireto": "RENATO RAFAELLY SANTOS"
+  },
+  {
     "id": 1477113,
     "nome": "LEANDRO MASSARIOLI PASTORELI PAUZNER",
     "email": "leandro.pauzner@engemon.com.br",
@@ -1252,7 +1279,7 @@
   },
   {
     "id": 1477121,
-    "nome": "EDSON GONCALVES DOS SANTOS",
+    "nome": "EDSON GONÇALVES DOS SANTOS",
     "email": "edson.santos@engemon.com.br",
     "cpf": "07481528810",
     "cargo": "ANL PRÉ VENDA SR",
@@ -1278,6 +1305,15 @@
     "gestorDireto": "RODRIGO GOMES DE FIGUEIREDO"
   },
   {
+    "id": 1477137,
+    "nome": "CAMILA PINHEIRO DA SILVA",
+    "email": "camila.silva@engemon.com.br",
+    "cpf": "35809066828",
+    "cargo": "ANL MKT",
+    "departamento": "MARKETING",
+    "gestorDireto": "FABIO CAMARA"
+  },
+  {
     "id": 1477141,
     "nome": "LUIS ARNALDO ALVES DA SILVA",
     "email": "luis.silva@engemon.com.br",
@@ -1297,12 +1333,12 @@
   },
   {
     "id": 1477147,
-    "nome": "LAISSA SILVA SOUZA",
+    "nome": "LAISSA SILVA DE SOUZA",
     "email": "laissa.souza@engemon.com.br",
     "cpf": "49884160899",
     "cargo": "Arquiteta de Propostas",
     "departamento": "ORCAMENTOS",
-    "gestorDireto": "MARCUS VINICIUS DE OLIVEIRA"
+    "gestorDireto": "MARCUS VINICIUS PACHECO DE OLIVEIRA"
   },
   {
     "id": 1477149,
@@ -1315,7 +1351,7 @@
   },
   {
     "id": 1477151,
-    "nome": "Luis Francisco Duarte",
+    "nome": "LUIS FRANCISCO DUARTE",
     "email": "luis.duarte@engemon.com.br",
     "cpf": "28535948821",
     "cargo": "Engenheiro eletricista",
@@ -1342,7 +1378,7 @@
   },
   {
     "id": 1477165,
-    "nome": "KARINE LANDI",
+    "nome": "KARINE SOARES DE OLIVEIRA LANDI",
     "email": "karine.oliveira@engemon.com.br",
     "cpf": "40066748801",
     "cargo": "SUPERVISORA SIG",
@@ -1423,7 +1459,7 @@
   },
   {
     "id": 1477197,
-    "nome": "HERVAL LUIZ DA SILVA BRITTO",
+    "nome": "HERVAL LUIZ SILVA DE BRITTO",
     "email": "herval.britto@engemon.com.br",
     "cpf": "34270028882",
     "cargo": "ANALISTA CONTABIL SR",
@@ -1437,7 +1473,7 @@
     "cpf": "06789460608",
     "cargo": "Coordenadora de Orçamentos",
     "departamento": "ORCAMENTOS",
-    "gestorDireto": "MARCUS VINICIUS DE OLIVEIRA"
+    "gestorDireto": "MARCUS VINICIUS PACHECO DE OLIVEIRA"
   },
   {
     "id": 1477201,
@@ -1477,7 +1513,7 @@
   },
   {
     "id": 1477213,
-    "nome": "ANTONIO FERNANDO PEREIRA DA SI",
+    "nome": "ANTONIO FERNANDO PEREIRA DA SILVA",
     "email": "antonio.silva@engemon.com.br",
     "cpf": "69395497491",
     "cargo": "ENG HIDRAULICO",
@@ -1486,7 +1522,7 @@
   },
   {
     "id": 1477215,
-    "nome": "CLERISTON SOARES PORTELA  VIEIRA",
+    "nome": "CLERISTON SOARES PORTELA",
     "email": "cleriston.vieira@engemon.com.br",
     "cpf": "01042990530",
     "cargo": "SUPERV ELETRICISTA",
@@ -1611,6 +1647,15 @@
     "gestorDireto": "JAYME TADEU SALLE"
   },
   {
+    "id": 1477259,
+    "nome": "ADRIANO SOUZA ITO",
+    "email": "adriano.ito@engemon.com.br",
+    "cpf": "08166243997",
+    "cargo": "ENGENHEIRO DE PLANEJAMENTO",
+    "departamento": "ENGENHARIA",
+    "gestorDireto": "RODRIGO GOMES DE FIGUEIREDO"
+  },
+  {
     "id": 1477267,
     "nome": "ELLEN SAYURI OTANI DE OLIVEIRA",
     "email": "ellen.otani@engemon.com.br",
@@ -1648,7 +1693,7 @@
   },
   {
     "id": 1477279,
-    "nome": "MARIA JOSE CARDIN LEMOS",
+    "nome": "MARIA JOSE CARDIN",
     "email": "maria.cardin@engemon.com.br",
     "cpf": "22607214866",
     "cargo": "VENDEDORA",
@@ -1725,7 +1770,7 @@
     "cpf": "40483430846",
     "cargo": "ANALISTA DE QUALIDADE",
     "departamento": "QUALIDADE",
-    "gestorDireto": "CAROLINA FLORIDO PEREIRA"
+    "gestorDireto": "DANIELE DE OLIVEIRA PIRES"
   },
   {
     "id": 1477313,
@@ -1774,7 +1819,7 @@
   },
   {
     "id": 1477331,
-    "nome": "GABRIEL CHAVES GONCALVES",
+    "nome": "GABRIEL CHAVES GONÇALVES",
     "email": "gabriel.goncalves@engemon.com.br",
     "cpf": "47534458870",
     "cargo": "ANALISTA DE PLANEJAMENTO SR",
@@ -1783,7 +1828,7 @@
   },
   {
     "id": 1477335,
-    "nome": "IRANDI OLIVEIRA SOUSA",
+    "nome": "IRANDI OLIVEIRA DE SOUSA",
     "email": "Irandioliveira610@gmail.com",
     "cpf": "26466096807",
     "cargo": "MESTRE DE OBRAS",
@@ -1791,8 +1836,17 @@
     "gestorDireto": "GUSTAVO SANTOS OLIVEIRA"
   },
   {
+    "id": 1477337,
+    "nome": "GUILHERME CARVALHO HERMANO",
+    "email": "guilherme.hermano@engemon.com.br",
+    "cpf": "35065543879",
+    "cargo": "TÉCNICO DE AUTOMAÇÃO",
+    "departamento": "GESTÃO DE MANUTENÇÃO - SP",
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+  },
+  {
     "id": 1477339,
-    "nome": "KENNYDA SALLES",
+    "nome": "KENNYDA DE SALLES DA SILVA",
     "email": "kennyda.silva@engemon.com.br",
     "cpf": "40026856832",
     "cargo": "Engenharia de Qualidade",
@@ -1890,6 +1944,15 @@
     "gestorDireto": "ALEXANDRE KENJI TANAKA"
   },
   {
+    "id": 1477373,
+    "nome": "RODRIGO MARTINS DA CRUZ",
+    "email": "rodrigo.cruz@engemon.com.br",
+    "cpf": "41136220860",
+    "cargo": "SUPERVISOR DE OBRAS",
+    "departamento": "ENGENHARIA",
+    "gestorDireto": "MARCIO IKUNO"
+  },
+  {
     "id": 1477379,
     "nome": "NATALIA LO CASTRO",
     "email": "natalia.castro@engemon.com.br",
@@ -1917,6 +1980,15 @@
     "gestorDireto": "MARIA DO ROSARIO SANTOS CAVALCANTE"
   },
   {
+    "id": 1477387,
+    "nome": "EDSON RODRIGUES DE LIMA",
+    "email": "edson.rodriguesdelima05@gmail.com",
+    "cpf": "59512954591",
+    "cargo": "SUPERV OBRAS",
+    "departamento": "ENGENHARIA",
+    "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
+  },
+  {
     "id": 1477389,
     "nome": "LUIZ ROBERTO DINIZ",
     "email": "luiz.roberto@engemon.com.br",
@@ -1933,6 +2005,15 @@
     "cargo": "ENCANADOR",
     "departamento": "ENGENHARIA",
     "gestorDireto": "ANDRE DE MARCHI MORAES"
+  },
+  {
+    "id": 1477393,
+    "nome": "NAYARA LOPES DIAS",
+    "email": "nayara.dias@engemon.com.br",
+    "cpf": "08688210632",
+    "cargo": "Advogada Júnior",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": "CRISTINA GUERRA MOCELLIN"
   },
   {
     "id": 1477395,
@@ -1974,7 +2055,7 @@
     "id": 1477403,
     "nome": "CARLOS ALBERTO DUARTE DOS SANTOS",
     "email": "carlos.santos@engemon.com.br",
-    "cpf": "3180496517",
+    "cpf": "03180496517",
     "cargo": "ENC ELETRICISTA",
     "departamento": "GESTAO DATA CENTER",
     "gestorDireto": "EDUARDO RODRIGUES"
@@ -2025,6 +2106,15 @@
     "gestorDireto": "EDUARDO HENRIQUE DA SILVA XAVIER"
   },
   {
+    "id": 1477423,
+    "nome": "JOAO VICENTE DOS SANTOS SILVA",
+    "email": "vicentejoao640@gmail.com",
+    "cpf": "62829491491",
+    "cargo": "SUPERV OBRAS",
+    "departamento": "ENGENHARIA",
+    "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
+  },
+  {
     "id": 1477425,
     "nome": "CAMILA BATISTA ITO",
     "email": "camila.batista@engemon.com.br",
@@ -2044,12 +2134,12 @@
   },
   {
     "id": 1477767,
-    "nome": "Karine Pereira Rodrigues",
+    "nome": "KARINE PEREIRA RODRIGUES",
     "email": "KARINE.RODRIGUES@ENGEMON.COM.BR",
     "cpf": "38848026826",
     "cargo": "Coordenadora de compras",
     "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
   },
   {
     "id": 1477769,
@@ -2242,7 +2332,7 @@
   },
   {
     "id": 1477827,
-    "nome": "Edson Donizeti Gomes",
+    "nome": "EDSON DONIZETI GOMES",
     "email": "edson.gomes@engemon.com.br",
     "cpf": "14857110881",
     "cargo": "SUPERVISOR DE OBRAS",
@@ -2382,7 +2472,7 @@
     "cpf": "37509538807",
     "cargo": "COMPRADOR PL",
     "departamento": "SUPPLY CHAIN - 01 000101500",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
   },
   {
     "id": 1477897,
@@ -2463,7 +2553,7 @@
     "cpf": null,
     "cargo": "COMPRADORA JR",
     "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
   },
   {
     "id": 1477943,
@@ -2553,7 +2643,7 @@
     "cpf": "46641928861",
     "cargo": "COMPRADORA JR",
     "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
   },
   {
     "id": 1478045,
@@ -2647,7 +2737,7 @@
   },
   {
     "id": 1478099,
-    "nome": "Gabriel Bou Rizk Botassio",
+    "nome": "GABRIEL BOU RIZK BOTASSIO",
     "email": "gabriel.botassio@engemon.com.br",
     "cpf": "43290821870",
     "cargo": "ANL PLANEJAMENTO JR",
@@ -2680,15 +2770,6 @@
     "cargo": "PINTOR - 01 00397",
     "departamento": "FEMSA - JUNDIAI PL/UO - 01 145000104",
     "gestorDireto": "ANDERSON EDUARDO MACIEL"
-  },
-  {
-    "id": 1478125,
-    "nome": "Juliana Pinheiro Goncalves",
-    "email": "JPGGONCALVES@OUTLOOK.COM",
-    "cpf": "11182365647",
-    "cargo": "Analista Ambiental Sênior",
-    "departamento": "TECNICO DE SEGURANCA DO TRABAL - 01 000101700",
-    "gestorDireto": "EDUARDO MORAES RODRIGUES"
   },
   {
     "id": 1478129,
@@ -2809,7 +2890,7 @@
   },
   {
     "id": 1478243,
-    "nome": "Amanda Barreto Felix",
+    "nome": "AMANDA BARRETO FELIX",
     "email": "amanda.felix@engemon.com.br",
     "cpf": "41470013860",
     "cargo": "Eng. Orçamentista Pleno",
@@ -2851,15 +2932,6 @@
     "cargo": "TEC MANUT II - 01 00441",
     "departamento": "CLARO MACAE MANUT - FILIAL 202 - 01 008004600",
     "gestorDireto": "ACACIO BERGAMINI DOS SANTOS"
-  },
-  {
-    "id": 1478277,
-    "nome": "Tiago Belo Gomes Pinheiro",
-    "email": "tiago.gomes@engemon.com.br",
-    "cpf": null,
-    "cargo": "Inspetor de Qualidade",
-    "departamento": "QUALIDADE",
-    "gestorDireto": "CAROLINA FLORIDO PEREIRA"
   },
   {
     "id": 1478279,
@@ -3358,7 +3430,7 @@
   },
   {
     "id": 1478465,
-    "nome": "Bruno Ferreira Mello",
+    "nome": "BRUNO FERREIRA MELLO",
     "email": "bruno.mello@engemon.com.br",
     "cpf": "38549297810",
     "cargo": "SUPERVISOR TECNICO",
@@ -3552,7 +3624,7 @@
     "cpf": null,
     "cargo": "ASSIST ADM",
     "departamento": "OPERATION SERVICES",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 1478593,
@@ -3687,7 +3759,7 @@
     "cpf": "85967302573",
     "cargo": "Assistente Adm Jr",
     "departamento": "OPERATION SERVICES",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 1478685,
@@ -3696,7 +3768,7 @@
     "cpf": null,
     "cargo": "AUX EM DOCUMENTACOES",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 1478687,
@@ -4114,9 +4186,9 @@
   },
   {
     "id": 1479041,
-    "nome": "Erdi Da Silva Magalhaes",
+    "nome": "ERDI DA SILVA MAGALHÃES",
     "email": "erdimagalhaes@yahoo.com.br",
-    "cpf": null,
+    "cpf": "01437745733",
     "cargo": "ASSIST CUSTOS",
     "departamento": "FINANCEIRO",
     "gestorDireto": "VITORIA GABRIELLE DE MAGISTRIS"
@@ -4137,7 +4209,7 @@
     "cpf": null,
     "cargo": "COMUNICAÇÃO",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 1494963,
@@ -4155,7 +4227,7 @@
     "cpf": "42622763840",
     "cargo": "ANALISTA ADM PESSOAL JR",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 1508367,
@@ -4287,7 +4359,7 @@
     "id": 1531021,
     "nome": "ROSANA IZABEL GOMES",
     "email": "rosanafurriela@uol.com.br",
-    "cpf": "5242480874",
+    "cpf": "05242480874",
     "cargo": "SECRETARIA DIRETORIA",
     "departamento": "IT",
     "gestorDireto": "FABIO CAMARA"
@@ -4323,7 +4395,7 @@
     "id": 1539773,
     "nome": "RODRIGO ANT QUEIROZ DA SILVA",
     "email": "rodrigo.queiroz@engemon.com.br",
-    "cpf": "8254437769",
+    "cpf": "08254437769",
     "cargo": "Gerente de Manutenção",
     "departamento": "GESTÃO DE MANUTENÇÃO - SP",
     "gestorDireto": "RICARDO MARQUES"
@@ -4339,7 +4411,7 @@
   },
   {
     "id": 1539777,
-    "nome": "JOSÉ RAYANDERSON R DE ALMEIDA",
+    "nome": "JOSÉ RAYANDERSON REZENDE DE ALMEIDA",
     "email": "jose.almeida@engemon.com.br",
     "cpf": "10993512437",
     "cargo": "ENGENHEIRO",
@@ -4456,12 +4528,12 @@
   },
   {
     "id": 1592073,
-    "nome": "NICOLE FRANCINE SOARES DE AZEV",
+    "nome": "NICOLE FRANCINE AZEVEDO",
     "email": "nicole.azevedo@engemon.com.br",
     "cpf": "46913007833",
     "cargo": "TEC SUPORTE PL",
     "departamento": "IT",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 1592081,
@@ -4648,7 +4720,7 @@
     "nome": "SILMARA MENDES DE MATOS",
     "email": "silmara.matos@engemon.com.br",
     "cpf": "35709209848",
-    "cargo": "GERENTE DE QSSMA",
+    "cargo": "HEAD de QSMS/ESG",
     "departamento": "QSMS",
     "gestorDireto": "RONNY DE OLIVEIRA BOUCINHA"
   },
@@ -5032,7 +5104,7 @@
   },
   {
     "id": 1735989,
-    "nome": "Ueslei Rogerio O. da Conceição",
+    "nome": "UESLEI OLIVEIRA DA CONCEIÇÃO",
     "email": "ueslei.conceicao@engemon.com.br",
     "cpf": "41627557873",
     "cargo": "ANL PLANEJAMENTO PL",
@@ -5041,7 +5113,7 @@
   },
   {
     "id": 1735993,
-    "nome": "INGRID RAFAELLE N S FEITOZA",
+    "nome": "INGRID RAFAELLE FEITOZA",
     "email": "ingrid.feitoza@engemon.com.br",
     "cpf": "44690186863",
     "cargo": "COORDENADORA DE PROJETOS ",
@@ -5230,7 +5302,7 @@
   },
   {
     "id": 1790524,
-    "nome": "IRLAINE DE CARVALHO FERNANDES",
+    "nome": "IRLAINE CARVALHO FERNANDES",
     "email": "irlaine.fernandes@engemon.com.br",
     "cpf": "37489326850",
     "cargo": "ANL FISCAL JR",
@@ -5239,12 +5311,12 @@
   },
   {
     "id": 1794556,
-    "nome": "Magno Moura",
+    "nome": "MAGNO PRADO DE MOURA",
     "email": "MAGNO.MOURA@ICLOUD.COM",
     "cpf": "38472846814",
     "cargo": "COORDENADOR OP DE TI",
     "departamento": "IT-LEO MADEIRAS/SER DESK _FIELD 506251",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 1841882,
@@ -5298,7 +5370,7 @@
     "cpf": "40945533802",
     "cargo": "Auxiliar em documentações",
     "departamento": "DOCUMENTACOES - 01 000100500",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
   },
   {
     "id": 1841906,
@@ -5317,6 +5389,15 @@
     "cargo": "Analista de service Desk",
     "departamento": "IT",
     "gestorDireto": "ANDERSON CONCEIÇÃO DA CRUZ"
+  },
+  {
+    "id": 1841928,
+    "nome": "JEAN CARLOS OLIVEIRA NASCIMENTO",
+    "email": "je.carlos98@outlook.com",
+    "cpf": "48840710850",
+    "cargo": "TEC MICRO INFO I",
+    "departamento": "IT",
+    "gestorDireto": "AMILTON BATISTA DE ADORNO FILHO"
   },
   {
     "id": 1841930,
@@ -5367,7 +5448,7 @@
     "id": 1841954,
     "nome": "MARCOS ANTONIO BRAZIL RAMOS",
     "email": "marcos.brazil@engemon.com.br",
-    "cpf": "1307510817",
+    "cpf": "01307510817",
     "cargo": "GERENTE DE CONTRATOS - 01 00318",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
@@ -5410,7 +5491,7 @@
   },
   {
     "id": 1920009,
-    "nome": "ELEN PONTES CASTILHEIRO",
+    "nome": "ÉLEN PONTES CASTILHEIRO",
     "email": "elen.castilheiro@engemon.com.br",
     "cpf": "34932477880",
     "cargo": "ENCARREGADA ADMINISTRATIVO PLENO",
@@ -5419,7 +5500,7 @@
   },
   {
     "id": 1924495,
-    "nome": "Wellington Schunck Denelevi",
+    "nome": "WELLINGTON SCHUNCK DENELEVI",
     "email": "wellington.denelevi@engemon.com.br",
     "cpf": "22470194806",
     "cargo": "COORD OP DE TI",
@@ -5496,7 +5577,7 @@
     "cpf": "29826457850",
     "cargo": "LID TEC FIELD SERVIC",
     "departamento": "IT",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 1968118,
@@ -5694,11 +5775,11 @@
     "cpf": "41332981879",
     "cargo": "TEC MICRO INFO I",
     "departamento": "IT",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 2038622,
-    "nome": "CARLOS  CUNHA",
+    "nome": "CARLOS RENATO TEIXEIRA DA CUNHA",
     "email": "carlos.cunha@engemon.com.br",
     "cpf": "03798811792",
     "cargo": "GERENTE DE CONSTRUÇÃO E MONTAGEM",
@@ -5719,9 +5800,9 @@
     "nome": "CAROLINA FLORIDO PEREIRA",
     "email": "carolina.pereira@engemon.com.br",
     "cpf": "43361337860",
-    "cargo": "COORD QUALIDADE",
+    "cargo": "COORDENADORA DE QUALIDADE DC",
     "departamento": "QUALIDADE",
-    "gestorDireto": "SILMARA MENDES DE MATOS"
+    "gestorDireto": "DANIELE DE OLIVEIRA PIRES"
   },
   {
     "id": 2038627,
@@ -5937,7 +6018,7 @@
     "cpf": "07143395803",
     "cargo": "GERENTE DE CONSTRUTIBILIDADE E PRODUÇÃO",
     "departamento": "ENGEMON COMÉRCIO",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "CARLOS RENATO TEIXEIRA DA CUNHA"
   },
   {
     "id": 2068367,
@@ -5968,7 +6049,7 @@
   },
   {
     "id": 2068372,
-    "nome": "Viviane Gomes Monteiro",
+    "nome": "VIVIANE GOMES MONTEIRO",
     "email": "viviane.monteiro@engemon.com.br",
     "cpf": "35225103804",
     "cargo": "Coord Planejamento e Controle",
@@ -6243,11 +6324,11 @@
     "cpf": "43589012803",
     "cargo": "ESPECIALISTA DE R&S",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "KASSULA FERREIRA"
   },
   {
     "id": 2106501,
-    "nome": "MARCELINO ALCANTARA",
+    "nome": "MARCELINO GUILHERME ALCANTARA",
     "email": "marcelino.alcantara@engemon.com.br",
     "cpf": "61472778472",
     "cargo": "GERENTE DE CONTAS",
@@ -6324,7 +6405,7 @@
     "cpf": null,
     "cargo": "COMPRADOR JR",
     "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
   },
   {
     "id": 2126498,
@@ -6333,7 +6414,7 @@
     "cpf": "34098493861",
     "cargo": "COMPRADOR JR",
     "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
   },
   {
     "id": 2129259,
@@ -6346,7 +6427,7 @@
   },
   {
     "id": 2129262,
-    "nome": "Iago Lima Sousa de Morais",
+    "nome": "IAGO LIMA SOUSA DE MORAIS",
     "email": "iago.limamoraes@gmail.com",
     "cpf": "52119503800",
     "cargo": "ANL DE SUPORTE PL",
@@ -6360,7 +6441,7 @@
     "cpf": "31293604844",
     "cargo": "COORDENADOR OP DE TI",
     "departamento": "IT",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 2134125,
@@ -6387,7 +6468,7 @@
     "cpf": "04835203810",
     "cargo": "Gerente de Segurança, Meio Ambiente, Saúde e  Comunicação/Responsabilidade Social",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "CARLOS RENATO TEIXEIRA DA CUNHA"
   },
   {
     "id": 2184041,
@@ -6598,12 +6679,12 @@
   },
   {
     "id": 2187954,
-    "nome": "Jacyara Garcia Gomes",
+    "nome": "JACYARA GARCIA GOMES",
     "email": "jacyara.gomes@engemon.com.br",
     "cpf": "12068882701",
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "CARLOS RENATO TEIXEIRA DA CUNHA"
   },
   {
     "id": 2187963,
@@ -6612,7 +6693,7 @@
     "cpf": "32984287878",
     "cargo": "ENG ELETRICISTA",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "CARLOS RENATO TEIXEIRA DA CUNHA"
   },
   {
     "id": 2190159,
@@ -6621,7 +6702,7 @@
     "cpf": "46466726851",
     "cargo": "ANALISTA DE RH",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 2192722,
@@ -6711,11 +6792,11 @@
     "cpf": "49560120808",
     "cargo": "COMPRADORA JR",
     "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
   },
   {
     "id": 2260551,
-    "nome": "Eduardo Aragaki",
+    "nome": "EDUARDO HAJIME ARAGAKI",
     "email": "eduardo.aragaki@engemon.com.br",
     "cpf": "14260435892",
     "cargo": "Controller",
@@ -6760,7 +6841,7 @@
   },
   {
     "id": 2272082,
-    "nome": "Naama Tavares Fonseca",
+    "nome": "NAAMA TAVARES FONSECA",
     "email": "naama.fonseca@engemon.com.br",
     "cpf": "11668388626",
     "cargo": "Orçamentista",
@@ -6769,16 +6850,16 @@
   },
   {
     "id": 2272089,
-    "nome": "DAVID SANTOS LIMA",
+    "nome": "DAVID LIMA DOS SANTOS",
     "email": "DAVID.LIMA@ENGEMON.COM.BR",
     "cpf": "43332009893",
     "cargo": "Arquiteto de Propostas",
     "departamento": "ORCAMENTOS",
-    "gestorDireto": "MARCUS VINICIUS DE OLIVEIRA"
+    "gestorDireto": "MARCUS VINICIUS PACHECO DE OLIVEIRA"
   },
   {
     "id": 2272116,
-    "nome": "KARINA MEDEIROS RIBEIRO DE ALMEIDA",
+    "nome": "KARINA MEDEIROS R. DE ALMEIDA",
     "email": "karina.almeida@engemon.com.br",
     "cpf": "42461768854",
     "cargo": "ENGENHEIRA DE PLANEJAMENTO",
@@ -6787,7 +6868,7 @@
   },
   {
     "id": 2272554,
-    "nome": "Ricardo Luiz de Andrade Gonçalves",
+    "nome": "RICARDO LUIZ DE ANDRADE GONÇALVES",
     "email": "ricardo.goncalves@engemon.com.br",
     "cpf": "29911675807",
     "cargo": "Gerente de Suprimentos",
@@ -6796,7 +6877,7 @@
   },
   {
     "id": 2275444,
-    "nome": "GUILHERME PERRONE",
+    "nome": "GUILHERME EVARISTO MOREIRA DI SIERVI PERRONE",
     "email": "guilherme.perrone@engemon.com.br",
     "cpf": "32960490886",
     "cargo": "Especialista em Orçamentos-Instalações",
@@ -7714,7 +7795,7 @@
   },
   {
     "id": 2339209,
-    "nome": "ADRIANA MARQUES",
+    "nome": "ADRIANA MARIA MARQUES",
     "email": "adriana.marques@engemon.com.br",
     "cpf": "35694576802",
     "cargo": "HEAD DE GESTÃO",
@@ -7728,16 +7809,16 @@
     "cpf": "21965946879",
     "cargo": "Key User - Gestão",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 2344378,
-    "nome": "Vivian Galvão",
+    "nome": "VIVIAN GALVÃO VIEIRA",
     "email": "vivian.vieira@engemon.com.br",
     "cpf": "25987200830",
     "cargo": "Treinamento e Desenvolvimento",
-    "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "departamento": "OPERATION SERVICES",
+    "gestorDireto": "RICARDO MARQUES"
   },
   {
     "id": 2349839,
@@ -7755,7 +7836,7 @@
     "cpf": "52849747866",
     "cargo": "Assistente DP",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 2349842,
@@ -7857,15 +7938,6 @@
     "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
-    "id": 2357821,
-    "nome": "REJANE CARPENEDO",
-    "email": "rejane.carpenedo@engemon.com.br",
-    "cpf": "90728050978",
-    "cargo": "ESPECIALISTA EM HSE",
-    "departamento": "QSMS",
-    "gestorDireto": "EDUARDO MORAES RODRIGUES"
-  },
-  {
     "id": 2357826,
     "nome": "PETER HERALD",
     "email": "Peterheraldnuernberg@gmail.com",
@@ -7908,7 +7980,7 @@
     "cpf": null,
     "cargo": "ASSIST ADM",
     "departamento": "OPERATION SERVICES",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 2357836,
@@ -7921,7 +7993,7 @@
   },
   {
     "id": 2357884,
-    "nome": "Leonardo Naves do Nascimento",
+    "nome": "LEONARDO NAVES DO NASCIMENTO",
     "email": "leonardo.naves@engemon.com.br",
     "cpf": "14386303790",
     "cargo": "Engenheiro de Planejamento - PMO",
@@ -7990,15 +8062,6 @@
     "cargo": "TEC SEG TRABALHO",
     "departamento": "SST - Saúde e Segurança do Trabalho",
     "gestorDireto": "ANDERSON MESSIAS GALVAO DOMINGUES"
-  },
-  {
-    "id": 2362317,
-    "nome": "FABIO CAMELO",
-    "email": "fabio.camelo@engemon.com.br",
-    "cpf": "05049035945",
-    "cargo": "ANALISTA DE QUALIDADE",
-    "departamento": "QUALIDADE",
-    "gestorDireto": "CAROLINA FLORIDO PEREIRA"
   },
   {
     "id": 2365064,
@@ -8164,7 +8227,7 @@
   },
   {
     "id": 2370171,
-    "nome": "Izabella Vinhati",
+    "nome": "IZABELLA DE FATIMA VINHATI DOS SANTOS",
     "email": "izabella.santos@engemon.com.br",
     "cpf": "31137127856",
     "cargo": "GERENTE DE PROPOSTAS",
@@ -8187,7 +8250,7 @@
     "cpf": "40330040847",
     "cargo": "ESPECIALISTA DE PROJETOS ",
     "departamento": "PROJETOS",
-    "gestorDireto": "INGRID RAFAELLE N S FEITOZA"
+    "gestorDireto": "INGRID RAFAELLE FEITOZA"
   },
   {
     "id": 2379540,
@@ -8871,7 +8934,7 @@
     "cpf": "25858757847",
     "cargo": "ANALISTA DE GESTÃO",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 2387828,
@@ -8952,7 +9015,7 @@
     "cpf": "35124325810",
     "cargo": "ANALISTA DE RH SR",
     "departamento": "GENTE & GESTÃO",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 2387991,
@@ -9073,7 +9136,7 @@
   },
   {
     "id": 2401335,
-    "nome": "OSVALDO TADEU SILVA",
+    "nome": "OSVALDO TADEU SILVA CARDOSO",
     "email": "osvaldo.cardoso@engemon.com.br",
     "cpf": "28004266835",
     "cargo": "GERENTE EXECUTIVOS DE OPERAÇÕES",
@@ -9204,7 +9267,7 @@
     "cpf": "00227336712",
     "cargo": "GERENTE OPERACOES TI",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_50673 - 01 240050002",
-    "gestorDireto": "OSVALDO TADEU SILVA"
+    "gestorDireto": "OSVALDO TADEU SILVA CARDOSO"
   },
   {
     "id": 2408189,
@@ -9505,7 +9568,7 @@
   },
   {
     "id": 2409597,
-    "nome": "FATIMA ARAUJO",
+    "nome": "FATIMA APARECIDA SILVINO DE ARAUJO",
     "email": "fatima.araujo@engemon.com.br",
     "cpf": "14351470810",
     "cargo": "GERENTE DE CONTAS",
@@ -10306,7 +10369,7 @@
   },
   {
     "id": 2448533,
-    "nome": "PATRICIA CAMPOS",
+    "nome": "PATRICIA CASOLARI MATOS",
     "email": "patricia.campos@engemon.com.br",
     "cpf": "30352151897",
     "cargo": "COORDENADOR OP DE TI",
@@ -10486,7 +10549,7 @@
   },
   {
     "id": 2462433,
-    "nome": "LINDEMBERG NASARIO ROMAO",
+    "nome": "LINDEMBERG NASARIO ROMÃO",
     "email": "lindemberg.romao@engemon.com.br",
     "cpf": "12516363818",
     "cargo": "ENC ELETRICISTA",
@@ -10640,7 +10703,7 @@
   {
     "id": 2466948,
     "nome": "PAULO RODRIGUES DE LIMA",
-    "email": "paulorl16@gmail.com",
+    "email": "paulopositivo35@gmail.com",
     "cpf": "36598452805",
     "cargo": "TEC MICRO INFO I",
     "departamento": "IT-DPSP/SER DESK E FIELD_50633",
@@ -11076,7 +11139,7 @@
     "cpf": "39323942839",
     "cargo": "ANL DE SUPORTE PL",
     "departamento": "IT-COBASI/FIELD SERVICE_506177",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 2484143,
@@ -11152,12 +11215,12 @@
   },
   {
     "id": 2489267,
-    "nome": "MONICA DE SÁ",
+    "nome": "MONICA DE SA",
     "email": "monica.sa@engemon.com.br",
     "cpf": "42081851806",
     "cargo": "ANL BI",
     "departamento": "000500500 OPERACAO",
-    "gestorDireto": "OSVALDO TADEU SILVA"
+    "gestorDireto": "OSVALDO TADEU SILVA CARDOSO"
   },
   {
     "id": 2489268,
@@ -11166,7 +11229,7 @@
     "cpf": "28165253840",
     "cargo": "GERENTE OPERACOES TI",
     "departamento": "000500500 OPERACAO",
-    "gestorDireto": "OSVALDO TADEU SILVA"
+    "gestorDireto": "OSVALDO TADEU SILVA CARDOSO"
   },
   {
     "id": 2489276,
@@ -11220,7 +11283,7 @@
     "cpf": "37852656897",
     "cargo": "COORDENADOR DE COMPRAS",
     "departamento": "SUPPLY CHAIN",
-    "gestorDireto": "Ricardo Luiz de Andrade Gonçalves"
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
   },
   {
     "id": 2493196,
@@ -11274,7 +11337,7 @@
     "cpf": "35103576805",
     "cargo": "COORDENADOR DE TI SE",
     "departamento": "IT-DPSP/SER DESK E FIELD_506334",
-    "gestorDireto": "OSVALDO TADEU SILVA"
+    "gestorDireto": "OSVALDO TADEU SILVA CARDOSO"
   },
   {
     "id": 2493202,
@@ -11575,7 +11638,7 @@
   },
   {
     "id": 2495312,
-    "nome": "EMANUEL FELIPE DE ARAUJO SANTOS SANTANA",
+    "nome": "EMANUEL FELIPE DE ARAÚJO SANTOS SANTANA",
     "email": "kirma0000@gmail.com",
     "cpf": "03948033102",
     "cargo": "TEC MICRO INFO I",
@@ -11589,7 +11652,7 @@
     "cpf": "40746861800",
     "cargo": "TEC MICRO INFO I",
     "departamento": "OPERACAO GESTAO DE CLIENTES",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 2495314,
@@ -11616,7 +11679,7 @@
     "cpf": "52395029866",
     "cargo": "ANL DE REDES PL",
     "departamento": "IT-ALLOS/SERVICE DESK_FIELD_506363",
-    "gestorDireto": "NICOLE FRANCINE SOARES DE AZEV"
+    "gestorDireto": "NICOLE FRANCINE AZEVEDO"
   },
   {
     "id": 2495317,
@@ -11985,7 +12048,7 @@
     "cpf": "15548169807",
     "cargo": "ANL DE TELECOM SR",
     "departamento": "IT-TITANPNEUS/SERVICE DESK_FIE",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 2497824,
@@ -12426,7 +12489,7 @@
     "cpf": "40510097855",
     "cargo": "ANL ADM PL",
     "departamento": "IT-TITANPNEUS/SERVICE DESK_FIE",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 2497875,
@@ -12741,7 +12804,7 @@
     "cpf": "52124767801",
     "cargo": "ASSIST ADM JR",
     "departamento": "OPERATION SERVICES",
-    "gestorDireto": "ADRIANA MARQUES"
+    "gestorDireto": "ADRIANA MARIA MARQUES"
   },
   {
     "id": 2502590,
@@ -12777,7 +12840,7 @@
     "cpf": "10315908629",
     "cargo": "GERENTE DE QUALIDADE",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "CARLOS RENATO TEIXEIRA DA CUNHA"
   },
   {
     "id": 2502938,
@@ -12786,7 +12849,7 @@
     "cpf": "07127050740",
     "cargo": "GERENTE DE CONSTRUÇÃO E MONTAGEM",
     "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "CARLOS  CUNHA"
+    "gestorDireto": "CARLOS RENATO TEIXEIRA DA CUNHA"
   },
   {
     "id": 2502939,
@@ -12899,11 +12962,11 @@
   {
     "id": 2502995,
     "nome": "IVANA CARNEIRO GROH",
-    "email": "ivanagroh624@gmail.com",
+    "email": "ivana.groh@engemon.com.br",
     "cpf": "25136024801",
     "cargo": "INSPETOR QUALIDADE",
-    "departamento": "GRU- BOULEVARD 1010811",
-    "gestorDireto": null
+    "departamento": "QUALIDADE",
+    "gestorDireto": "DANIELE DE OLIVEIRA PIRES"
   },
   {
     "id": 2502997,
@@ -13098,7 +13161,7 @@
     "id": 2504111,
     "nome": "ADRIANO RAMOS RODRIGUES",
     "email": "adriano.rodrigues@engemon.com.br",
-    "cpf": null,
+    "cpf": "27819111860",
     "cargo": "ENG ELETRICISTA",
     "departamento": "CLARO - OBRA PROJETO ORACL LAPA -1011296",
     "gestorDireto": "ROGERIO LUIZ DE SA"
@@ -13107,7 +13170,7 @@
     "id": 2504112,
     "nome": "AMAURI PAULO DA SILVA",
     "email": "amauri.silva@engemon.com.br",
-    "cpf": null,
+    "cpf": "18639207810",
     "cargo": "ENG CIVIL PL",
     "departamento": "GRU - PISO E T2 1010811",
     "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
@@ -13116,7 +13179,7 @@
     "id": 2504113,
     "nome": "AUGUSTO MAGALHAES NETO",
     "email": "Augusto.magalhaes@gmail.com",
-    "cpf": null,
+    "cpf": "14362883800",
     "cargo": "ADMINISTRADOR WINDOWS E LINUX",
     "departamento": "IT-IPEN/BODYSHOP_506736",
     "gestorDireto": "JAIR VIEIRA DE SOUZA JUNIOR"
@@ -13125,7 +13188,7 @@
     "id": 2504114,
     "nome": "BRUNO EUCLIDES SANTOS DE SOUZA",
     "email": "bruno.souza@engemon.com.br",
-    "cpf": null,
+    "cpf": "33722415845",
     "cargo": "SUPERV OBRAS",
     "departamento": "GRU - PISO E T2 1010811",
     "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
@@ -13167,6 +13230,15 @@
     "gestorDireto": "RODRIGO ANT QUEIROZ DA SILVA"
   },
   {
+    "id": 2504121,
+    "nome": "DOUGLAS LEAL MAIA",
+    "email": "douglas.maia@engemon.com.br",
+    "cpf": null,
+    "cargo": "PROGRAMADOR DE SISTEMAS",
+    "departamento": "AJINOMOTO PRORROGACAO 2023",
+    "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
+  },
+  {
     "id": 2504124,
     "nome": "GABRIELA STEPHANO DE OLIVEIRA",
     "email": "gabrielasteoliveira@gmail.com",
@@ -13188,7 +13260,7 @@
     "id": 2504126,
     "nome": "GILSON DE ARRUDA JUNIOR",
     "email": "gilson.arruda@engemon.com.br",
-    "cpf": null,
+    "cpf": "21564702863",
     "cargo": "ENG CIVIL SR",
     "departamento": "GRU- BOULEVARD 1010811",
     "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
@@ -13197,7 +13269,7 @@
     "id": 2504127,
     "nome": "GILVAN DE OLIVEIRA CHAVES",
     "email": "gilvan.chaves@engemon.com.br",
-    "cpf": null,
+    "cpf": "23031650832",
     "cargo": "ENGENHEIRO",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "RAFAEL DE OLIVEIRA MOREIRA"
@@ -13224,7 +13296,7 @@
     "id": 2504131,
     "nome": "JOÃO GILBERTO DE FRANCO JANGUTTA MACIEIRA",
     "email": "joao.macieira@engemon.com.br",
-    "cpf": null,
+    "cpf": "08480228741",
     "cargo": "COORD OBRAS",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
@@ -13242,7 +13314,7 @@
     "id": 2504133,
     "nome": "JOSÉ TEODOSIO DA SILVA NETO",
     "email": "jose.teodosio@engemon.com.br",
-    "cpf": null,
+    "cpf": "37785752877",
     "cargo": "ENC OBRAS",
     "departamento": "EQUINIX SP6X",
     "gestorDireto": "MATHEUS URBAN DE CARVALHO"
@@ -13251,7 +13323,7 @@
     "id": 2504134,
     "nome": "MARCELO DE LORENZO FERRENHA",
     "email": "marcelo.ferrenha@engemon.com.br",
-    "cpf": null,
+    "cpf": "24849488838",
     "cargo": "SUPERV AUTOMACAO",
     "departamento": "EQUINIX SP6X",
     "gestorDireto": "MATHEUS URBAN DE CARVALHO"
@@ -13269,7 +13341,7 @@
     "id": 2504138,
     "nome": "MAX FABIANI CALIL GUIMARAES",
     "email": "max.guimaraes@engemon.com.br",
-    "cpf": null,
+    "cpf": "98265440782",
     "cargo": "COORD MANUTENCAO",
     "departamento": "GESTAO MANUT RJ 2025",
     "gestorDireto": null
@@ -13278,7 +13350,7 @@
     "id": 2504139,
     "nome": "RAFAEL PEREIRA CHAGAS",
     "email": "rafael.chagas@engemon.com.br",
-    "cpf": null,
+    "cpf": "12335929712",
     "cargo": "TECNICO DE PLANEJAMENTO E CONTROLE",
     "departamento": "FULWOOD_ML - SC",
     "gestorDireto": null
@@ -13287,7 +13359,7 @@
     "id": 2504140,
     "nome": "RAFAEL PINHEIRO BARBOSA",
     "email": "rafael.pinheiro@engemon.com.br",
-    "cpf": null,
+    "cpf": "31358298807",
     "cargo": "ENGENHEIRO",
     "departamento": "MATRIX_MARFRIG_PROMISSAO_SP",
     "gestorDireto": "ANDRE DE MARCHI MORAES"
@@ -13296,7 +13368,7 @@
     "id": 2504141,
     "nome": "RENATO RANGEL DO NASCIMENTO",
     "email": "renato.nascimento@engemon.com.br",
-    "cpf": null,
+    "cpf": "07818601724",
     "cargo": "ENG CIVIL",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
@@ -14163,7 +14235,7 @@
     "cpf": "27618254893",
     "cargo": "GERENTE OPERACOES TI",
     "departamento": "OPERACAO",
-    "gestorDireto": "OSVALDO TADEU SILVA"
+    "gestorDireto": "OSVALDO TADEU SILVA CARDOSO"
   },
   {
     "id": 2508517,
@@ -14559,7 +14631,7 @@
     "cpf": "41122797877",
     "cargo": "ANL SERV DESK BILING",
     "departamento": "IT-PATRIA/ SERVICE DESK BRASIL",
-    "gestorDireto": "PATRICIA CAMPOS"
+    "gestorDireto": "PATRICIA CASOLARI MATOS"
   },
   {
     "id": 2516940,
@@ -14577,7 +14649,7 @@
     "cpf": "23821069805",
     "cargo": "ANL SERVICE DESK PL",
     "departamento": "IT-TITANPNEUS/SERVICE DESK_FIE",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 2516942,
@@ -14676,7 +14748,7 @@
     "cpf": "36506693827",
     "cargo": "ANL SERV DESK BILING",
     "departamento": "IT-PATRIA/ SERVICE DESK BRASIL_506413",
-    "gestorDireto": "PATRICIA CAMPOS"
+    "gestorDireto": "PATRICIA CASOLARI MATOS"
   },
   {
     "id": 2521778,
@@ -15376,7 +15448,7 @@
     "nome": "DANIELE DE OLIVEIRA PIRES",
     "email": "daniele.pires@engemon.com.br",
     "cpf": "30643817840",
-    "cargo": "COORDENADOR QUALIDADE",
+    "cargo": "COORDENADORA QUALIDADE",
     "departamento": "Q&C",
     "gestorDireto": "SILMARA MENDES DE MATOS"
   },
@@ -15639,7 +15711,7 @@
     "cpf": "35845825806",
     "cargo": "Gerente Servicos Pos vendas",
     "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738",
-    "gestorDireto": "OSVALDO TADEU SILVA"
+    "gestorDireto": "OSVALDO TADEU SILVA CARDOSO"
   },
   {
     "id": 2532733,
@@ -15666,7 +15738,7 @@
     "cpf": "43148873890",
     "cargo": "ANL DE SUPORTE JR",
     "departamento": "IT-TITANPNEUS/SERVICE DESK_FIELD_506145",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
   },
   {
     "id": 2533382,
@@ -15684,6 +15756,42 @@
     "cpf": "46849159801",
     "cargo": "TEC MICRO INFO I",
     "departamento": "OPERACAO GESTAO DE CLIENTES",
-    "gestorDireto": "Wellington Schunck Denelevi"
+    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
+  },
+  {
+    "id": 2535413,
+    "nome": "ANA KARLA MONTEIRO DA CUNHA FRANCISCO",
+    "email": "ana.francisco@engemon.com.br",
+    "cpf": "32557686832",
+    "cargo": "COORD COMPRAS",
+    "departamento": "SUPPLY CHAIN",
+    "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
+  },
+  {
+    "id": 2535421,
+    "nome": "DAISY SANTOS PEREIRA HABER",
+    "email": "daisy.haber@engemon.com.br",
+    "cpf": "35643186829",
+    "cargo": "ANL DE PLANEJAMENTO",
+    "departamento": "GESTAO DE MANUT COM 2025",
+    "gestorDireto": "AMANDA PERUFFO RAMOS"
+  },
+  {
+    "id": 2535442,
+    "nome": "CLOVIS ROBERTO DE MORAES",
+    "email": "clovis.moraes@engemon.com.br",
+    "cpf": "25666979817",
+    "cargo": "ESPECIALISTA DE MANUT",
+    "departamento": "GESTAO OPSERVICES 2025",
+    "gestorDireto": "RICARDO MARQUES"
+  },
+  {
+    "id": 2536389,
+    "nome": "KASSULA FERREIRA",
+    "email": "kassula.ferreira@engemon.com.br",
+    "cpf": "32514541883",
+    "cargo": "GERENTE DE GENTE",
+    "departamento": "GENTE & GESTÃO",
+    "gestorDireto": "ANDRE FRIGATTO"
   }
 ]
