@@ -1251,15 +1251,6 @@
     "gestorDireto": "CARLOS GOMES DE FARIA NETO"
   },
   {
-    "id": 1477115,
-    "nome": "JAIR VIEIRA DE SOUZA JUNIOR",
-    "email": "jair.souza@engemon.com.br",
-    "cpf": "01207138703",
-    "cargo": "GERENTE DE PROJETOS",
-    "departamento": "IT",
-    "gestorDireto": "RENATO RAFAELLY SANTOS"
-  },
-  {
     "id": 1477117,
     "nome": "FABIO MARQUES DE MATOS",
     "email": "fabio.matos@engemon.com.br",
@@ -1267,15 +1258,6 @@
     "cargo": "ANALISTA DE INFRAESTRUTURA PL",
     "departamento": "IT",
     "gestorDireto": "CARLOS GOMES DE FARIA NETO"
-  },
-  {
-    "id": 1477119,
-    "nome": "JONES GOMES SANTOS",
-    "email": "jones.santos@engemon.com.br",
-    "cpf": "35531965800",
-    "cargo": "Coordenador de Pré Vendas - IT",
-    "departamento": "IT",
-    "gestorDireto": "PEDRO HENRIQUE DE CARVALHO"
   },
   {
     "id": 1477121,
@@ -3564,6 +3546,15 @@
     "gestorDireto": "Lucas Tadeu Souza De Oliveira"
   },
   {
+    "id": 1478505,
+    "nome": "LUCAS VILAS BOAS MEDEIROS",
+    "email": "lucas.medeiros@engemon.com.br",
+    "cpf": "46731633895",
+    "cargo": "ANL JURIDICO",
+    "departamento": "JURIDICO",
+    "gestorDireto": "ALESSANDRO PACHECO"
+  },
+  {
     "id": 1478507,
     "nome": "Alexandre Pereira Dos Santos Sousa",
     "email": "alexandre.sousa@engemon.com.br",
@@ -4707,15 +4698,6 @@
     "gestorDireto": "IGOR DE OLIVEIRA SANTOS"
   },
   {
-    "id": 1668093,
-    "nome": "THATIANE LINDONEIDE RODRIGUES  CONCEIÇÃO",
-    "email": "thatiane.conceicao@engemon.com.br",
-    "cpf": "22601999845",
-    "cargo": "GERENTE DE CONTAS",
-    "departamento": "IT",
-    "gestorDireto": "EDISLEIDE AZEVEDO SAMPAIO"
-  },
-  {
     "id": 1668509,
     "nome": "SILMARA MENDES DE MATOS",
     "email": "silmara.matos@engemon.com.br",
@@ -5310,15 +5292,6 @@
     "gestorDireto": "FABIO TURRI"
   },
   {
-    "id": 1794556,
-    "nome": "MAGNO PRADO DE MOURA",
-    "email": "MAGNO.MOURA@ICLOUD.COM",
-    "cpf": "38472846814",
-    "cargo": "COORDENADOR OP DE TI",
-    "departamento": "IT-LEO MADEIRAS/SER DESK _FIELD 506251",
-    "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
-  },
-  {
     "id": 1841882,
     "nome": "CLAUDOMIR JOSE BARBOSA",
     "email": "claudomirjosebarbosa@gmail.com",
@@ -5452,15 +5425,6 @@
     "cargo": "GERENTE DE CONTRATOS - 01 00318",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
-  },
-  {
-    "id": 1841956,
-    "nome": "TULIO GROTTI SOMMARIVA",
-    "email": "tulio.sommariva@engemon.com.br",
-    "cpf": "35792224811",
-    "cargo": "ENG PLANEJAMENTO",
-    "departamento": "ENGENHARIA",
-    "gestorDireto": "RODRIGO GOMES DE FIGUEIREDO"
   },
   {
     "id": 1876168,
@@ -5659,15 +5623,6 @@
     "cargo": "ENGENHEIRO",
     "departamento": "ENGENHARIA",
     "gestorDireto": "LUCAS FANOEL SEVILHA GORZONI"
-  },
-  {
-    "id": 2009198,
-    "nome": "DANIEL RICARDO PEREZ PIRES",
-    "email": "daniel.pires@engemon.com.br",
-    "cpf": null,
-    "cargo": "GERENTE OP DE TI",
-    "departamento": "ENGEMON IT",
-    "gestorDireto": "RODRIGO FERNANDO FERNANDES"
   },
   {
     "id": 2033956,
@@ -6030,15 +5985,6 @@
     "gestorDireto": "EDISLEIDE AZEVEDO SAMPAIO"
   },
   {
-    "id": 2068370,
-    "nome": "SILVIO FERNANDO COUTINHO SEROA",
-    "email": "silvio.seroa@engemon.com.br",
-    "cpf": "59454369768",
-    "cargo": "GERENTE DE QUALIDADE",
-    "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "MARCOS ANTONIO BRAZIL RAMOS"
-  },
-  {
     "id": 2068371,
     "nome": "ALEXSANDER WILLIAM DE SOUZA GONÇALVES",
     "email": "alexsander.goncalves@engemon.com.br",
@@ -6336,15 +6282,6 @@
     "gestorDireto": "EDISLEIDE AZEVEDO SAMPAIO"
   },
   {
-    "id": 2106506,
-    "nome": "CARLOS EDUARDO DE MOURA FAUSTINO",
-    "email": "carlos.faustino@engemon.com.br",
-    "cpf": null,
-    "cargo": "GERENTE DE CONTAS",
-    "departamento": "ENGEMON IT",
-    "gestorDireto": "EDISLEIDE AZEVEDO SAMPAIO"
-  },
-  {
     "id": 2106587,
     "nome": "ABRAÃO DAVID PEREIRA MATHIAS",
     "email": "abraao.mathias@engemon.com.br",
@@ -6390,15 +6327,6 @@
     "gestorDireto": "LUIZ COIMBRA BITTENCOURT COTRIM NETO"
   },
   {
-    "id": 2106783,
-    "nome": "ROMULO SANDRO VIEIRA DOS SANTOS MACEDO",
-    "email": "romulo.macedo@engemon.com.br",
-    "cpf": "61212903234",
-    "cargo": "COORD DE COMPRAS",
-    "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "EDUARDO ALBERTO MAIORKI"
-  },
-  {
     "id": 2121582,
     "nome": "JHENIFFER ZWIEREWICZ RAMOS",
     "email": "jheniffer.ramos@engemon.com.br",
@@ -6415,15 +6343,6 @@
     "cargo": "COMPRADOR JR",
     "departamento": "SUPPLY CHAIN",
     "gestorDireto": "RICARDO LUIZ DE ANDRADE GONÇALVES"
-  },
-  {
-    "id": 2129259,
-    "nome": "Felipe Alves Rodrigues",
-    "email": "felipe_maori31@hotmail.com",
-    "cpf": "41453990801",
-    "cargo": "TEC SUPORTE PL",
-    "departamento": "IT",
-    "gestorDireto": "AMILTON BATISTA DE ADORNO FILHO"
   },
   {
     "id": 2129262,
@@ -6476,15 +6395,6 @@
     "email": "eduardo.maiorki@engemon.com.br",
     "cpf": "01340488655",
     "cargo": " Gerente de Suprimentos ",
-    "departamento": "PETROBRAS EDISE RJ",
-    "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
-  },
-  {
-    "id": 2184056,
-    "nome": "ELIAS FERNANDO DE FREITAS",
-    "email": "elias.freitas@engemon.com.br",
-    "cpf": "69558957615",
-    "cargo": "GERENTE ADMINISTRATIVO",
     "departamento": "PETROBRAS EDISE RJ",
     "gestorDireto": "ADOLFO DE MORAES BARROS JUNIOR"
   },
@@ -8118,15 +8028,6 @@
     "gestorDireto": "DAVI ALMEIDA SANTOS"
   },
   {
-    "id": 2369008,
-    "nome": "Leandro de Souza Silveira",
-    "email": "lsilveirajss@gmail.com",
-    "cpf": "07458308702",
-    "cargo": "TEC SEG TRABALHO",
-    "departamento": "SST - Saúde e Segurança do Trabalho",
-    "gestorDireto": "ANDERSON MESSIAS GALVAO DOMINGUES"
-  },
-  {
     "id": 2369195,
     "nome": "EDNELSON ADRIANO",
     "email": "ednelsonadriano@gmail.com",
@@ -8901,15 +8802,6 @@
     "gestorDireto": "ROGERIO LUIZ DE SA"
   },
   {
-    "id": 2381707,
-    "nome": "DANIEL VIEIRA ALVES",
-    "email": "daniel.vieira@engemon.com.br",
-    "cpf": "40670859826",
-    "cargo": "COORDENADOR DE TI SE",
-    "departamento": "IT-OPERACAO HAAS - 01 000501703",
-    "gestorDireto": "RODRIGO FERNANDO FERNANDES"
-  },
-  {
     "id": 2381717,
     "nome": "MARCELO FIGUEIREDO DA SILVA",
     "email": "marcelo.figueiredo@engemon.com.br",
@@ -9571,15 +9463,6 @@
     "nome": "FATIMA APARECIDA SILVINO DE ARAUJO",
     "email": "fatima.araujo@engemon.com.br",
     "cpf": "14351470810",
-    "cargo": "GERENTE DE CONTAS",
-    "departamento": "VENDAS",
-    "gestorDireto": "EDISLEIDE AZEVEDO SAMPAIO"
-  },
-  {
-    "id": 2409599,
-    "nome": "GABRIELA PINTO PERES DE ANDRADE",
-    "email": "gabriela.andrade@engemon.com.br",
-    "cpf": null,
     "cargo": "GERENTE DE CONTAS",
     "departamento": "VENDAS",
     "gestorDireto": "EDISLEIDE AZEVEDO SAMPAIO"
@@ -10598,15 +10481,6 @@
     "email": "joao.paulo@engemon.com.br",
     "cpf": "32056237890",
     "cargo": "ENGENHEIRO",
-    "departamento": "AENA - PICK UP CONGONHAS - 01 014100100",
-    "gestorDireto": "EDUARDO PEREIRA GUIMARAES"
-  },
-  {
-    "id": 2464135,
-    "nome": "JUAN CARLOS SOTOMAYOR VERGARA",
-    "email": "juan.vergara@engemon.com.br",
-    "cpf": "14807663801",
-    "cargo": "SUPERV OBRAS",
     "departamento": "AENA - PICK UP CONGONHAS - 01 014100100",
     "gestorDireto": "EDUARDO PEREIRA GUIMARAES"
   },
@@ -11653,15 +11527,6 @@
     "cargo": "TEC MICRO INFO I",
     "departamento": "OPERACAO GESTAO DE CLIENTES",
     "gestorDireto": "WELLINGTON SCHUNCK DENELEVI"
-  },
-  {
-    "id": 2495314,
-    "nome": "GABRIEL FELIPE CARNEIRO DE OLIVEIRA",
-    "email": "gabriel.oliveira@engemon.com.br",
-    "cpf": "04921502579",
-    "cargo": "DESENVOLVEDOR C# SR",
-    "departamento": "OPERACAO IMPLANTACAO",
-    "gestorDireto": "RENATO RAFAELLY SANTOS"
   },
   {
     "id": 2495315,
@@ -13237,24 +13102,6 @@
     "cargo": "PROGRAMADOR DE SISTEMAS",
     "departamento": "AJINOMOTO PRORROGACAO 2023",
     "gestorDireto": "FRANCISCO OLIVEIRA DE ASSIS PONTES"
-  },
-  {
-    "id": 2504124,
-    "nome": "GABRIELA STEPHANO DE OLIVEIRA",
-    "email": "gabrielasteoliveira@gmail.com",
-    "cpf": null,
-    "cargo": "COORD SERVICE DESK",
-    "departamento": "IT-DPSP/SER DESK E FIELD_506334",
-    "gestorDireto": null
-  },
-  {
-    "id": 2504125,
-    "nome": "GILBERTO VOLPI AMADEU",
-    "email": "gilberto.amadeu@engemon.com.br",
-    "cpf": "03321161826",
-    "cargo": "ENG CIVIL PL",
-    "departamento": "GRU - AMPLIACAO GRANDE SALA 100883",
-    "gestorDireto": "JOSEILDO APOLONIO DE SANTANA"
   },
   {
     "id": 2504126,
@@ -15793,5 +15640,1265 @@
     "cargo": "HEAD DE GENTE",
     "departamento": "GENTE & GESTÃO",
     "gestorDireto": "ANDRE FRIGATTO"
+  },
+  {
+    "id": 2538334,
+    "nome": "EDUARDO RODRIGUES CAVALCANTE",
+    "email": "eduardo.r.c.contato@gmail.com",
+    "cpf": "39470998863",
+    "cargo": "ELETRICISTA",
+    "departamento": "GRU- BOULEVARD 1010811",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538335,
+    "nome": "JAILTON MIRANDA ALENCAR",
+    "email": "jayltonalencar@gmail.com",
+    "cpf": "04173770537",
+    "cargo": "TEC SEG TRABALHO",
+    "departamento": "AENA - PICK UP CONGONHAS",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538336,
+    "nome": "ANDREA DA SILVA SANTOS",
+    "email": "andreass2002br@hotmail.com",
+    "cpf": "27163914830",
+    "cargo": "TEC SEG TRABALHO II",
+    "departamento": "AENA - PICK UP CONGONHAS",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538337,
+    "nome": "JONATHAN VINICIUS BIAO",
+    "email": "jonathanviniciusbiao@gmail.com",
+    "cpf": "39774095812",
+    "cargo": "ANL MARKETING",
+    "departamento": "MARKETING",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538338,
+    "nome": "ITAMARA DOS SANTOS OLIVEIRA",
+    "email": "itamara.dossantos01@gmail.com",
+    "cpf": "41590308824",
+    "cargo": "ANL DP PL",
+    "departamento": "GENTE & GESTÃO",
+    "gestorDireto": "ADRIANA GUERLANDI DA SILVA"
+  },
+  {
+    "id": 2538339,
+    "nome": "RENATA SOUSA DE PAULA ALMEIDA",
+    "email": "renatasdepaulaalmeida@gmail.com",
+    "cpf": "35946348841",
+    "cargo": "ASSIST REC HUMANOS",
+    "departamento": "GENTE & GESTÃO",
+    "gestorDireto": "KASSULA FERREIRA"
+  },
+  {
+    "id": 2538340,
+    "nome": "LUIS FELIPPE MACEDO",
+    "email": "luis_felippe2012@live.com",
+    "cpf": "43498908820",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "GESTAO VOLANTES SP",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538341,
+    "nome": "SIVALDO ZILISKE PUNICENA",
+    "email": "Sivaldopunicena@gmail.com",
+    "cpf": "16280454770",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - SUDESTE",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538342,
+    "nome": "MAELSON RODRIGUES DA CRUZ",
+    "email": "maelsonpmfrodrigues@gmail.com.br",
+    "cpf": "04010346159",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538343,
+    "nome": "JOSE DIEGO GRACA",
+    "email": "jdiego.sp12@gmail.com",
+    "cpf": "45188833816",
+    "cargo": "OPERADOR BMS II",
+    "departamento": "GESTAO DE MANUT COM 2025",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538344,
+    "nome": "FELIPE FERNANDES",
+    "email": "felipefernandesia20@gmail.com",
+    "cpf": "41846891833",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "UOL - MANUT PREDIAL 1011281 FA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538345,
+    "nome": "EDMILSON JOSE DE SOUZA SANTOS",
+    "email": "icetech011@gmail.com",
+    "cpf": "58475371825",
+    "cargo": "AUX REFRIGERACAO",
+    "departamento": "UOL - MANUT PREDIAL 1011281 FA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538346,
+    "nome": "ANTONIO RODRIGUES VILARIM FILH",
+    "email": "vilarimfilho@gmail.com",
+    "cpf": "17479370881",
+    "cargo": "TEC REFRIGERACAO II",
+    "departamento": "TELEFONICA_CHUCI CONTR MANUTEN",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538347,
+    "nome": "FERNANDO ROCHA SILVA",
+    "email": "fernandorocha.iss@gmail.com",
+    "cpf": "22944579860",
+    "cargo": "TEC MANUT III",
+    "departamento": "TELEFONICA_CHUCI CONTR MANUTEN",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538348,
+    "nome": "FRANCISCO CRISTIANO DE SOUZA N",
+    "email": "cristiano12k@gmail.com",
+    "cpf": "76382117234",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538349,
+    "nome": "FABIO CORREA DE SOUZA",
+    "email": "f.correa.souza01@gmail.com",
+    "cpf": "03372869737",
+    "cargo": "TEC REFRIGERACAO I",
+    "departamento": "CLARO - MANUT E OPERACAO DC MA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538350,
+    "nome": "SANDRO MARCIO CHAVES DOS SANTO",
+    "email": "sandroeletrico.smcds@gmail.com",
+    "cpf": "45331049320",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538351,
+    "nome": "ROMUALDO FAUSTINO",
+    "email": "ROMUALDOFAUST5519@GMAIL.COM",
+    "cpf": "27669356812",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "FEMSA_CONTRATO DE MANUT D.NORT",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538352,
+    "nome": "DIOGO BARBOSA GOIS",
+    "email": "digoisbarbosa@gmail.com",
+    "cpf": "37341551852",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CIRION - CSL PRAIA GRANDE 1011",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538353,
+    "nome": "JOAO VICTOR DOS SANTOS VIEIRA",
+    "email": "jaovictor.170@gmail.com",
+    "cpf": "18591520742",
+    "cargo": "TEC ELETROTEC I",
+    "departamento": "CLARO - MANUT E OPERACAO DC MA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538354,
+    "nome": "GENECY BEZERRA DA SILVA JUNIOR",
+    "email": "Gbsj202234@gmail.com",
+    "cpf": "36452542850",
+    "cargo": "ELETRICISTA",
+    "departamento": "AJINOMOTO/ MANUT PREDIAL 2024",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538355,
+    "nome": "JAMES AVILA SCHEELERG",
+    "email": "jamesavilascheelerg@gmail.com",
+    "cpf": "15539399803",
+    "cargo": "SUPERV MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538356,
+    "nome": "WASHINGTON JOSE DE ARAUJO LUNA",
+    "email": "washington.luna@gmail.com",
+    "cpf": "24766590880",
+    "cargo": "SUPERV DE MANUT I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538357,
+    "nome": "GILBERTO BISPO DAS NEVES",
+    "email": "gilberto.dasneves@hotmail.com",
+    "cpf": "02536075826",
+    "cargo": "SUPERV MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538358,
+    "nome": "JOAO VICTOR DE SOUSA CARMO",
+    "email": "Jaooh_victor@outlook.com",
+    "cpf": "47665265898",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538359,
+    "nome": "DIEGO PIRES OLIVEIRA CRUZ",
+    "email": "di.p.oliveira@hotmail.com",
+    "cpf": "38848630880",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538360,
+    "nome": "PAULO VITOR DE CARVALHO SIQUEI",
+    "email": "paulowizards@hotmail.com",
+    "cpf": "38049365808",
+    "cargo": "OPERADOR BMS I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538361,
+    "nome": "LUIZ BARBOSA JUNIOR",
+    "email": "JUNIORBLUIZ@HOTMAIL.COM",
+    "cpf": "28485656830",
+    "cargo": "OPERADOR BMS I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538362,
+    "nome": "LEONARDO DE MENESES SANTOS",
+    "email": "LEONARDODEMENESESSANTOS@GMAIL.COM",
+    "cpf": "34078786804",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538363,
+    "nome": "CAIO ROBERTO GONCALVES",
+    "email": "CAIO11091990@GMAIL.COM",
+    "cpf": "39195179895",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538364,
+    "nome": "FLAVIO FERNANDO DE LIMA FERREI",
+    "email": "BET.STEVAOLUZ@GMAIL.COM",
+    "cpf": "29726292808",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538365,
+    "nome": "VALDEMIR DA SILVA",
+    "email": "VALDEMIRDASILVA380@GMAIL.COM",
+    "cpf": "22889408833",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538366,
+    "nome": "IGOR GABRIEL MARTINS DA SILVA",
+    "email": "igorgabriellive22@gmail.com",
+    "cpf": "47545233859",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538367,
+    "nome": "ELIEL JOAO BELLUMAT",
+    "email": "ELIELBELLU@GMAIL.COM",
+    "cpf": "31660160820",
+    "cargo": "MEC REFRIGERACAO I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538368,
+    "nome": "RAFAEL ROVATI MENEZES",
+    "email": "ROVATE7@GMAIL.COM",
+    "cpf": "34062774895",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538369,
+    "nome": "JOSE EDSON AMANCIO DA SILVA",
+    "email": "AMANCIOBETO@YAHOO.COM.BR",
+    "cpf": "21525274880",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538370,
+    "nome": "JOSE CICERO FERREIRA DA SILVA",
+    "email": "JC_DEDE1979@HOTMAIL.COM",
+    "cpf": "31417185805",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538371,
+    "nome": "OZIEL TEODOSIO DOS SANTOS",
+    "email": "OZIDANRE@HOTMAIL.COM",
+    "cpf": "83397744334",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538372,
+    "nome": "ELIAS SILVA DE JESUS",
+    "email": "ELIAS.JESUS13352640@GMAIL.COM",
+    "cpf": "09967104856",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538373,
+    "nome": "ANTONIO EDILBERTO TELES AGUIAR",
+    "email": "ANTONIO.TELES@YMAIL.COM",
+    "cpf": "35107267823",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538374,
+    "nome": "WALMIR MACHADO SOARES",
+    "email": "SOARESWALMIR622@GMAIL.COM",
+    "cpf": "25331009867",
+    "cargo": "MEC REFRIGERACAO II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538375,
+    "nome": "GUILHERME FELIX SANTOS",
+    "email": "GUILHERMEFELIXSANTOS23@GMAIL.COM",
+    "cpf": "52409328830",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538376,
+    "nome": "FERNANDO CARDOZO DE SOUZA",
+    "email": "FERNANDOSOUZA0308@GMAIL.COM",
+    "cpf": "35774663833",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538377,
+    "nome": "YCARO DIAS DE SOUZA",
+    "email": "YCARODDS@GMAIL.COM",
+    "cpf": "39850898844",
+    "cargo": "SUPERV DE MANUT I",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538378,
+    "nome": "CARLOS LUCIANO DA SILVA",
+    "email": "carloslucianoviola47@gmail.com",
+    "cpf": "26054905805",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538379,
+    "nome": "JANDERSON ALVES DE ARAUJO",
+    "email": "JANDERSONALVESDEARAUJO6@GMAIL.COM",
+    "cpf": "36048448864",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538380,
+    "nome": "FRANCISCO ANTUNES DE SOUZA",
+    "email": "ANTUNESFILHO02@GMAIL.COM",
+    "cpf": "42402808349",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538381,
+    "nome": "RODRIGO DOS SANTOS FRAGA",
+    "email": "RDFRAGA@HOTMAIL.COM",
+    "cpf": "34137720827",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538382,
+    "nome": "JOEL VIEIRA DOS REIS SANTOS",
+    "email": "JOEL10243119@GMAIL.COM",
+    "cpf": "37183373800",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538383,
+    "nome": "ALEXINALDO FERREIRA DOS SANTOS",
+    "email": "ALEXINALDO.FERREIRA@YAHOO.COM.BR",
+    "cpf": "02871399565",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538384,
+    "nome": "RICARDO DA SILVA MACEDO",
+    "email": "RICARDOMACEDOMACEDO8@GMAIL.COM",
+    "cpf": "03580824392",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538385,
+    "nome": "DANILO CARLOS DA SILVA VIANA",
+    "email": "DVIANA221@GMAIL.COM",
+    "cpf": "33591893889",
+    "cargo": "OPERADOR BMS II",
+    "departamento": "TELEFONICA_CHUCI CONTR MANUTEN",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538386,
+    "nome": "EDUARDO UCHOA DE SOUZA",
+    "email": "ELIANESEIXAS.VILLAR@GMAIL.COM",
+    "cpf": "58411224015",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CIRION - REGIONAL  PORTO ALEGR",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538387,
+    "nome": "FERNANDO JULIO DA SILVA JUNIOR",
+    "email": "JULIOSJR02@GMAIL.COM",
+    "cpf": "38237650867",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "CARE PLUS - MANUTENCAO PREDIAL",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538388,
+    "nome": "GUSTAVO DE CARVALHO",
+    "email": "GUGACARVALHO200@GMAIL.COM",
+    "cpf": "23919712811",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "CARE PLUS - MANUTENCAO PREDIAL",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538389,
+    "nome": "MARIO JORGE SILVA COELHO JUNIO",
+    "email": "MSILVACOELHOJUNIOR@GMAIL.COM",
+    "cpf": "79113168215",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538390,
+    "nome": "ROBERTO DOS SANTOS SILVA",
+    "email": "ROBERTODOSSANTOSSILVASANTOS08@GMAIL.COM",
+    "cpf": "19926454852",
+    "cargo": "TEC MANUT I",
+    "departamento": "CIRION - CSL PRAIA GRANDE 1011",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538391,
+    "nome": "CHARLES FERNANDO DA SILVA SANTOS",
+    "email": "CHARLLESFSSANTOS@GMAIL.COM",
+    "cpf": "10179952498",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "BRADESCO - NORTE, NORDESTE E C",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538392,
+    "nome": "ROBSON WILIAN FIGUEIREDO",
+    "email": "WILIAMFIG@GMAIL.COM",
+    "cpf": "13133088890",
+    "cargo": "OFICIAL DE MANUTENCA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538393,
+    "nome": "ADRIANO FERREIRA DA ROCHA SILV",
+    "email": "FRANADRIANO745@GMAIL.COM",
+    "cpf": "15738011864",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538394,
+    "nome": "KAUAN LUCAS DE SOUZA SANTOS",
+    "email": "kauanlucas122@gmail.com",
+    "cpf": "48182156866",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538395,
+    "nome": "WILLIAM MARQUES DA COSTA",
+    "email": "DACOSTAWILLIAM55@GMAIL.COM",
+    "cpf": "25508949879",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538396,
+    "nome": "ADRIANO NASCIMENTO DA SILVA",
+    "email": "CADASTROS.TESTESIPTV@GMAIL.COM",
+    "cpf": "16704644822",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538397,
+    "nome": "JEFERSON SANTOS DOS SANTOS",
+    "email": "JEFERSOMSANTOSDOSSANTOS@GMAIL.COM",
+    "cpf": "01199370509",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538398,
+    "nome": "SEAN NUNES DA SILVA",
+    "email": "SEANNUNES01@OUTLOOK.COM.BR",
+    "cpf": "50592870847",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538399,
+    "nome": "ANDERSON DE FREITAS LEITE",
+    "email": "ANDERSONFREITAS@GMAIL.COM",
+    "cpf": "34620742880",
+    "cargo": "ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538400,
+    "nome": "JOAO VITOR SANTOS DE JESUS SIL",
+    "email": "JAUMNIHONGO@GMAIL.COM",
+    "cpf": "52007355809",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538401,
+    "nome": "FELIPE SILVA SANTOS",
+    "email": "FELIPESILVASANTOS119@GMAIL.COM",
+    "cpf": "50183975863",
+    "cargo": "AUX ELETRICISTA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538402,
+    "nome": "FRANCISCO NARCELIO PEREIRA",
+    "email": "NARCELIO.ENGENHEIRO@GMAIL.COM",
+    "cpf": "00121796396",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538403,
+    "nome": "PATRICK CARVALHO SANTANA",
+    "email": "PATRICKC.SANTANA@GMAIL.COM",
+    "cpf": "42016303824",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538404,
+    "nome": "EZIO PINHEIRO QUEIROZ DE MELO",
+    "email": "EZIOQUEIROZ@OUTLOOK.COM",
+    "cpf": "29023622855",
+    "cargo": "TEC PLAN E CONTROLE",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538405,
+    "nome": "ANDRE LUIZ OLIVEIRA FERREIRA",
+    "email": "ANDREPIU.INFRA@GMAIL.COM",
+    "cpf": "17627353858",
+    "cargo": "ESPEC INFRAESTRUTURA",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538406,
+    "nome": "CARLOS HENRIQUE DA SILVA",
+    "email": "HENRIQUE4337@OUTLOOK.COM",
+    "cpf": "40164350802",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538407,
+    "nome": "ADRIANO SAVIO",
+    "email": "ADRIANOSAVIO21@GMAIL.COM",
+    "cpf": "41034264893",
+    "cargo": "ELETROMECANICO",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538408,
+    "nome": "DOUGLAS SANTOS GOMES",
+    "email": "DOUGLASLOBISOMEM1267@GMAIL.COM",
+    "cpf": "22684564809",
+    "cargo": "MEC REFRIGERACAO III",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538409,
+    "nome": "JOSE FERNANDO DE ARAUJO",
+    "email": "jf5569244@gmail.com",
+    "cpf": "28942364845",
+    "cargo": "TEC MANUT II",
+    "departamento": "CLARO - CONTRATO INFRA SPC",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538410,
+    "nome": "ANDERSON SOUZA DE ANDRADE",
+    "email": "ANDERSONSA1978@GMAIL.COM",
+    "cpf": "07473049712",
+    "cargo": "TEC REFRIGERACAO I",
+    "departamento": "CLARO - MANUT E OPERACAO DC MA",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538411,
+    "nome": "ALISON JOSE DE SOUZA",
+    "email": "alison.vgsouza@gmail.com",
+    "cpf": "60425434311",
+    "cargo": "ALMOXARIFE JR",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538412,
+    "nome": "ANTONIO SILVA CHAVES",
+    "email": "Chaves39antonio@gmail.com",
+    "cpf": "91260264300",
+    "cargo": "CARPINTEIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538413,
+    "nome": "MIGUEL RIBEIRO MADUREIRA DE PAULA",
+    "email": "noemimiguel2024@gmail.com",
+    "cpf": "15405065765",
+    "cargo": "CARPINTEIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538414,
+    "nome": "BENEDITO LUIZ CARVALHO DA COST",
+    "email": "luizluizcarvalho83@gmail.com",
+    "cpf": "09324936700",
+    "cargo": "ELETRICISTA",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538415,
+    "nome": "ANTONY SOUZA DE ALMEIDA ROSA",
+    "email": "antonnyrosa@gmail.com",
+    "cpf": "13678152740",
+    "cargo": "MARTELETEIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538416,
+    "nome": "MATEUS DE OLIVEIRA DA SILVA",
+    "email": "mateusbryan06@gmail.com",
+    "cpf": "19042583797",
+    "cargo": "MARTELETEIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538417,
+    "nome": "RODRIGO TORRES",
+    "email": "rodrigotorres33333@gmail.com",
+    "cpf": "10932918778",
+    "cargo": "MARTELETEIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538418,
+    "nome": "PAULO DOS SANTOS FELIX",
+    "email": "Paulo.felix2503@gmail.com",
+    "cpf": "07203352722",
+    "cargo": "PEDREIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538419,
+    "nome": "WILSON RODRIGUES DO CARMO",
+    "email": "carmoedificacoes2018@gmail.com",
+    "cpf": "01245170724",
+    "cargo": "PEDREIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538420,
+    "nome": "ALESSANDRO NOGUEIRA SANT ANNA",
+    "email": "alessandrosantanna03@gmail.com",
+    "cpf": "14446754785",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538421,
+    "nome": "ALTAIR DA COSTA RODRIGUES",
+    "email": "altair75rodrigues@gmail.com",
+    "cpf": "01147014744",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538422,
+    "nome": "BRUNO TRINDADE MEIRELLES",
+    "email": "trindadebruno6@gmail.com",
+    "cpf": "32910724808",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538423,
+    "nome": "CARLOS EDUARDO SOARES DA SILVA",
+    "email": "carlos2409gael@gmail.com",
+    "cpf": "18890226757",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538424,
+    "nome": "DENISSON DA SILVA DE OLIVEIRA",
+    "email": "Denis.kju.235@gmail.com",
+    "cpf": "18186482709",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538425,
+    "nome": "GERALDO SANTOS BATISTA JUNIOR",
+    "email": "juninhobatista079@gmail.com",
+    "cpf": "70386588406",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538426,
+    "nome": "HUGO TAVARES NUNES",
+    "email": "Hugotavares46@gmail.com",
+    "cpf": "19378830781",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538427,
+    "nome": "HYURY ASSIS DOS SANTOS",
+    "email": "hyuryassis22@gmail.com",
+    "cpf": "15184645721",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538428,
+    "nome": "IRISMARQUE SANTOS FRANCA DE JE",
+    "email": "irismarque.santos@gmail.com",
+    "cpf": "13846333751",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538429,
+    "nome": "JEFFERSON TAVARES DA SILVA",
+    "email": "jefferson.gyovana18@gmail.com",
+    "cpf": "14693253731",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538430,
+    "nome": "JUNIOR CALDAS DE OLIVEIRA",
+    "email": "jrdamatriz@gmail.com",
+    "cpf": "10516911767",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538431,
+    "nome": "LEONARDO FERNANDES DA COSTA",
+    "email": "fernandesleofc84@gmail.com",
+    "cpf": "09986135761",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538432,
+    "nome": "LEONARDSON ROBSON DE SOUZA",
+    "email": "leonardsonrobson@gmail.com",
+    "cpf": "15528165750",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538433,
+    "nome": "NATHAN SOARES SALLES",
+    "email": "nathan.salles01@gmail.com",
+    "cpf": "12039855769",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538434,
+    "nome": "ROBSON DOS SANTOS GOMES",
+    "email": "rb.robinho33@hotmail.com",
+    "cpf": "09419293700",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538435,
+    "nome": "FERNANDA SILVA DE JESUS",
+    "email": "fsnandasilva04@gmail.com",
+    "cpf": "20164808744",
+    "cargo": "ESTAGIARIO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538436,
+    "nome": "LEONARDO LOPES DUARTE",
+    "email": "miguelitojogos007@gmail.com",
+    "cpf": "12007312719",
+    "cargo": "PEDREIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538437,
+    "nome": "ROBERTA CUNHA DE SOUZA",
+    "email": "cunhaesouza@gmail.com",
+    "cpf": "09061994764",
+    "cargo": "COMPRADOR PL",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538438,
+    "nome": "BRUNO LIMA DE MOURA",
+    "email": "brunolimatelecom21@gmail.com",
+    "cpf": "16284874707",
+    "cargo": "OPERADOR CREMALHEIRA",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538440,
+    "nome": "EDUARDO DA SILVA SANTANA",
+    "email": "eduardo.santana79@hotmail.com",
+    "cpf": "07778878780",
+    "cargo": "SUP INSPECOES",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538441,
+    "nome": "GRACIELE DE SOUZA DIAS",
+    "email": "gracielesouza9@gmail.com",
+    "cpf": "09816109786",
+    "cargo": "SUPERVISOR QUALIDADE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538442,
+    "nome": "WILLIAM CLAYTON DE ALMEIDA",
+    "email": "Williamenzo06072011@gmail.com",
+    "cpf": "12183745789",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538443,
+    "nome": "WESLEY DE LIMA DOS SANTOS",
+    "email": "wesleys2lele@gmail.com",
+    "cpf": "13636636740",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538444,
+    "nome": "SAMUEL DE BARROS DE SANTANA",
+    "email": "samuelbsantana2003@gmail.com",
+    "cpf": "20299246795",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538446,
+    "nome": "RODRIGO MARQUES DE OLIVEIRA",
+    "email": "oliveiramarques.ts2@gmail.com",
+    "cpf": "22946538745",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538447,
+    "nome": "MAXIMILIANO OLIVEIRA DE SOUZA",
+    "email": "maxibaarbeiroo@gmail.com",
+    "cpf": "07562324735",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538448,
+    "nome": "LUCIANO RENATO DE SOUZA",
+    "email": "Lucianovascao1950@gmail.com",
+    "cpf": "15322256792",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538449,
+    "nome": "LUCAS RODRIGUES JACOB",
+    "email": "lkslevado66@gmail.com",
+    "cpf": "15218721719",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538450,
+    "nome": "JOSE LUCAS ADRIANO E SILVA",
+    "email": "adrianolucaas@hotmail.com",
+    "cpf": "13968468759",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538452,
+    "nome": "JHON WENDEU DA SILVA BELARMINO",
+    "email": "jhonwendelpr@outlook.com",
+    "cpf": "15858151795",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538453,
+    "nome": "IVO ALVES MONTEIRO FILHO",
+    "email": "ivoalvesmonteirofilho2@gmail.com",
+    "cpf": "00044986742",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538454,
+    "nome": "FLAVIO JOSE DA SILVA",
+    "email": "flavinhosilva241177@gmail.com",
+    "cpf": "08312164766",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538455,
+    "nome": "DANIEL DOS SANTOS OLIVEIRA",
+    "email": "Do69148@gmail.com",
+    "cpf": "16467386752",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538456,
+    "nome": "ANTONIO MILTON DA SILVA SA",
+    "email": "antoniomiltondasilvasa380@gmail.com",
+    "cpf": "62257557301",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538457,
+    "nome": "AMARILDO FERNANDO SILVA",
+    "email": "fernandoamarildo1@gmail.com",
+    "cpf": "14883258718",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538458,
+    "nome": "JOSE RENATO RIBEIRO FERNANDES",
+    "email": "zezeca.ribeiro80239@gmail.com",
+    "cpf": "08545023782",
+    "cargo": "PEDREIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538459,
+    "nome": "JOAO AUCEMIR DE MESQUITA",
+    "email": "joao.mesquita07@gmail.com",
+    "cpf": "08457477706",
+    "cargo": "PEDREIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538460,
+    "nome": "WILLIAM ROCHA DA MOTA",
+    "email": "Willcarioca22@gmail.com",
+    "cpf": "13686071797",
+    "cargo": "MARTELETEIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538461,
+    "nome": "LUIS FERREIRA DA SILVA",
+    "email": "l43996325138@gmail.com",
+    "cpf": "06405064379",
+    "cargo": "CARPINTEIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538462,
+    "nome": "NDAPIWA OSANA SIBIA SECHENE",
+    "email": "ndapsechene@gmail.com",
+    "cpf": "06688280728",
+    "cargo": "ESTAGIARIO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538463,
+    "nome": "RODRIGO SOUZA DA CONCEICAO",
+    "email": "rodrigonathan003@gmail.com",
+    "cpf": "09507314717",
+    "cargo": "PEDREIRO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538464,
+    "nome": "EDMILSON DA SILVA ABREU",
+    "email": "E-dmilsonjesus2410@gmail.com",
+    "cpf": "08966500730",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538465,
+    "nome": "CARLOS ALEXANDRE VIEIRA BARROS",
+    "email": "Carlosbarros917@gmail.com",
+    "cpf": "10318618745",
+    "cargo": "SERVENTE",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2538466,
+    "nome": "GIANELLI NAZARETH PEREIRA",
+    "email": "gianelli@hotmail.com.br",
+    "cpf": "13292416736",
+    "cargo": "ESTAGIARIO",
+    "departamento": "PETROBRAS EDISE RJ",
+    "gestorDireto": null
+  },
+  {
+    "id": 2541893,
+    "nome": "CRISTIAN JAVIER CHAMBI VARGAS",
+    "email": "vargas19cristian@gmail.com",
+    "cpf": "23557558843",
+    "cargo": "ANL SERV DESK BILING",
+    "departamento": "IT-PIRELLI/SERVICE DESK E FIELD_505828",
+    "gestorDireto": "ISABELLA PRINCIPE TERUEL"
+  },
+  {
+    "id": 2541894,
+    "nome": "JOSUE FERREIRA RIBEIRO",
+    "email": "josufribeiro@gmail.com",
+    "cpf": "46109964808",
+    "cargo": "ANL DE SUPORTE JR",
+    "departamento": "IT-PIRELLI/SERVICEDESK_FIELD_506235",
+    "gestorDireto": "ISABELLA PRINCIPE TERUEL"
+  },
+  {
+    "id": 2541895,
+    "nome": "HAYSON TELES RODRIGUES",
+    "email": "haysonrodrigues43@gmail.com",
+    "cpf": "44928501802",
+    "cargo": "ANL SERVICE DESK JR",
+    "departamento": "IT-DPSP/SER DESK E FIELD_506334",
+    "gestorDireto": "MICHELE BARONI FONTES"
+  },
+  {
+    "id": 2541896,
+    "nome": "THAMIRIS PEREIRA RAMOS",
+    "email": "thamires.ramos.10@gmail.com",
+    "cpf": "44696065880",
+    "cargo": "ANL TCKT MANAGER JR",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738",
+    "gestorDireto": "CELSO HENRIQUE NOGUEIRA LIMA"
+  },
+  {
+    "id": 2541897,
+    "nome": "ALESSANDRO DE ALMEIDA CARVALHO",
+    "email": "alessandrocarvalhobr@gmail.com",
+    "cpf": "09347041718",
+    "cargo": "ANL INFRAESTRUT SR",
+    "departamento": "IT-TAESA/SERVICE DESK_ FIELD SERVICES_50",
+    "gestorDireto": "CAROLINA BELO E COURA"
+  },
+  {
+    "id": 2541898,
+    "nome": "LUANA CRISTINA SOUZA SANTANA",
+    "email": "luanamelisp@gmail.com",
+    "cpf": "08470599526",
+    "cargo": "ASSIST ADM",
+    "departamento": "IT-ZAMP/SD_FIELD SERVICE_506738 BA",
+    "gestorDireto": "RAFAEL ANDRADE DA COSTA"
+  },
+  {
+    "id": 2541899,
+    "nome": "LAERCIO DIAS DE JESUS",
+    "email": "laerciod024@gmail.com",
+    "cpf": "41755263821",
+    "cargo": "TEC SUPORTE JR",
+    "departamento": "IT-CIELO/SD_FD_506675",
+    "gestorDireto": "WAGNER GOES"
+  },
+  {
+    "id": 2541900,
+    "nome": "PABLO RIBEIRO TAVARES",
+    "email": "pablotavares1@icloud.com",
+    "cpf": "54652026889",
+    "cargo": "ANL SERVICE DESK JR",
+    "departamento": "IT-DPSP/SER DESK E FIELD_506334",
+    "gestorDireto": "MICHELE BARONI FONTES"
+  },
+  {
+    "id": 2542021,
+    "nome": "GUILHERME DE SOUZA PIMENTA",
+    "email": "Gdesouzaimenta@gmail.com",
+    "cpf": "37304328851",
+    "cargo": "ANL DE SUPORTE PL",
+    "departamento": "IT-LEO MADEIRASSER DESK FIELD 506251",
+    "gestorDireto": null
+  },
+  {
+    "id": 2542217,
+    "nome": "MATHEUS GOMES ANUNCIATO",
+    "email": "Matheus.anunciato1@gmail.com",
+    "cpf": "50270033823",
+    "cargo": "ANL SERVICE DESK JR",
+    "departamento": "IT-DPSP/SER DESK E FIELD_506334",
+    "gestorDireto": "MICHELE BARONI FONTES"
   }
 ]
